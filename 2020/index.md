@@ -82,8 +82,8 @@ More detailed instructions will be given closer to the workshop date.
 
 ## Important Dates
 
-- Submission deadline: 01 October 2020 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
-- Notification: 30 October 2020
+- Submission deadline: [2 October 2020, 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates)
+- Notification: [30 October 2020, by 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates)
 - Camera-ready: 14 November 2020
 - Workshop: 11 December 2020
 
@@ -120,7 +120,7 @@ Accepted papers and additional supplementary material will be made available on 
 
 The three best papers submitted will be presented as 15-minute contributed talks.
 
-Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index) by 1 October 2020 (Anywhere on Earth).
+Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index) by [2 October 2020, 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates).
 
 
 ### Reviewing mentorship scheme
