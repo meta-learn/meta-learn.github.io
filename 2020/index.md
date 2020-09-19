@@ -7,6 +7,16 @@ weight: -1
 redirect_from: /2020/
 ---
 
+## News & Updates
+
+- Sep 15, 2020: [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
+
+- Sep 2, 2020: CMT open for [submissions](#submission-instructions)!
+
+## Workshop Overview
+
+### Abstract
+
 Recent years have seen rapid progress in meta-learning methods, which transfer knowledge across tasks and domains to learn new tasks more efficiently, optimize the learning process itself, and even generate new learning methods from scratch. Meta-learning can be seen as the logical conclusion of the arc that machine learning has undergone in the last decade, from learning classifiers and policies over hand-crafted features, to learning representations over which classifiers and policies operate, and finally to learning algorithms that themselves acquire representations, classifiers, and policies.
 
 Meta-learning methods are of substantial practical interest. For instance, they have been shown to yield new state-of-the-art automated machine learning algorithms and architectures, and have substantially improved few-shot learning systems. Moreover, the ability to improve one’s own learning capabilities through experience can also be viewed as a hallmark of intelligent beings, and there are strong connections with work on human learning in cognitive science and reward learning in neuroscience.
@@ -29,7 +39,7 @@ This workshop aims to bring together researchers from all the different communit
 
 In terms of prospective participants, our main targets are machine learning researchers interested in the processes related to understanding and improving current meta-learning algorithms. Specific target communities within machine learning include, but are not limited to meta-learning, AutoML, reinforcement learning, deep learning, optimization, evolutionary computation, and Bayesian optimization. We also invite submissions from researchers who study human learning and neuroscience to provide a broad perspective to the attendees.
 
-## Virtual Format
+### Virtual Format
 
 In terms of organizing this workshop in a virtual format, we understand that accessibility across time zones is a significant challenge for a virtual meeting. We will thus offer a mix of synchronous and asynchronous formats that allow participation despite this complication. In thinking about this format, we took inspiration from best practices that emerged from past conferences.
 
@@ -42,7 +52,7 @@ Finally, we will use a dedicated channel on a chat service throughout the event 
 
 More detailed instructions will be given closer to the workshop date.
 
-## Invited Speakers
+### Invited Speakers
 
 <!-- Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAmoi6eEA).  -->
 
@@ -70,7 +80,7 @@ More detailed instructions will be given closer to the workshop date.
  *Authors*
 -->
 
-## Organizers
+### Organizers
 
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
 - [Jeff Clune](https://www.jeffclune.com/) (OpenAI)
@@ -80,14 +90,16 @@ More detailed instructions will be given closer to the workshop date.
 - [Francesco Visin](https://www.linkedin.com/in/francescovisin/?originalSubdomain=it) (DeepMind)
 - [Jane Wang](http://www.janexwang.com) (DeepMind)
 
-## Important Dates
+### Important Dates
 
 - Submission deadline: [2 October 2020, 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates)
 - Notification: [30 October 2020, by 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates)
 - Camera-ready: 14 November 2020
 - Workshop: 11 December 2020
 
-## Schedule
+## Program
+
+### Schedule
 
 | --------:| ---------------------------------------------------
 | 09:00 | Introduction and opening remarks
@@ -122,16 +134,6 @@ The three best papers submitted will be presented as 15-minute contributed talks
 
 Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index) by [2 October 2020, 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates).
 
-
-### Reviewing mentorship scheme
-
-This year we are trialing a new reviewer mentorship scheme, which we hope will improve the future pool of expert reviewers in machine learning. Junior reviewers will be able to provide reviews in a guided setting and will be linked with senior reviewers who will give them feedback and advice throughout the reviewing process. It is our hope that this will be a useful learning experience for reviewers and improve the overall quality of reviewing. 
-
-In order for this to be feasible, all submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can, of course, be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
-
-We anticipate that all reviewers will receive 2-3 papers to review, which will need to be finished by 23 October 2020. 
-
-
 ### FAQ
 
 1. Can supplementary material be added beyond the 6-page limit, and are there any restrictions on it?
@@ -155,6 +157,18 @@ We anticipate that all reviewers will receive 2-3 papers to review, which will n
 
    We cannot confirm this yet, but it is most likely that we will have at most one registration to offer per accepted paper.
 -->
+
+## Review Process
+
+### Reviewing Mentorship
+
+This year we are trialing a new reviewer mentorship scheme, which we hope will improve the future pool of expert reviewers in machine learning. Junior reviewers will be able to provide reviews in a guided setting and will be linked with senior reviewers who will give them feedback and advice throughout the reviewing process. It is our hope that this will be a useful learning experience for reviewers and improve the overall quality of reviewing. 
+
+In order for this to be feasible, all submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can, of course, be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
+
+**If you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSebBTVLq-IRwxsP857MmmTwtTBwyRamghnNLp71I9vr1q6-Jg/viewform?usp=sf_link) by 2 October 2020.**
+
+We anticipate that all reviewers will receive 2-3 papers to review, which will need to be finished by 23 October 2020. 
 
 <!--
 ## Accepted Papers ##
