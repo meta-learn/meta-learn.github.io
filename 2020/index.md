@@ -103,7 +103,8 @@ More detailed instructions will be given closer to the workshop date.
 
 The workshop schedule is aligned with 9 AM to 6 PM [UTC](https://www.timeanddate.com/worldclock/timezone/utc); please see [this converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+on+Meta-Learning+%28MetaLearn+2020%29&iso=20201211T09) for conversion to your specific time zone.
 
-| Beijing (CST) | Berlin (CET) | London (UTC) | New York (EST) | Vancouver (PST)| -
+| Beijing (CST) | Berlin (CET) | London (UTC) | New York (EST) | Vancouver (PST) |
+| ----: | ----: | ----: | ----: | ----: | :------------------------------------- |
 | 17:00 | 10:00 | 09:00 | 04:00 | 01:00 | Introduction and opening remarks 
 | 17:10 | 10:10 | 09:10 | 04:10 | 01:10 | **Invited talk 1**
 | 17:40 | 10:40 | 09:40 | 04:40 | 01:40 | **Contributed talk 1**
