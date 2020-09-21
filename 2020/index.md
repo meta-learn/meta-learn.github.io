@@ -101,26 +101,26 @@ More detailed instructions will be given closer to the workshop date.
 
 ### Schedule
 
-The workshop schedule is aligned with 9 AM to 6 PM [UTC](https://www.timeanddate.com/worldclock/timezone/utc); please see [this converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+on+Meta-Learning+%28MetaLearn+2020%29&iso=20201211T09) for conversion to your specific time zone.
+The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddate.com/worldclock/timezone/utc); please see [this converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+on+Meta-Learning+%28MetaLearn+2020%29&iso=20201211T11) for conversion to your specific time zone.
 
 | Beijing (CST) | Berlin (CET) | London (UTC) | New York (EST) | Vancouver (PST) |
 | ----: | ----: | ----: | ----: | ----: | :------------------------------------- |
-| 17:00 | 10:00 | 09:00 | 04:00 | 01:00 | Introduction and opening remarks 
-| 17:10 | 10:10 | 09:10 | 04:10 | 01:10 | **Invited talk 1**
-| 17:40 | 10:40 | 09:40 | 04:40 | 01:40 | **Contributed talk 1**
-| 18:00 | 11:00 | 10:00 | 05:00 | 02:00 | Poster session 1
-| 19:00 | 12:00 | 11:00 | 06:00 | 03:00 | **Invited talk 2**
-| 19:30 | 12:30 | 11:30 | 06:30 | 03:30 | **Invited talk 3**
-| 20:00 | 13:00 | 12:00 | 07:00 | 04:00 | _Break_
-| 21:00 | 14:00 | 13:00 | 08:00 | 05:00 | Poster session 2
-| 22:00 | 15:00 | 14:00 | 09:00 | 06:00 | **Invited talk 4**
-| 22:30 | 15:30 | 14:30 | 09:30 | 06:30 | **Invited talk 5**
-| 23:00 | 16:00 | 15:00 | 10:00 | 07:00 | Poster session 3
-| 00:00 | 17:00 | 16:00 | 11:00 |	08:00 | **Invited talk 6**
-| 00:30 | 17:30 | 16:30 | 11:30 |	08:30 | **Contributed talk 2**
-| 00:45 | 17:45 | 16:45 | 11:45 |	08:45 | **Contributed talk 3**
-| 01:00 | 18:00 | 17:00 | 12:00 | 09:00 | Panel Discussion
-| 02:00 | 19:00 | 18:00 | 13:00 | 10:00 | _End_
+| 19:00 | 12:00 | 11:00 | 06:00 | 03:00 | Introduction and opening remarks 
+| 19:10 | 12:10 | 11:10 | 06:10 | 03:10 | **Invited talk 1**
+| 19:40 | 12:40 | 11:40 | 06:40 | 03:40 | **Contributed talk 1**
+| 20:00 | 13:00 | 12:00 | 07:00 | 04:00 | Poster session 1
+| 21:00 | 14:00 | 13:00 | 08:00 | 05:00 | **Invited talk 2**
+| 21:30 | 14:30 | 13:30 | 08:30 | 05:30 | **Invited talk 3**
+| 22:00 | 15:00 | 14:00 | 09:00 | 06:00 | _Break_
+| 23:00 | 16:00 | 15:00 | 10:00 | 07:00 | Poster session 2
+| 24:00 | 17:00 | 16:00 | 11:00 | 08:00 | **Invited talk 4**
+| 24:30 | 17:30 | 16:30 | 11:30 | 08:30 | **Invited talk 5**
+| 01:00 | 18:00 | 17:00 | 12:00 | 09:00 | Poster session 3
+| 02:00 | 19:00 | 18:00 | 13:00 |	10:00 | **Invited talk 6**
+| 02:30 | 19:30 | 18:30 | 13:30 |	10:30 | **Contributed talk 2**
+| 02:45 | 19:45 | 18:45 | 13:45 |	10:45 | **Contributed talk 3**
+| 03:00 | 20:00 | 19:00 | 14:00 | 11:00 | Panel Discussion
+| 04:00 | 21:00 | 20:00 | 15:00 | 12:00 | _End_
 
 ## Submission Instructions
 
