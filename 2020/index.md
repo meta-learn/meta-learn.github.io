@@ -126,7 +126,7 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 
 ### Formatting
 
-Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles), but with a maximum of 6 pages (excluding references and supplementary material). Papers should be anonymized upon submission.
+Papers must be in the latest [NeurIPS format](neurips_2020.sty), but with a maximum of 6 pages (excluding references and supplementary material). Papers should be anonymized upon submission.
 
 We understand that many submissions might be previously unsuccessful submissions to conferences such as NeurIPS or ICML. In this case, submissions may be 8 pages, but we ask that you **include the conference reviews and meta-review and as part of supplementary materials.** Please detail how your submission has been revised based on these reviews, or provide reasoning for why no changes have been made. Please note that, although papers which have been already reviewed and suitably revised will be considered stronger, they are still subject to review and might be rejected due to a lack of fit with the workshop. 
 
