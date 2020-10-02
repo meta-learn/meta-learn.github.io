@@ -92,7 +92,7 @@ More detailed instructions will be given closer to the workshop date.
 
 ### Important Dates
 
-- Submission deadline: [2 October 2020, 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates)
+- Submission deadline: [4 October 2020, 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates) - Extended!
 - Notification: [30 October 2020, by 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates)
 - Camera-ready: 14 November 2020
 - Workshop: 11 December 2020
