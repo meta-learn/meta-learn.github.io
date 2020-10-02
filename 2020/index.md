@@ -134,7 +134,7 @@ Accepted papers and additional supplementary material will be made available on 
 
 The three best papers submitted will be presented as 15-minute contributed talks.
 
-Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index) by [2 October 2020, 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates).
+Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index) by [4 October 2020, 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates).
 
 ### FAQ
 
