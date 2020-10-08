@@ -9,6 +9,8 @@ redirect_from: /2020/
 
 ## News & Updates
 
+- Oct 4, 2020: The submission portal has now closed and the reviewing process has begun.
+
 - Sep 15, 2020: [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
 
 - Sep 2, 2020: CMT open for [submissions](#submission-instructions)!
@@ -92,7 +94,7 @@ More detailed instructions will be given closer to the workshop date.
 
 ### Important Dates
 
-- Submission deadline: [4 October 2020, 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates) - Extended!
+- Submission deadline: [4 October 2020, 11:59 PM AoE](https://www.timeanddate.com/time/zones/aoe) - Extended!
 - Notification: [30 October 2020, by 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates)
 - Camera-ready: 14 November 2020
 - Workshop: 11 December 2020
@@ -134,7 +136,7 @@ Accepted papers and additional supplementary material will be made available on 
 
 The three best papers submitted will be presented as 15-minute contributed talks.
 
-Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index) by [4 October 2020, 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates).
+~Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index).~ The submission portal has now closed.
 
 ### FAQ
 
