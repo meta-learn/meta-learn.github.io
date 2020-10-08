@@ -136,7 +136,7 @@ Accepted papers and additional supplementary material will be made available on 
 
 The three best papers submitted will be presented as 15-minute contributed talks.
 
-~Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index).~ The submission portal has now closed.
+Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index). The submission portal has now closed.
 
 ### FAQ
 
