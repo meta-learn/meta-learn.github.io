@@ -9,7 +9,7 @@ redirect_from: /2020/
 
 ## News & Updates
 
-- Oct 4, 2020: The submission portal has now closed and the reviewing process has begun.
+- Oct 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
 
 - Sep 15, 2020: [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
 
@@ -170,9 +170,8 @@ This year we are trialing a new reviewer mentorship scheme, which we hope will i
 
 In order for this to be feasible, all submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can, of course, be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
 
-**If you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSebBTVLq-IRwxsP857MmmTwtTBwyRamghnNLp71I9vr1q6-Jg/viewform?usp=sf_link) by 2 October 2020.**
-
-We anticipate that all reviewers will receive 2-3 papers to review, which will need to be finished by 23 October 2020. 
+If you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSebBTVLq-IRwxsP857MmmTwtTBwyRamghnNLp71I9vr1q6-Jg/viewform?usp=sf_link) by 2 October 2020.
+**The form is now closed; reviews are due on 23 October 2020.** For more detailed information on the review process, please see [this document](https://docs.google.com/document/d/1vRdY8e2ttALw_kzxviejrhkVkiJlJ7YiS3yGm9jykB0/edit?usp=sharing).
 
 <!--
 ## Accepted Papers ##
