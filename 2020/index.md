@@ -9,6 +9,8 @@ redirect_from: /2020/
 
 ## News & Updates
 
+- Oct 30, 2020: Decisions have been sent out. Thank you to everyone who submitted or participated in [the reviewing process](#reviewing-mentorship) process!
+
 - Oct 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
 
 - Sep 15, 2020: [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
