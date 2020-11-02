@@ -130,19 +130,15 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 
 ### Formatting
 
-Papers must be in the latest [NeurIPS format](neurips_2020.sty), but with a maximum of 6 pages (excluding references and supplementary material). Papers should be anonymized upon submission.
+The submission window for this workshop is now closed. Decision notifications were sent out October 30th, 2020. Thank you to all who submitted!
 
-We understand that many submissions might be previously unsuccessful submissions to conferences such as NeurIPS or ICML. In this case, submissions may be 8 pages, but we ask that you **include the conference reviews and meta-review and as part of supplementary materials.** Please detail how your submission has been revised based on these reviews, or provide reasoning for why no changes have been made. Please note that, although papers which have been already reviewed and suitably revised will be considered stronger, they are still subject to review and might be rejected due to a lack of fit with the workshop. 
+We have provided a modified `.sty` file [here](neurips_2020.sty) that appropriately lists the name of the workshop when `\neuripsfinal` is enabled. Please use this style files in conjunction with corresponding LaTeX `.tex` template from the [NeurIPS website](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles) to submit a final camera-ready copy. The camera-ready can be up to <b>8 pages</b>.
 
-Accepted papers and additional supplementary material will be made available on the workshop website. However, this does not constitute an archival publication, and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
-
-The three best papers submitted will be presented as 15-minute contributed talks.
-
-Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index). The submission portal has now closed.
+Accepted papers and supplementary material will be made available on the workshop website. However, these do not constitute archival publications and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
 ### FAQ
 
-1. Can supplementary material be added beyond the 6-page limit, and are there any restrictions on it?
+1. Can supplementary material be added beyond the 6-page limit for submissions, and are there any restrictions on it?
 
    Yes, you may include additional supplementary material, but you should ensure that the main paper is self-contained, since looking at supplementary material is at the discretion of the reviewers. The supplementary material should also follow the same NeurIPS format as the paper and be limited to a reasonable amount (max 10 pages in addition to the main submission).
 
@@ -157,12 +153,10 @@ Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Su
 1. Can a paper be submitted to the workshop that is currently under review or will be under review at a conference during the review phase?
 
    MetaLearn 2020 submissions are 6 pages, i.e., much shorter than standard conference submissions. But from our side, it is perfectly fine to submit a condensed version of a parallel conference submission if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
+   
+1. Is there a page limit constraint for the camera-ready paper?
 
-<!--
-1. If a submission is accepted, is it possible for all authors of the accepted paper to receive a chance to register?
-
-   We cannot confirm this yet, but it is most likely that we will have at most one registration to offer per accepted paper.
--->
+   The page limit for the camera-ready will be 8 pages for all accepted contributions so that authors have space to address comments from the programme committee.
 
 ## Review Process
 
@@ -186,7 +180,7 @@ If you would like to sign up, or recommend somebody, to be either a junior or se
 
 We thank the program committee for shaping the excellent technical program; they are (in alphabetical order):
 
-- Badr AlKhamissi, Alessia Bertugli, Homanga Bharadhwaj, Parminder Bhatia, Surya Bhupatiraju, Jasmin Bogatinovski, Ondrej Bohdal, Quentin Bouniot, Pavel Brazdil, Andrew Brock, Davide Buffelli, Andre Carvalho, Michael Chang, Marco Ciccone, Ignasi Clavera, Ishita Dasgupta, Nikita Dhawan, Rachit Dubey, Praneet Dutta, Thomas Elsken, Dumitru Erhan, Sergio Escalera, Ben Eysenbach, Matthias Feurer, Alexandre Galashov, Rafael Gomes Mantovani, Gauthier Guinet, Abhishek Gupta, Mehrtash Harandi, Leonard Hasenclever, Sean Hendryx, Daniel Hernandez-Lobato, Tin Ho, Kyle Hsu, Yizhou Huang, Frank Hutter, Maximilian Igl, Yiren Jian, Xiang Jiang, Martin Josifoski, Udayan Khurana, Louis Kirsch, Aaron Klein, Lars Kotthoff, Aviral Kumar, Sreejan Kumar, Nicholas Kuo, Angus Lamb, Robert Lange, Hung-yi Lee, Benjamin Letham, Ang Li, Rui Li, Chien-Fu Lin, Marius Lindauer, Evan Liu, Javier Lopez-Contreras, Ana Lorena, Divyam Madaan, Parsa Mahmoudieh, Mikhail Mekhedkin-Meskhi, Piotr Mirowski, Eric Mitchell, Igor Mordatch, Ashvin Nair, Cuong Nguyen, Renkun Ni, Eyvind Niklasson, Mateusz Ochal, Randal Olson, Razvan Pascanu, Massimiliano Patacchiola, Valerio Perrone, Valerio Perrone, Marc Pickett, Vitchyr Pong, Paul Pu Liang, Damir Pulatov, Aniruddh Raghu, Kate Rakelly, Ettore Randazzo, Dushyant Rao, Hootan Rashtian, Ievgen Redko, Mengye Ren, Stephen Roberts, Karsten Roth, Jonas Rothfuss, Andrei Rusu, Horst Samulowitz, Evgeny Saveliev, Alan Savushkin, Robin Schmucker, Brandon Schoenfeld, Ethan Shen, Julien Siems, Devendra Singh Chaplot, Samarth Sinha, Steven Skomski, Jake Snell, Sungryull Sohn, Artur Souza, Aravind Srinivas, Nishan Srishankar, Bradly Stadie, Valdimar Steinar Ericsson Laenen, Mihai Suteu, Kevin Swersky, Jakub Sygnowski, Yunfei Teng, Louis Tiao, Alexander Tornede, Eleni Triantafillou, Johannes von Oswald, Jianan Wang, Haozhu Wang, Orion Weller, John Willes, Jiajun Wu, Kelvin Xu, Sharare Zehtabian, Marvin Zhang, Lucas Zimmer, Luisa Zintgraf, Liu Ziyin, Stefano Vincenzi
+Badr AlKhamissi, Alessia Bertugli, Homanga Bharadhwaj, Parminder Bhatia, Surya Bhupatiraju, Jasmin Bogatinovski, Ondrej Bohdal, Quentin Bouniot, Pavel Brazdil, Andrew Brock, Davide Buffelli, Andre Carvalho, Michael Chang, Marco Ciccone, Ignasi Clavera, Ishita Dasgupta, Nikita Dhawan, Rachit Dubey, Praneet Dutta, Thomas Elsken, Dumitru Erhan, Sergio Escalera, Ben Eysenbach, Matthias Feurer, Alexandre Galashov, Rafael Gomes Mantovani, Gauthier Guinet, Abhishek Gupta, Mehrtash Harandi, Leonard Hasenclever, Sean Hendryx, Daniel Hernandez-Lobato, Tin Ho, Kyle Hsu, Yizhou Huang, Frank Hutter, Maximilian Igl, Yiren Jian, Xiang Jiang, Martin Josifoski, Udayan Khurana, Louis Kirsch, Aaron Klein, Lars Kotthoff, Aviral Kumar, Sreejan Kumar, Nicholas Kuo, Angus Lamb, Robert Lange, Hung-yi Lee, Benjamin Letham, Ang Li, Rui Li, Chien-Fu Lin, Marius Lindauer, Evan Liu, Javier Lopez-Contreras, Ana Lorena, Divyam Madaan, Parsa Mahmoudieh, Mikhail Mekhedkin-Meskhi, Piotr Mirowski, Eric Mitchell, Igor Mordatch, Ashvin Nair, Cuong Nguyen, Renkun Ni, Eyvind Niklasson, Mateusz Ochal, Randal Olson, Razvan Pascanu, Massimiliano Patacchiola, Valerio Perrone, Valerio Perrone, Marc Pickett, Vitchyr Pong, Paul Pu Liang, Damir Pulatov, Aniruddh Raghu, Kate Rakelly, Ettore Randazzo, Dushyant Rao, Hootan Rashtian, Ievgen Redko, Mengye Ren, Stephen Roberts, Karsten Roth, Jonas Rothfuss, Andrei Rusu, Horst Samulowitz, Evgeny Saveliev, Alan Savushkin, Robin Schmucker, Brandon Schoenfeld, Ethan Shen, Julien Siems, Devendra Singh Chaplot, Samarth Sinha, Steven Skomski, Jake Snell, Sungryull Sohn, Artur Souza, Aravind Srinivas, Nishan Srishankar, Bradly Stadie, Valdimar Steinar Ericsson Laenen, Mihai Suteu, Kevin Swersky, Jakub Sygnowski, Yunfei Teng, Louis Tiao, Alexander Tornede, Eleni Triantafillou, Johannes von Oswald, Jianan Wang, Haozhu Wang, Orion Weller, John Willes, Jiajun Wu, Kelvin Xu, Sharare Zehtabian, Marvin Zhang, Lucas Zimmer, Luisa Zintgraf, Liu Ziyin, Stefano Vincenzi
 
 ## Past Workshops
 
