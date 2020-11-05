@@ -98,7 +98,8 @@ More detailed instructions will be given closer to the workshop date.
 
 - Submission deadline: [4 October 2020, 11:59 PM AoE](https://www.timeanddate.com/time/zones/aoe) - Extended!
 - Notification: [30 October 2020, by 06:00 PM PDT](https://neurips.cc/Conferences/2020/Dates)
-- Camera-ready: 14 November 2020
+- Video recording to SlidesLive: [14 November 2020, 11:59 PM PST](https://www.timeanddate.com/time/zones/pst)
+- Camera-ready submission (paper + poster) to CMT: [27 November 2020, 11:59 PM AoE](https://www.timeanddate.com/time/zones/aoe)
 - Workshop: 11 December 2020
 
 ## Program
