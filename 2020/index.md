@@ -191,7 +191,7 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 *Julien Siems, Lucas Zimmer, Arber Zela, Jovita Lukasik, Margret Keuper, Frank Hutter*
 
 - **Prototypical Region Proposal Networks for Few-shot Localization and Classification**.
-*Steven E Skomski, Aaron R Tuor, Andrew Avila, Lauren Phillips, Zachary New, Henry Kvinge, Courtney Corley, Nathan Hodas*
+*Elliott Skomski, Aaron R Tuor, Andrew Avila, Lauren Phillips, Zachary New, Henry Kvinge, Courtney Corley, Nathan Hodas*
 
 - **Continual Model-Based Reinforcement Learning with Hypernetworks**.
 *Yizhou Huang, Kevin Xie, Homanga Bharadhwaj, Florian Shkurti*
