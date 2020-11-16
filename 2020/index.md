@@ -114,14 +114,14 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 | 19:10 | 12:10 | 11:10 | 06:10 | 03:10 | **Invited talk 1**: [Frank Hutter](http://http://ml.informatik.uni-freiburg.de/~hutter/)
 | 19:40 | 12:40 | 11:40 | 06:40 | 03:40 | **Contributed talk 1**
 | 20:00 | 13:00 | 12:00 | 07:00 | 04:00 | Poster session 1
-| 21:00 | 14:00 | 13:00 | 08:00 | 05:00 | **Invited talk 2**: [Luisa Zintgraf](https://luisazintgraf.com/)
-| 21:30 | 14:30 | 13:30 | 08:30 | 05:30 | **Invited talk 3**: [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/index.html)
+| 21:00 | 14:00 | 13:00 | 08:00 | 05:00 | **Invited talk 2**: [Luisa Zintgraf](https://luisazintgraf.com/), "Exploration in Meta-Reinforcement Learning"
+| 21:30 | 14:30 | 13:30 | 08:30 | 05:30 | **Invited talk 3**: [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/index.html), "Meta-Learning: Representations and Objectives "
 | 22:00 | 15:00 | 14:00 | 09:00 | 06:00 | _Break_
 | 23:00 | 16:00 | 15:00 | 10:00 | 07:00 | Poster session 2
 | 24:00 | 17:00 | 16:00 | 11:00 | 08:00 | **Invited talk 4**: [Louis Kirsch](http://louiskirsch.com/)
 | 24:30 | 17:30 | 16:30 | 11:30 | 08:30 | **Invited talk 5**: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li) 
 | 01:00 | 18:00 | 17:00 | 12:00 | 09:00 | Poster session 3
-| 02:00 | 19:00 | 18:00 | 13:00 |	10:00 | **Invited talk 6**: [Kate Rakelly](http://people.eecs.berkeley.edu/~rakelly/)
+| 02:00 | 19:00 | 18:00 | 13:00 |	10:00 | **Invited talk 6**: [Kate Rakelly](http://people.eecs.berkeley.edu/~rakelly/), "An inference perspective on meta-reinforcement learning"
 | 02:30 | 19:30 | 18:30 | 13:30 |	10:30 | **Contributed talk 2**
 | 02:45 | 19:45 | 18:45 | 13:45 |	10:45 | **Contributed talk 3**
 | 03:00 | 20:00 | 19:00 | 14:00 | 11:00 | Panel Discussion
