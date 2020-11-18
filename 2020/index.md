@@ -13,7 +13,7 @@ redirect_from: /2020/
 
 - Nov 14, 2020: The workshop [schedule](#schedule) has been finalized! You can also find it on [NeurIPS.cc](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16141).
 
-- Oct 30, 2020: Decisions have been sent out. Thank you to everyone who submitted or participated in [the reviewing process](#reviewing-mentorship) process!
+- Oct 30, 2020: Decisions have been sent out. Thank you to everyone who submitted or participated in [the reviewing process](#reviewing-mentorship)!
 
 - Oct 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
 
