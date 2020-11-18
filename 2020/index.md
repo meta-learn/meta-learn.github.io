@@ -9,7 +9,7 @@ redirect_from: /2020/
 
 ## News & Updates
 
-- Nov 16, 2020: Registration funding for presenters and junior reviewers has been distributed.
+- Nov 16, 2020: NeurIPS registration funding from the workshop for presenters and junior reviewers has been distributed. The NeurIPS conference also has a funding program [here](https://neurips.cc/Surveys/49).
 
 - Nov 14, 2020: The workshop [schedule](#schedule) has been finalized! You can also find it on [NeurIPS.cc](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16141).
 
