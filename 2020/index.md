@@ -115,7 +115,7 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 | Beijing (CST) | Berlin (CET) | London (UTC) | New York (EST) | Vancouver (PST) |
 | ----: | ----: | ----: | ----: | ----: | :------------------------------------- |
 | 19:00 | 12:00 | 11:00 | 06:00 | 03:00 | Introduction and opening remarks 
-| 19:10 | 12:10 | 11:10 | 06:10 | 03:10 | **Invited talk 1**: [Frank Hutter](http://http://ml.informatik.uni-freiburg.de/~hutter/)
+| 19:10 | 12:10 | 11:10 | 06:10 | 03:10 | **Invited talk 1**: [Frank Hutter](http://http://ml.informatik.uni-freiburg.de/~hutter/), "Meta-learning neural architectures, initial weights, hyperparameters, and algorithm components"
 | 19:40 | 12:40 | 11:40 | 06:40 | 03:40 | **Contributed talk 1**: Steinar Laenen, "On episodes, Prototypical Networks, and few-shot learning"
 | 20:00 | 13:00 | 12:00 | 07:00 | 04:00 | Poster session 1
 | 21:00 | 14:00 | 13:00 | 08:00 | 05:00 | **Invited talk 2**: [Luisa Zintgraf](https://luisazintgraf.com/), "Exploration in meta-reinforcement learning"
