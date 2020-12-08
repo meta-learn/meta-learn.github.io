@@ -27,7 +27,7 @@ redirect_from: /2020/
 <center>
 Panel discussion questions:
 <div id="main_block">
-        <iframe src="https://app.sli.do/event/uihcwqn4" height="100%" width="60%"></iframe>
+        <iframe src="https://app.sli.do/event/uihcwqn4" height="100%" width="60% style="min-height: 560px;"></iframe>
 </div>
 </center>
 
