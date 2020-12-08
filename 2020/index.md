@@ -24,7 +24,8 @@ redirect_from: /2020/
 
 ## Live participation
 
-- Access the virtual workshop page [here](https://neurips.cc/virtual/2020/protected/workshop_16141.html) (Requires registration)
+- Access the livestream on our virtual workshop page [here](https://neurips.cc/virtual/2020/protected/workshop_16141.html) (Requires registration)
+- Talk to us on [rocket.chat](https://neurips2020.rocket.chat/channel/meta-learning-99) (Requires registration)
 
 <center>
 Panel discussion questions:
