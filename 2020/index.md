@@ -115,17 +115,17 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 | Beijing (CST) | Berlin (CET) | London (UTC) | New York (EST) | Vancouver (PST) |
 | ----: | ----: | ----: | ----: | ----: | :------------------------------------- |
 | 19:00 | 12:00 | 11:00 | 06:00 | 03:00 | Introduction and opening remarks 
-| 19:10 | 12:10 | 11:10 | 06:10 | 03:10 | **Invited talk 1**: [Frank Hutter](http://http://ml.informatik.uni-freiburg.de/~hutter/), "Meta-learning neural architectures, initial weights, hyperparameters, and algorithm components" [here](https://app.sli.do/event/qz6tvw2l))
+| 19:10 | 12:10 | 11:10 | 06:10 | 03:10 | **Invited talk 1**: [Frank Hutter](http://http://ml.informatik.uni-freiburg.de/~hutter/), "Meta-learning neural architectures, initial weights, hyperparameters, and algorithm components". [Q&A](https://app.sli.do/event/qz6tvw2l)
 | 19:40 | 12:40 | 11:40 | 06:40 | 03:40 | **Contributed talk 1**: Steinar Laenen, "On episodes, Prototypical Networks, and few-shot learning"
 | 20:00 | 13:00 | 12:00 | 07:00 | 04:00 | Poster session 1
-| 21:00 | 14:00 | 13:00 | 08:00 | 05:00 | **Invited talk 2**: [Luisa Zintgraf](https://luisazintgraf.com/), "Exploration in meta-reinforcement learning" (Ask questions [here](https://app.sli.do/event/3izdak3o))
-| 21:30 | 14:30 | 13:30 | 08:30 | 05:30 | **Invited talk 3**: [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/index.html), "Meta-learning: Representations and objectives" (Ask questions [here](https://app.sli.do/event/58boxk0i))
+| 21:00 | 14:00 | 13:00 | 08:00 | 05:00 | **Invited talk 2**: [Luisa Zintgraf](https://luisazintgraf.com/), "Exploration in meta-reinforcement learning". [Q&A](https://app.sli.do/event/3izdak3o)
+| 21:30 | 14:30 | 13:30 | 08:30 | 05:30 | **Invited talk 3**: [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/index.html), "Meta-learning: Representations and objectives". [Q&A](https://app.sli.do/event/58boxk0i)
 | 22:00 | 15:00 | 14:00 | 09:00 | 06:00 | _Break_
 | 23:00 | 16:00 | 15:00 | 10:00 | 07:00 | Poster session 2
-| 24:00 | 17:00 | 16:00 | 11:00 | 08:00 | **Invited talk 4**: [Louis Kirsch](http://louiskirsch.com/), "General meta-learning" (Ask questions [here](https://app.sli.do/event/n8vmqbsj))
-| 24:30 | 17:30 | 16:30 | 11:30 | 08:30 | **Invited talk 5**: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li), "Creating diverse tasks to catalyze robot learning" (Ask questions [here](https://app.sli.do/event/birytqhi))
+| 24:00 | 17:00 | 16:00 | 11:00 | 08:00 | **Invited talk 4**: [Louis Kirsch](http://louiskirsch.com/), "General meta-learning". [Q&A](https://app.sli.do/event/n8vmqbsj)
+| 24:30 | 17:30 | 16:30 | 11:30 | 08:30 | **Invited talk 5**: [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li), "Creating diverse tasks to catalyze robot learning". [Q&A](https://app.sli.do/event/birytqhi)
 | 01:00 | 18:00 | 17:00 | 12:00 | 09:00 | Poster session 3
-| 02:00 | 19:00 | 18:00 | 13:00 |	10:00 | **Invited talk 6**: [Kate Rakelly](http://people.eecs.berkeley.edu/~rakelly/), "An inference perspective on meta-reinforcement learning" (Ask questions [here](https://app.sli.do/event/eunlzjq0))
+| 02:00 | 19:00 | 18:00 | 13:00 |	10:00 | **Invited talk 6**: [Kate Rakelly](http://people.eecs.berkeley.edu/~rakelly/), "An inference perspective on meta-reinforcement learning". [Q&A](https://app.sli.do/event/eunlzjq0)
 | 02:30 | 19:30 | 18:30 | 13:30 |	10:30 | **Contributed talk 2**: Niru Maheswaranathan, "Reverse-engineering learned optimizers reveals known and novel mechanisms"
 | 02:45 | 19:45 | 18:45 | 13:45 |	10:45 | **Contributed talk 3**: Louis Tiao, "Bayesian optimization by density ratio estimation"
 | 03:00 | 20:00 | 19:00 | 14:00 | 11:00 | Panel Discussion (Ask questions [here](https://app.sli.do/event/uihcwqn4))
