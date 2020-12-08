@@ -24,6 +24,8 @@ redirect_from: /2020/
 
 ## Live participation
 
+- Access the virtual workshop page [here](https://neurips.cc/virtual/2020/protected/workshop_16141.html) (Requires registration)
+
 <center>
 Panel discussion questions:
 <div id="main_block">
