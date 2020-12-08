@@ -148,151 +148,145 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 ## Accepted Papers
 
 - **Reverse engineering learned optimizers reveals known and novel mechanisms**.
-*Niru Maheswaranathan, David Sussillo, Luke Metz, Ruoxi Sun, Jascha Sohl-Dickstein*
+*Niru Maheswaranathan, David Sussillo, Luke Metz, Ruoxi Sun, Jascha Sohl-Dickstein*. Poster Sessions: 3
 
 - **On Episodes, Prototypical Networks, and Few-Shot Learning**.
-*Steinar Laenen, Luca Bertinetto*
+*Steinar Laenen, Luca Bertinetto*. Poster Sessions: 1
 
 - **Bayesian Optimization by Density Ratio Estimation**.
-*Louis C Tiao, Aaron Klein, Cedric Archambeau, Edwin V. Bonilla, Matthias Seeger, Fabio Ramos*
+*Louis C Tiao, Aaron Klein, Cedric Archambeau, Edwin V. Bonilla, Matthias Seeger, Fabio Ramos*. Poster Sessions: 1, 2, 3
 
 - **Contextual HyperNetworks for Novel Feature Adaptation**.
-*Angus Lamb, Evgeny Saveliev, Yingzhen Li, Sebastian Tschiatschek, Camilla Longden, Simon Woodhead, Jose Miguel Hernandez-Lobato, Richard E. Turner, Pashmina Cameron, Cheng Zhang*
+*Angus Lamb, Evgeny Saveliev, Yingzhen Li, Sebastian Tschiatschek, Camilla Longden, Simon Woodhead, Jose Miguel Hernandez-Lobato, Richard E. Turner, Pashmina Cameron, Cheng Zhang*. Poster Sessions: 1, 2
 
 - **Learning to Generate Noise for Multi-Attack Robustness**.
-*Divyam Madaan, Jinwoo Shin, Sung Ju Hwang*
+*Divyam Madaan, Jinwoo Shin, Sung Ju Hwang*. Poster Sessions: 1, 2
 
 - **Tailoring: encoding inductive biases by optimizing unsupervised objectives at prediction time**.
-*Ferran Alet, Kenji Kawaguchi, Maria Bauza Villalonga, Nurullah Giray Kuru, Tomas Lozano-Perez, Leslie Kaelbling*
+*Ferran Alet, Kenji Kawaguchi, Maria Bauza Villalonga, Nurullah Giray Kuru, Tomas Lozano-Perez, Leslie Kaelbling*. Poster Sessions: 2, 3
 
 - **Model-Agnostic Graph Regularization for Few-Shot Learning**.
-*Ethan Z Shen, Maria Brbic, Nicholas Monath, Jiaqi Zhai, Manzil Zaheer, Jure Leskovec*
+*Ethan Z Shen, Maria Brbic, Nicholas Monath, Jiaqi Zhai, Manzil Zaheer, Jure Leskovec*. Poster Sessions: 2
 
 - **Learning Flexible Classifiers with Shot-CONditional Episodic Training**.
-*Eleni Triantafillou, Vincent Dumoulin, Hugo Larochelle, Richard Zemel*
+*Eleni Triantafillou, Vincent Dumoulin, Hugo Larochelle, Richard Zemel*. Poster Sessions: 2, 3
 
 - **Prior-guided Bayesian Optimization**.
-*Artur L.F. Souza, Luigi Nardi, Leonardo B. Oliveira, Kunle Olukotun, Marius Lindauer, Frank Hutter*
+*Artur L.F. Souza, Luigi Nardi, Leonardo B. Oliveira, Kunle Olukotun, Marius Lindauer, Frank Hutter*. Poster Sessions: 1, 2, 3
 
 - **Is Support Set Diversity Necessary for Meta-Learning?**.
-*Oscar Li, Amrith Setlur, Virginia Smith*
+*Oscar Li, Amrith Setlur, Virginia Smith*. Poster Sessions: 2, 3
 
 - **How Important is the Train-Validation Split in Meta-Learning?**.
-*Yu Bai, Minshuo Chen, Pan Zhou, Tuo Zhao, Jason Lee, Sham Kakade, Huan Wang, Caiming Xiong*
+*Yu Bai, Minshuo Chen, Pan Zhou, Tuo Zhao, Jason Lee, Sham Kakade, Huan Wang, Caiming Xiong*. Poster Sessions: 3
 
 - **Adaptive Risk Minimization: A Meta-Learning Approach for Tackling Group Shift**.
-*Marvin Zhang, Henrik - Marklund, Nikita Dhawan, Abhishek Gupta, Sergey Levine, Chelsea Finn*
+*Marvin Zhang, Henrik - Marklund, Nikita Dhawan, Abhishek Gupta, Sergey Levine, Chelsea Finn*. Poster Sessions: 3
 
 - **Model-Based Meta-Reinforcement Learning for Flight with Suspended Payloads**.
-*Suneel Belkhale*
+*Suneel Belkhale*. Poster Sessions: 2, 3
 
 - **Task Similarity Aware Meta Learning: Theory-inspired Improvement on MAML**.
-*Pan Zhou, Yingtian Zou, Xiao-Tong Yuan, Jiashi Feng, Caiming Xiong, Steven Hoi*
+*Pan Zhou, Yingtian Zou, Xiao-Tong Yuan, Jiashi Feng, Caiming Xiong, Steven Hoi* Poster Sessions: 1
 
 - **HyperVAE: Variational Hyper-Encoding Network**.
-*Phuoc Nguyen, Truyen Tran, Sunil Gupta, Santu Rana, Svetha Venkatesh, Hieu-Chi Dam*
+*Phuoc Nguyen, Truyen Tran, Sunil Gupta, Santu Rana, Svetha Venkatesh, Hieu-Chi Dam* Poster Sessions: 1
 
 - **Synthetic Petri Dish: A Novel Surrogate Model for Rapid Architecture Search**.
-*Aditya Rawal, Joel Lehman, Felipe Petroski Such, Jeff Clune, Kenneth O Stanley*
+*Aditya Rawal, Joel Lehman, Felipe Petroski Such, Jeff Clune, Kenneth O Stanley*. Poster Sessions: 1, 2, 3
 
 - **Meta-Learning Initializations for Image Segmentation**.
-*Sean M Hendryx, Andrew Leach, Paul Hein, Clayton Morrison*
+*Sean M Hendryx, Andrew Leach, Paul Hein, Clayton Morrison*. Poster Sessions: 3
 
 - **Data Augmentation for Meta-Learning**.
-*Renkun Ni, Micah Goldblum, Amr Sharaf, Kezhi Kong, Tom Goldstein*
-
-- **Exploring Representation Learning for Flexible Few-Shot Tasks**.
-*Mengye Ren, Eleni Triantafillou, Kuan-Chieh Wang, James R Lucas, Jake Snell, Xaq Pitkow, Andreas Tolias, Richard Zemel*
+*Renkun Ni, Micah Goldblum, Amr Sharaf, Kezhi Kong, Tom Goldstein*. Poster Sessions: 2
 
 - **NAS-Bench-301 and the Case for Surrogate Benchmarks for Neural Architecture Search**.
-*Julien Siems, Lucas Zimmer, Arber Zela, Jovita Lukasik, Margret Keuper, Frank Hutter*
+*Julien Siems, Lucas Zimmer, Arber Zela, Jovita Lukasik, Margret Keuper, Frank Hutter*. Poster Sessions: 1
 
 - **Prototypical Region Proposal Networks for Few-shot Localization and Classification**.
-*Elliott Skomski, Aaron R Tuor, Andrew Avila, Lauren Phillips, Zachary New, Henry Kvinge, Courtney Corley, Nathan Hodas*
+*Elliott Skomski, Aaron R Tuor, Andrew Avila, Lauren Phillips, Zachary New, Henry Kvinge, Courtney Corley, Nathan Hodas*. Poster Sessions: 3
 
 - **Continual Model-Based Reinforcement Learning with Hypernetworks**.
-*Yizhou Huang, Kevin Xie, Homanga Bharadhwaj, Florian Shkurti*
+*Yizhou Huang, Kevin Xie, Homanga Bharadhwaj, Florian Shkurti*. Poster Sessions: 2, 3
 
 - **MAster of PuPpets: Model-Agnostic Meta-Learning via Pre-trained Parameters for Natural Language Generation**.
-*Chien-Fu Lin, Hung-yi Lee*
+*Chien-Fu Lin, Hung-yi Lee*. Poster Sessions: 1, 2
 
 - **Few-Shot Unsupervised Continual Learning through Meta-Examples**.
-*Alessia Bertugli, Stefano Vincenzi, SIMONE CALDERARA, Andrea Passerini*
+*Alessia Bertugli, Stefano Vincenzi, SIMONE CALDERARA, Andrea Passerini*. Poster Sessions: 1, 2, 3
 
 - **Similarity of classification tasks**.
-*Cuong Cao Nguyen, Thanh-Toan Do, Gustavo Carneiro*
+*Cuong Cao Nguyen, Thanh-Toan Do, Gustavo Carneiro*. Poster Sessions: 1
 
 - **MobileDets: Searching for Object Detection Architecture for Mobile Accelerators**.
 *Yunyang Xiong, Hanxiao Liu, Suyog Gupta, Berkin Akin, Gabriel Bender, Yongzhe Wang, Pieter-Jan Kindermans, Mingxing Tan, Prof Singh, Bo Chen*
 
 - **Towards Meta-Algorithm Selection**.
-*Alexander Tornede, Marcel Wever, Eyke Hüllermeier*
+*Alexander Tornede, Marcel Wever, Eyke Hüllermeier*. Poster Sessions: 1
 
 - **Meta-Learning via Hypernetworks**.
-*Dominic Zhao, Johannes von Oswald, Seijin Kobayashi, João Sacramento, Benjamin F. Grewe*
+*Dominic Zhao, Johannes von Oswald, Seijin Kobayashi, João Sacramento, Benjamin F. Grewe*. Poster Sessions: 1, 2, 3
 
-- **Open-Set Incremental Learning viaBayesian Prototypical Embeddings**.
-*John Willes, James Harrison, Chelsea Finn, Marco Pavone, Steven L Waslander*
+- **Open-Set Incremental Learning via Bayesian Prototypical Embeddings**.
+*John Willes, James Harrison, Chelsea Finn, Marco Pavone, Steven L Waslander*. Poster Sessions: 2
 
 - **Multi-Objective Multi-Fidelity Hyperparameter Optimization with Application to Fairness**.
-*Robin Schmucker, Michele Donini, Valerio Perrone, Muhammad Bilal Zafar, Cedric Archambeau*
+*Robin Schmucker, Michele Donini, Valerio Perrone, Muhammad Bilal Zafar, Cedric Archambeau*. Poster Sessions: 3
 
 - **Meta-Learning of Compositional Task Distributions in Humans and Machines**.
-*Sreejan Kumar, Ishita Dasgupta, Jonathan Cohen, Nathaniel Daw, Tom Griffiths*
+*Sreejan Kumar, Ishita Dasgupta, Jonathan Cohen, Nathaniel Daw, Tom Griffiths*. Poster Sessions: 3
 
 - **Putting Theory to Work: From Learning Bounds to Meta-Learning Algorithms**.
-*Quentin Bouniot, Ievgen Redko, Romaric Audigier, Angélique Loesch, Amaury Habrard*
+*Quentin Bouniot, Ievgen Redko, Romaric Audigier, Angélique Loesch, Amaury Habrard*. Poster Sessions: 1, 2, 3
 
 - **A Meta-Learning Approach for Graph Representation Learning in Multi-Task Settings**.
-*Davide Buffelli, Fabio Vandin*
+*Davide Buffelli, Fabio Vandin*. Poster Sessions: 1, 3
 
 - **Few-shot Sequence Learning with Transformers**.
-*Lajanugen Logeswaran, Ann Lee, Myle Ott, Honglak Lee, Marc'Aurelio Ranzato, Arthur Szlam*
+*Lajanugen Logeswaran, Ann Lee, Myle Ott, Honglak Lee, Marc'Aurelio Ranzato, Arthur Szlam*. Poster Sessions: 2
 
-- **Learning not to learn: Nature versus nurture in silico**.
+- **Learning not to learn: Nature versus nurture in silico**. Poster Sessions: 2, 3
 *Robert T Lange, Henning Sprekeler*
 
 - **Meta-Learning Backpropagation And Improving It**.
-*Louis Kirsch, Jürgen Schmidhuber*
+*Louis Kirsch, Jürgen Schmidhuber*. Poster Sessions: 1, 2, 3
 
 - **Continual learning with direction-constrained optimization**.
-*Yunfei Teng, Anna Choromanska, Murray Campbell*
+*Yunfei Teng, Anna Choromanska, Murray Campbell*. Poster Sessions: 2
 
-- **Learning in Low Resource Modalities via Cross-Modal Generalization**.
-*Paul Pu Liang, Peter Wu, Liu Ziyin, Louis-Philippe Morency, Ruslan Salakhutdinov*
+- **Cross-Modal Generalization: Learning in Low Resource Modalities via Meta-Alignment**.
+*Paul Pu Liang, Peter Wu, Liu Ziyin, Louis-Philippe Morency, Ruslan Salakhutdinov*. Poster Sessions: 3
 
 - **MPLP: Learning a Message Passing Learning Protocol**.
-*Ettore Randazzo, Eyvind Niklasson, Alexander Mordvintsev*
+*Ettore Randazzo, Eyvind Niklasson, Alexander Mordvintsev*. Poster Sessions: 1
 
 - **Pareto-efficient Acquisition Functions for Cost-Aware Bayesian Optimization**.
-*Gauthier Guinet, Valerio Perrone, Cedric Archambeau*
+*Gauthier Guinet, Valerio Perrone, Cedric Archambeau*. Poster Sessions: 2, 3
 
 - **Hyperparameter Transfer Across Developer Adjustments**.
-*Danny Stoll, Jörg K.H. Franke, Diane Wagner, Simon Selg, Frank Hutter*
+*Danny Stoll, Jörg K.H. Franke, Diane Wagner, Simon Selg, Frank Hutter*. Poster Sessions: 2
 
 - **Decoupling Exploration and Exploitation in Meta-Reinforcement Learning without Sacrifices**.
-*Evan Liu, Aditi Raghunathan, Percy Liang, Chelsea Finn*
+*Evan Liu, Aditi Raghunathan, Percy Liang, Chelsea Finn*. Poster Sessions: 3
 
 - **Meta-Learning Bayesian Neural Network Priors Based on PAC-Bayesian Theory**.
-*Jonas Rothfuss, Martin Josifoski, Andreas Krause*
+*Jonas Rothfuss, Martin Josifoski, Andreas Krause*. Poster Sessions: 2, 3
 
 - **Task Meta-Transfer from Limited Parallel Labels**.
-*Yiren Jian, Karim Ahmed, Lorenzo Torresani*
+*Yiren Jian, Karim Ahmed, Lorenzo Torresani*. Poster Sessions: 3
 
 - **Uniform Priors for Meta-Learning**.
-*Samarth Sinha, Karsten Roth, Anirudh Goyal, Marzyeh Ghassemi, Hugo Larochelle, Animesh Garg*
+*Samarth Sinha, Karsten Roth, Anirudh Goyal, Marzyeh Ghassemi, Hugo Larochelle, Animesh Garg*. Poster Sessions: 1, 3
 
 - **Defining Benchmarks for Continual Few-Shot Learning**.
-*Antreas Antoniou, Massimiliano Patacchiola, Mateusz Ochal, Amos Storkey*
+*Antreas Antoniou, Massimiliano Patacchiola, Mateusz Ochal, Amos Storkey*. Poster Sessions: 2, 3
 
 - **Flexible Dataset Distillation: Learn Labels Instead of Images**.
-*Ondrej Bohdal, Yongxin Yang, Timothy Hospedales*
-
-- **TaskSet: A Dataset of Optimization Tasks**.
-*Luke Metz, Niru Maheswaranathan, Ruoxi Sun, Daniel Freeman, Ben Poole, Jascha Sohl-Dickstein*
+*Ondrej Bohdal, Yongxin Yang, Timothy Hospedales*. Poster Sessions: 1, 3
 
 - **Measuring few-shot extrapolation with program induction**.
-*Ferran Alet, Javier Lopez-Contreras, Joshua Tenenbaum, Tomas Lozano-Perez, Leslie Kaelbling*
+*Ferran Alet, Javier Lopez-Contreras, Joshua Tenenbaum, Tomas Lozano-Perez, Leslie Kaelbling*. Poster Sessions: 2, 3
  
  
 ## Submission Instructions
