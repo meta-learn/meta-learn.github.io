@@ -7,6 +7,19 @@ weight: -1
 redirect_from: /2020/
 ---
 
+## Live participation
+
+- Access the livestream on our virtual workshop page [here](https://neurips.cc/virtual/2020/protected/workshop_16141.html).
+- Join the poster sessions on gather.town: [Session 1](https://neurips.gather.town/app/eLVTscsoraKKHuLI/posterRoom0), [Session 2](https://neurips.gather.town/app/ahqPiPXgtuJF1JU7/posterRoom1), [Session 3](https://neurips.gather.town/app/DK1OFwX1bToEpTYi/posterRoom2). You can find the sessions for each paper in the list of accepted papers below.
+- Talk to us on [rocket.chat](https://neurips2020.rocket.chat/channel/meta-learning-99).
+
+<center>
+Panel discussion questions:
+<div id="main_block">
+        <iframe src="https://app.sli.do/event/uihcwqn4" height="100%" width="60%" style="min-height: 560px;"></iframe>
+</div>
+</center>
+
 ## News & Updates
 
 - Nov 16, 2020: NeurIPS registration funding from the workshop for presenters and junior reviewers has been distributed. The NeurIPS conference also has a funding program [here](https://neurips.cc/Surveys/49).
@@ -20,19 +33,6 @@ redirect_from: /2020/
 - Sep 15, 2020: [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
 
 - Sep 2, 2020: CMT open for [submissions](#submission-instructions)!
-
-
-## Live participation
-
-- Access the livestream on our virtual workshop page [here](https://neurips.cc/virtual/2020/protected/workshop_16141.html) (Requires registration)
-- Talk to us on [rocket.chat](https://neurips2020.rocket.chat/channel/meta-learning-99) (Requires registration)
-
-<center>
-Panel discussion questions:
-<div id="main_block">
-        <iframe src="https://app.sli.do/event/uihcwqn4" height="100%" width="60%" style="min-height: 560px;"></iframe>
-</div>
-</center>
 
 ## Workshop Overview
 
