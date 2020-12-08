@@ -21,6 +21,16 @@ redirect_from: /2020/
 
 - Sep 2, 2020: CMT open for [submissions](#submission-instructions)!
 
+
+## Live participation
+
+<center>
+Panel discussion questions:
+<div id="main_block">
+        <iframe src="https://app.sli.do/event/uihcwqn4" height="50%" width="35%"></iframe>
+</div>
+</center>
+
 ## Workshop Overview
 
 ### Abstract
