@@ -9,30 +9,33 @@ redirect_from: /2020/
 
 ## Live participation
 
-- Access the livestream on our virtual workshop page [here](https://neurips.cc/virtual/2020/protected/workshop_16141.html).
-- Join the poster sessions on gather.town: [Session 1](https://neurips.gather.town/app/eLVTscsoraKKHuLI/posterRoom0), [Session 2](https://neurips.gather.town/app/ahqPiPXgtuJF1JU7/posterRoom1), [Session 3](https://neurips.gather.town/app/DK1OFwX1bToEpTYi/posterRoom2). You can find the list of papers (and their placement) for each sessions in the [Poster sessions section](#poster-sessions) below.
-- Talk to us on [rocket.chat](https://neurips2020.rocket.chat/channel/meta-learning-99).
+
+- Access the livestream on our [NeurIPS.cc virtual workshop page](https://neurips.cc/virtual/2020/protected/workshop_16141.html).
+- Join the poster sessions on Gather.Town: [Session 1](https://neurips.gather.town/app/eLVTscsoraKKHuLI/posterRoom0), [Session 2](https://neurips.gather.town/app/ahqPiPXgtuJF1JU7/posterRoom1), [Session 3](https://neurips.gather.town/app/DK1OFwX1bToEpTYi/posterRoom2). You can find the list of papers (and their placement) for each sessions in the [Poster Sessions section](#poster-sessions) below.
+- Talk to us on the ]Meta-Learning Workshop Rocket.Chat](https://neurips2020.rocket.chat/channel/meta-learning-99)!
 
 <center>
 Panel discussion questions:
 <div id="main_block">
-        <iframe src="https://app.sli.do/event/uihcwqn4" height="100%" width="60%" style="min-height: 560px;"></iframe>
+        <iframe src="https://app.sli.do/event/uihcwqn4" height="100%" width="100%" style="min-height: 560px;"></iframe>
 </div>
 </center>
 
 ## News & Updates
 
-- Nov 16, 2020: NeurIPS registration funding from the workshop for presenters and junior reviewers has been distributed. The NeurIPS conference also has a funding program [here](https://neurips.cc/Surveys/49).
+- Dec. 11, 2020: 
 
-- Nov 14, 2020: The workshop [schedule](#schedule) has been finalized! You can also find it on [NeurIPS.cc](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16141).
+- Nov. 16, 2020: NeurIPS registration funding from the workshop for presenters and junior reviewers has been distributed. The NeurIPS conference also has a funding program [here](https://neurips.cc/Surveys/49).
 
-- Oct 30, 2020: Decisions have been sent out. Thank you to everyone who submitted or participated in [the reviewing process](#reviewing-mentorship)!
+- Nov. 14, 2020: The workshop [schedule](#schedule) has been finalized! You can also find it on [NeurIPS.cc](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16141).
 
-- Oct 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
+- Oct. 30, 2020: Decisions have been sent out. Thank you to everyone who submitted or participated in [the reviewing process](#reviewing-mentorship)!
 
-- Sep 15, 2020: [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
+- Oct. 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
 
-- Sep 2, 2020: CMT open for [submissions](#submission-instructions)!
+- Sep. 15, 2020: [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
+
+- Sep. 2, 2020: CMT open for [submissions](#submission-instructions)!
 
 ## Workshop Overview
 
@@ -237,6 +240,7 @@ The list of posters for each session is ordered by their position in the room.
 28. “Is Support Set Diversity Necessary for Meta-Learning?”
 29. “Meta-Learning Backpropagation And Improving It”
 30. “Prior-guided Bayesian Optimization”
+31. “Training more effective learned optimizers”
 
 ## Accepted Papers
 
@@ -380,6 +384,9 @@ The list of posters for each session is ordered by their position in the room.
 
 - **Measuring few-shot extrapolation with program induction**.
 *Ferran Alet, Javier Lopez-Contreras, Joshua Tenenbaum, Tomas Lozano-Perez, Leslie Kaelbling*.
+
+- **Training more effective learned optimizers**.
+*Luke Metz, Niru Maheswaranathan, Ruoxi Sun, Daniel Freeman, Ben Poole, Jascha Sohl-Dickstein*.
  
  
 ## Submission Instructions
