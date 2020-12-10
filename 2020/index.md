@@ -10,7 +10,7 @@ redirect_from: /2020/
 ## Live participation
 
 - Access the livestream on our virtual workshop page [here](https://neurips.cc/virtual/2020/protected/workshop_16141.html).
-- Join the poster sessions on gather.town: [Session 1](https://neurips.gather.town/app/eLVTscsoraKKHuLI/posterRoom0), [Session 2](https://neurips.gather.town/app/ahqPiPXgtuJF1JU7/posterRoom1), [Session 3](https://neurips.gather.town/app/DK1OFwX1bToEpTYi/posterRoom2). You can find the sessions for each paper in the list of accepted papers below.
+- Join the poster sessions on gather.town: [Session 1](https://neurips.gather.town/app/eLVTscsoraKKHuLI/posterRoom0), [Session 2](https://neurips.gather.town/app/ahqPiPXgtuJF1JU7/posterRoom1), [Session 3](https://neurips.gather.town/app/DK1OFwX1bToEpTYi/posterRoom2). You can find the list of papers (and their placement) for each sessions in the [Poster sessions section](#poster-sessions) below.
 - Talk to us on [rocket.chat](https://neurips2020.rocket.chat/channel/meta-learning-99).
 
 <center>
@@ -146,6 +146,9 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 
 
 ## Poster sessions
+
+To make it easier to find the posters, we marked the poster areas in the gather.town rooms with an increasing number.
+The list of posters for each session is ordered by their position in the room.
 
 ### [Poster session 1](https://neurips.gather.town/app/eLVTscsoraKKHuLI/posterRoom0)
 
