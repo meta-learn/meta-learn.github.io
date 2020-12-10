@@ -12,7 +12,7 @@ redirect_from: /2020/
 
 - Access the livestream on our [NeurIPS.cc virtual workshop page](https://neurips.cc/virtual/2020/protected/workshop_16141.html).
 - Join the poster sessions on Gather.Town: [Session 1](https://neurips.gather.town/app/eLVTscsoraKKHuLI/posterRoom0), [Session 2](https://neurips.gather.town/app/ahqPiPXgtuJF1JU7/posterRoom1), [Session 3](https://neurips.gather.town/app/DK1OFwX1bToEpTYi/posterRoom2). You can find the list of papers (and their placement) for each sessions in the [Poster Sessions section](#poster-sessions) below.
-- Talk to us on the ]Meta-Learning Workshop Rocket.Chat](https://neurips2020.rocket.chat/channel/meta-learning-99)!
+- Talk to us on the [Meta-Learning Workshop Rocket.Chat](https://neurips2020.rocket.chat/channel/meta-learning-99)!
 
 <center>
 Panel discussion questions:
