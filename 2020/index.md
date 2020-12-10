@@ -220,7 +220,7 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 *Cuong Cao Nguyen, Thanh-Toan Do, Gustavo Carneiro*. Poster Sessions: 1
 
 - **MobileDets: Searching for Object Detection Architecture for Mobile Accelerators**.
-*Yunyang Xiong, Hanxiao Liu, Suyog Gupta, Berkin Akin, Gabriel Bender, Yongzhe Wang, Pieter-Jan Kindermans, Mingxing Tan, Prof Singh, Bo Chen*
+*Yunyang Xiong, Hanxiao Liu, Suyog Gupta, Berkin Akin, Gabriel Bender, Yongzhe Wang, Pieter-Jan Kindermans, Mingxing Tan, Prof Singh, Bo Chen*. Poster Sessions: 1
 
 - **Towards Meta-Algorithm Selection**.
 *Alexander Tornede, Marcel Wever, Eyke Hüllermeier*. Poster Sessions: 1
