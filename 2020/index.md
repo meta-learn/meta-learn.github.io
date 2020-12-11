@@ -27,6 +27,8 @@ The 2020 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 
 ## News & Updates
 
+- Dec. 11, 2020: Paper, supplementary materials and posters have been added to the [accepted papers](#accepted-papers) section!
+
 - Dec. 11, 2020: Workshop day! Please check the "Live participation" section above for participation instructions.
 
 - Nov. 16, 2020: NeurIPS registration funding from the workshop for presenters and junior reviewers has been distributed. The NeurIPS conference also has a funding program [here](https://neurips.cc/Surveys/49).
