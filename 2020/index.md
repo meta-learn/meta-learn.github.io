@@ -15,7 +15,7 @@ redirect_from: /2020/
 - Talk to us on the [Meta-Learning Workshop Rocket.Chat](https://neurips2020.rocket.chat/channel/meta-learning-99)!
 
 <center>
-Panel discussion questions:
+**Enter panel discussion questions here!**
 <div id="main_block">
         <iframe src="https://app.sli.do/event/uihcwqn4" height="100%" width="100%" style="min-height: 560px;"></iframe>
 </div>
@@ -23,7 +23,7 @@ Panel discussion questions:
 
 ## News & Updates
 
-- Dec. 11, 2020: 
+- Dec. 11, 2020: Workshop day! Please check the "Live participation" section above for participation instructions.
 
 - Nov. 16, 2020: NeurIPS registration funding from the workshop for presenters and junior reviewers has been distributed. The NeurIPS conference also has a funding program [here](https://neurips.cc/Surveys/49).
 
@@ -150,8 +150,7 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 
 ## Poster sessions
 
-To make it easier to find the posters, we marked the poster areas in the gather.town rooms with an increasing number.
-The list of posters for each session is ordered by their position in the room.
+To make it easier to find the posters, we marked posters in the Gather.Town rooms by increasing number; the list of posters below for each session is ordered by their position in the room. Paid NeurIPS.cc registration is required to access the Gather.Town poster rooms.
 
 ### [Poster session 1](https://neurips.gather.town/app/eLVTscsoraKKHuLI/posterRoom0)
 
