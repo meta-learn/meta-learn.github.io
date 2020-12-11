@@ -248,148 +248,151 @@ To make it easier to find the posters, we marked posters in the Gather.Town room
 ## Accepted Papers
 
 - **Reverse engineering learned optimizers reveals known and novel mechanisms**.
-*Niru Maheswaranathan, David Sussillo, Luke Metz, Ruoxi Sun, Jascha Sohl-Dickstein*.
+*Niru Maheswaranathan, David Sussillo, Luke Metz, Ruoxi Sun, Jascha Sohl-Dickstein*. [[paper]](papers/35_paper.pdf) [[supplementary]](papers/35_supplementary.pdf) [[poster]](papers/35_poster.png)
 
 - **On Episodes, Prototypical Networks, and Few-Shot Learning**.
-*Steinar Laenen, Luca Bertinetto*.
+*Steinar Laenen, Luca Bertinetto*. [[paper]](papers/3_paper.pdf) [[supplementary]](papers/3_supplementary.pdf) [[poster]](papers/3_poster.png)
 
 - **Bayesian Optimization by Density Ratio Estimation**.
-*Louis C Tiao, Aaron Klein, Cedric Archambeau, Edwin V. Bonilla, Matthias Seeger, Fabio Ramos*.
+*Louis C Tiao, Aaron Klein, Cedric Archambeau, Edwin V. Bonilla, Matthias Seeger, Fabio Ramos*. [[paper]](papers/59_paper.pdf) [[supplementary]](papers/59_supplementary.pdf) [[poster]](papers/59_poster.png)
 
 - **Contextual HyperNetworks for Novel Feature Adaptation**.
-*Angus Lamb, Evgeny Saveliev, Yingzhen Li, Sebastian Tschiatschek, Camilla Longden, Simon Woodhead, Jose Miguel Hernandez-Lobato, Richard E. Turner, Pashmina Cameron, Cheng Zhang*.
+*Angus Lamb, Evgeny Saveliev, Yingzhen Li, Sebastian Tschiatschek, Camilla Longden, Simon Woodhead, Jose Miguel Hernandez-Lobato, Richard E. Turner, Pashmina Cameron, Cheng Zhang*. [[paper]](papers/56_paper.pdf) [[supplementary]](papers/56_supplementary.pdf) [[poster]](papers/56_poster.png)
 
 - **Learning to Generate Noise for Multi-Attack Robustness**.
-*Divyam Madaan, Jinwoo Shin, Sung Ju Hwang*.
+*Divyam Madaan, Jinwoo Shin, Sung Ju Hwang*. [[paper]](papers/57_paper.pdf) [[supplementary]](papers/57_supplementary.pdf) [[poster]](papers/57_poster.png)
 
 - **Tailoring: encoding inductive biases by optimizing unsupervised objectives at prediction time**.
-*Ferran Alet, Kenji Kawaguchi, Maria Bauza Villalonga, Nurullah Giray Kuru, Tomas Lozano-Perez, Leslie Kaelbling*.
+*Ferran Alet, Kenji Kawaguchi, Maria Bauza Villalonga, Nurullah Giray Kuru, Tomas Lozano-Perez, Leslie Kaelbling*. [[paper]](papers/60_paper.pdf) [[supplementary]](papers/60_supplementary.pdf) [[poster]](papers/60_poster.png)
 
 - **Model-Agnostic Graph Regularization for Few-Shot Learning**.
-*Ethan Z Shen, Maria Brbic, Nicholas Monath, Jiaqi Zhai, Manzil Zaheer, Jure Leskovec*.
+*Ethan Z Shen, Maria Brbic, Nicholas Monath, Jiaqi Zhai, Manzil Zaheer, Jure Leskovec*. [[paper]](papers/61_paper.pdf) [[supplementary]](papers/61_supplementary.pdf) [[poster]](papers/61_poster.png)
 
-- **Learning Flexible Classifiers with Shot-CONditional Episodic Training**.
-*Eleni Triantafillou, Vincent Dumoulin, Hugo Larochelle, Richard Zemel*.
+- **Learning Flexible Classifiers with Shot-CONditional Episodic (SCONE) Training**.
+*Eleni Triantafillou, Vincent Dumoulin, Hugo Larochelle, Richard Zemel*. [[paper]](papers/62_paper.pdf) [[poster]](papers/62_poster.png)
 
 - **Prior-guided Bayesian Optimization**.
-*Artur L.F. Souza, Luigi Nardi, Leonardo B. Oliveira, Kunle Olukotun, Marius Lindauer, Frank Hutter*.
+*Artur L.F. Souza, Luigi Nardi, Leonardo B. Oliveira, Kunle Olukotun, Marius Lindauer, Frank Hutter*. [[paper]](papers/63_paper.pdf) [[supplementary]](papers/63_supplementary.pdf) [[poster]](papers/63_poster.png)
 
 - **Is Support Set Diversity Necessary for Meta-Learning?**.
-*Oscar Li, Amrith Setlur, Virginia Smith*.
+*Oscar Li, Amrith Setlur, Virginia Smith*. [[paper]](papers/64_paper.pdf) [[poster]](papers/64_poster.png)
 
 - **How Important is the Train-Validation Split in Meta-Learning?**.
-*Yu Bai, Minshuo Chen, Pan Zhou, Tuo Zhao, Jason Lee, Sham Kakade, Huan Wang, Caiming Xiong*.
+*Yu Bai, Minshuo Chen, Pan Zhou, Tuo Zhao, Jason Lee, Sham Kakade, Huan Wang, Caiming Xiong*. [[paper]](papers/65_paper.pdf) [[supplementary]](papers/65_supplementary.pdf) [[poster]](papers/65_poster.png)
 
 - **Adaptive Risk Minimization: A Meta-Learning Approach for Tackling Group Shift**.
-*Marvin Zhang, Henrik - Marklund, Nikita Dhawan, Abhishek Gupta, Sergey Levine, Chelsea Finn*.
+*Marvin Zhang, Henrik - Marklund, Nikita Dhawan, Abhishek Gupta, Sergey Levine, Chelsea Finn*. [[paper]](papers/66_paper.pdf) [[supplementary]](papers/66_supplementary.pdf) [[poster]](papers/66_poster.png)
 
 - **Model-Based Meta-Reinforcement Learning for Flight with Suspended Payloads**.
-*Suneel Belkhale*.
+*Suneel Belkhale*. [[paper]](papers/68_paper.pdf) [[supplementary]](papers/68_supplementary.pdf) [[poster]](papers/68_poster.png)
 
 - **Task Similarity Aware Meta Learning: Theory-inspired Improvement on MAML**.
-*Pan Zhou, Yingtian Zou, Xiao-Tong Yuan, Jiashi Feng, Caiming Xiong, Steven Hoi*.
+*Pan Zhou, Yingtian Zou, Xiao-Tong Yuan, Jiashi Feng, Caiming Xiong, Steven Hoi*. [[paper]](papers/69_paper.pdf) [[supplementary]](papers/69_supplementary.pdf) [[poster]](papers/69_poster.png)
 
 - **HyperVAE: Variational Hyper-Encoding Network**.
-*Phuoc Nguyen, Truyen Tran, Sunil Gupta, Santu Rana, Svetha Venkatesh, Hieu-Chi Dam*.
+*Phuoc Nguyen, Truyen Tran, Sunil Gupta, Santu Rana, Svetha Venkatesh, Hieu-Chi Dam*. [[paper]](papers/71_paper.pdf) [[poster]](papers/71_poster.png)
 
 - **Synthetic Petri Dish: A Novel Surrogate Model for Rapid Architecture Search**.
-*Aditya Rawal, Joel Lehman, Felipe Petroski Such, Jeff Clune, Kenneth O Stanley*.
+*Aditya Rawal, Joel Lehman, Felipe Petroski Such, Jeff Clune, Kenneth O Stanley*. [[paper]](papers/43_paper.pdf) [[poster]](papers/43_poster.png)
 
 - **Meta-Learning Initializations for Image Segmentation**.
-*Sean M Hendryx, Andrew Leach, Paul Hein, Clayton Morrison*.
+*Sean M Hendryx, Andrew Leach, Paul Hein, Clayton Morrison*. [[paper]](papers/44_paper.pdf) [[poster]](papers/44_poster.png)
 
 - **Data Augmentation for Meta-Learning**.
-*Renkun Ni, Micah Goldblum, Amr Sharaf, Kezhi Kong, Tom Goldstein*.
+*Renkun Ni, Micah Goldblum, Amr Sharaf, Kezhi Kong, Tom Goldstein*. [[paper]](papers/45_paper.pdf) [[supplementary]](papers/45_supplementary.pdf) [[poster]](papers/45_poster.png)
+
+- **Flexible Few-Shot Learning of Contextual Similarity**.
+*Mengye Ren, Eleni Triantafillou, Kuan-Chieh Wang, James Lucas, Jake Snell, Xaq Pitkow, Andreas S. Tolias, Richard S. Zemel*. [[paper]](papers/49_paper.pdf) [[poster]](papers/49_poster.png)
 
 - **NAS-Bench-301 and the Case for Surrogate Benchmarks for Neural Architecture Search**.
-*Julien Siems, Lucas Zimmer, Arber Zela, Jovita Lukasik, Margret Keuper, Frank Hutter*.
+*Julien Siems, Lucas Zimmer, Arber Zela, Jovita Lukasik, Margret Keuper, Frank Hutter*. [[paper]](papers/50_paper.pdf) [[supplementary]](papers/50_supplementary.pdf) [[poster]](papers/50_poster.png)
 
 - **Prototypical Region Proposal Networks for Few-shot Localization and Classification**.
-*Elliott Skomski, Aaron R Tuor, Andrew Avila, Lauren Phillips, Zachary New, Henry Kvinge, Courtney Corley, Nathan Hodas*.
+*Elliott Skomski, Aaron R Tuor, Andrew Avila, Lauren Phillips, Zachary New, Henry Kvinge, Courtney Corley, Nathan Hodas*. [[paper]](papers/51_paper.pdf)  [[poster]](papers/51_poster.png)
 
 - **Continual Model-Based Reinforcement Learning with Hypernetworks**.
-*Yizhou Huang, Kevin Xie, Homanga Bharadhwaj, Florian Shkurti*.
+*Yizhou Huang, Kevin Xie, Homanga Bharadhwaj, Florian Shkurti*. [[paper]](papers/52_paper.pdf) [[poster]](papers/52_poster.png)
 
 - **MAster of PuPpets: Model-Agnostic Meta-Learning via Pre-trained Parameters for Natural Language Generation**.
-*Chien-Fu Lin, Hung-yi Lee*.
+*Chien-Fu Lin, Hung-yi Lee*. [[paper]](papers/21_paper.pdf) [[supplementary]](papers/21_supplementary.pdf) [[poster]](papers/21_poster.png)
 
 - **Few-Shot Unsupervised Continual Learning through Meta-Examples**.
-*Alessia Bertugli, Stefano Vincenzi, SIMONE CALDERARA, Andrea Passerini*.
+*Alessia Bertugli, Stefano Vincenzi, SIMONE CALDERARA, Andrea Passerini*. [[paper]](papers/1_paper.pdf) [[supplementary]](papers/1_supplementary.pdf) [[poster]](papers/1_poster.png)
 
 - **Similarity of classification tasks**.
-*Cuong Cao Nguyen, Thanh-Toan Do, Gustavo Carneiro*.
+*Cuong Cao Nguyen, Thanh-Toan Do, Gustavo Carneiro*. [[paper]](papers/2_paper.pdf) [[supplementary]](papers/2_supplementary.pdf) [[poster]](papers/2_poster.png)
 
 - **MobileDets: Searching for Object Detection Architecture for Mobile Accelerators**.
-*Yunyang Xiong, Hanxiao Liu, Suyog Gupta, Berkin Akin, Gabriel Bender, Yongzhe Wang, Pieter-Jan Kindermans, Mingxing Tan, Prof Singh, Bo Chen*.
+*Yunyang Xiong, Hanxiao Liu, Suyog Gupta, Berkin Akin, Gabriel Bender, Yongzhe Wang, Pieter-Jan Kindermans, Mingxing Tan, Prof Singh, Bo Chen*. [[paper]](papers/36_paper.pdf) [[supplementary]](papers/36_supplementary.pdf) [[poster]](papers/36_poster.png)
 
 - **Towards Meta-Algorithm Selection**.
-*Alexander Tornede, Marcel Wever, Eyke Hüllermeier*.
+*Alexander Tornede, Marcel Wever, Eyke Hüllermeier*. [[paper]](papers/37_paper.pdf) [[poster]](papers/37_poster.png)
 
 - **Meta-Learning via Hypernetworks**.
-*Dominic Zhao, Johannes von Oswald, Seijin Kobayashi, João Sacramento, Benjamin F. Grewe*.
+*Dominic Zhao, Johannes von Oswald, Seijin Kobayashi, João Sacramento, Benjamin F. Grewe*. [[paper]](papers/38_paper.pdf) [[poster]](papers/38_poster.png)
 
 - **Open-Set Incremental Learning via Bayesian Prototypical Embeddings**.
-*John Willes, James Harrison, Chelsea Finn, Marco Pavone, Steven L Waslander*.
+*John Willes, James Harrison, Chelsea Finn, Marco Pavone, Steven L Waslander*. [[paper]](papers/40_paper.pdf) [[supplementary]](papers/40_supplementary.pdf) [[poster]](papers/40_poster.png)
 
 - **Multi-Objective Multi-Fidelity Hyperparameter Optimization with Application to Fairness**.
-*Robin Schmucker, Michele Donini, Valerio Perrone, Muhammad Bilal Zafar, Cedric Archambeau*.
+*Robin Schmucker, Michele Donini, Valerio Perrone, Muhammad Bilal Zafar, Cedric Archambeau*. [[paper]](papers/24_paper.pdf) [[supplementary]](papers/24_supplementary.pdf) [[poster]](papers/24_poster.png)
 
 - **Meta-Learning of Compositional Task Distributions in Humans and Machines**.
-*Sreejan Kumar, Ishita Dasgupta, Jonathan Cohen, Nathaniel Daw, Tom Griffiths*.
+*Sreejan Kumar, Ishita Dasgupta, Jonathan Cohen, Nathaniel Daw, Tom Griffiths*. [[paper]](papers/26_paper.pdf) [[poster]](papers/26_poster.png)
 
 - **Putting Theory to Work: From Learning Bounds to Meta-Learning Algorithms**.
-*Quentin Bouniot, Ievgen Redko, Romaric Audigier, Angélique Loesch, Amaury Habrard*.
+*Quentin Bouniot, Ievgen Redko, Romaric Audigier, Angélique Loesch, Amaury Habrard*. [[paper]](papers/30_paper.pdf) [[supplementary]](papers/30_supplementary.pdf) [[poster]](papers/30_poster.png)
 
 - **A Meta-Learning Approach for Graph Representation Learning in Multi-Task Settings**.
-*Davide Buffelli, Fabio Vandin*.
+*Davide Buffelli, Fabio Vandin*. [[paper]](papers/31_paper.pdf) [[supplementary]](papers/31_supplementary.pdf) [[poster]](papers/31_poster.png)
 
 - **Few-shot Sequence Learning with Transformers**.
-*Lajanugen Logeswaran, Ann Lee, Myle Ott, Honglak Lee, Marc'Aurelio Ranzato, Arthur Szlam*.
+*Lajanugen Logeswaran, Ann Lee, Myle Ott, Honglak Lee, Marc'Aurelio Ranzato, Arthur Szlam*. [[paper]](papers/32_paper.pdf) [[supplementary]](papers/32_supplementary.pdf) [[poster]](papers/32_poster.png)
 
 - **Learning not to learn: Nature versus nurture in silico**.
-*Robert T Lange, Henning Sprekeler*.
+*Robert T Lange, Henning Sprekeler*. [[paper]](papers/33_paper.pdf) [[poster]](papers/33_poster.png)
 
 - **Meta-Learning Backpropagation And Improving It**.
-*Louis Kirsch, Jürgen Schmidhuber*.
+*Louis Kirsch, Jürgen Schmidhuber*. [[paper]](papers/34_paper.pdf) [[supplementary]](papers/34_supplementary.pdf) [[poster]](papers/34_poster.png)
 
 - **Continual learning with direction-constrained optimization**.
-*Yunfei Teng, Anna Choromanska, Murray Campbell*.
+*Yunfei Teng, Anna Choromanska, Murray Campbell*. [[paper]](papers/5_paper.pdf) [[supplementary]](papers/5_supplementary.pdf) [[poster]](papers/5_poster.png)
 
 - **Cross-Modal Generalization: Learning in Low Resource Modalities via Meta-Alignment**.
-*Paul Pu Liang, Peter Wu, Liu Ziyin, Louis-Philippe Morency, Ruslan Salakhutdinov*.
+*Paul Pu Liang, Peter Wu, Liu Ziyin, Louis-Philippe Morency, Ruslan Salakhutdinov*. [[paper]](papers/6_paper.pdf) [[supplementary]](papers/6_supplementary.pdf) [[poster]](papers/6_poster.png)
 
 - **MPLP: Learning a Message Passing Learning Protocol**.
-*Ettore Randazzo, Eyvind Niklasson, Alexander Mordvintsev*.
+*Ettore Randazzo, Eyvind Niklasson, Alexander Mordvintsev*. [[paper]](papers/7_paper.pdf) [[supplementary]](papers/7_supplementary.pdf) [[poster]](papers/7_poster.png)
 
 - **Pareto-efficient Acquisition Functions for Cost-Aware Bayesian Optimization**.
-*Gauthier Guinet, Valerio Perrone, Cedric Archambeau*.
+*Gauthier Guinet, Valerio Perrone, Cedric Archambeau*. [[paper]](papers/10_paper.pdf) [[poster]](papers/10_poster.png)
 
 - **Hyperparameter Transfer Across Developer Adjustments**.
-*Danny Stoll, Jörg K.H. Franke, Diane Wagner, Simon Selg, Frank Hutter*.
+*Danny Stoll, Jörg K.H. Franke, Diane Wagner, Simon Selg, Frank Hutter*. [[paper]](papers/12_paper.pdf) [[supplementary]](papers/12_supplementary.pdf) [[poster]](papers/12_poster.png)
 
 - **Decoupling Exploration and Exploitation in Meta-Reinforcement Learning without Sacrifices**.
-*Evan Liu, Aditi Raghunathan, Percy Liang, Chelsea Finn*.
+*Evan Liu, Aditi Raghunathan, Percy Liang, Chelsea Finn*. [[paper]](papers/13_paper.pdf) [[poster]](papers/13_poster.png)
 
 - **Meta-Learning Bayesian Neural Network Priors Based on PAC-Bayesian Theory**.
-*Jonas Rothfuss, Martin Josifoski, Andreas Krause*.
+*Jonas Rothfuss, Martin Josifoski, Andreas Krause*. [[paper]](papers/14_paper.pdf) [[poster]](papers/14_poster.png)
 
 - **Task Meta-Transfer from Limited Parallel Labels**.
-*Yiren Jian, Karim Ahmed, Lorenzo Torresani*.
+*Yiren Jian, Karim Ahmed, Lorenzo Torresani*. [[paper]](papers/15_paper.pdf) [[poster]](papers/15_poster.png)
 
 - **Uniform Priors for Meta-Learning**.
-*Samarth Sinha, Karsten Roth, Anirudh Goyal, Marzyeh Ghassemi, Hugo Larochelle, Animesh Garg*.
+*Samarth Sinha, Karsten Roth, Anirudh Goyal, Marzyeh Ghassemi, Hugo Larochelle, Animesh Garg*. [[paper]](papers/22_paper.pdf) [[poster]](papers/22_poster.png)
 
 - **Defining Benchmarks for Continual Few-Shot Learning**.
-*Antreas Antoniou, Massimiliano Patacchiola, Mateusz Ochal, Amos Storkey*.
+*Antreas Antoniou, Massimiliano Patacchiola, Mateusz Ochal, Amos Storkey*. [[paper]](papers/16_paper.pdf) [[supplementary]](papers/16_supplementary.pdf) [[poster]](papers/16_poster.png)
 
 - **Flexible Dataset Distillation: Learn Labels Instead of Images**.
-*Ondrej Bohdal, Yongxin Yang, Timothy Hospedales*.
+*Ondrej Bohdal, Yongxin Yang, Timothy Hospedales*. [[paper]](papers/42_paper.pdf) [[supplementary]](papers/42_supplementary.pdf) [[poster]](papers/42_poster.png)
 
 - **Measuring few-shot extrapolation with program induction**.
-*Ferran Alet, Javier Lopez-Contreras, Joshua Tenenbaum, Tomas Lozano-Perez, Leslie Kaelbling*.
+*Ferran Alet, Javier Lopez-Contreras, Joshua Tenenbaum, Tomas Lozano-Perez, Leslie Kaelbling*. [[paper]](papers/72_paper.pdf) [[poster]](papers/72_poster.png)
 
 - **Training more effective learned optimizers**.
-*Luke Metz, Niru Maheswaranathan, Ruoxi Sun, Daniel Freeman, Ben Poole, Jascha Sohl-Dickstein*.
+*Luke Metz, Niru Maheswaranathan, Ruoxi Sun, Daniel Freeman, Ben Poole, Jascha Sohl-Dickstein*. [[paper]](papers/54_paper.pdf) [[poster]](papers/54_poster.png)
  
  
 ## Submission Instructions
