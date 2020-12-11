@@ -17,11 +17,11 @@ The 2020 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 - Chatting with us and other participants on the [MetaLearn 2020 Rocket.Chat](https://neurips2020.rocket.chat/channel/meta-learning-99)!
 - Ask **panel discussion questions** on [sli.do](https://app.sli.do/event/uihcwqn4).
 
-- Questions for the panel discussion!
+- Questions for Kate Rakelly talk:
 
 <center>
 <div id="main_block">
-        <iframe src="https://app.sli.do/event/uihcwqn4" height="100%" width="100%" style="min-height: 560px;"></iframe>
+        <iframe src="https://app.sli.do/event/eunlzjq0" height="100%" width="100%" style="min-height: 560px;"></iframe>
 </div>
 </center>
 
