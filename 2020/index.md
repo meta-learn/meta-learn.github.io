@@ -15,11 +15,13 @@ The 2020 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 - Joining the **poster sessions on Gather.Town** (you can find the list of papers (and their placement) for each session in the [Poster Sessions section](#poster-sessions) below): [Session 1](https://neurips.gather.town/app/eLVTscsoraKKHuLI/posterRoom0); [Session 2](https://neurips.gather.town/app/ahqPiPXgtuJF1JU7/posterRoom1); [Session 3](https://neurips.gather.town/app/DK1OFwX1bToEpTYi/posterRoom2). 
 - Watching the **poster videos** on the [NeurIPS.cc virtual workshop page](https://neurips.cc/virtual/2020/protected/workshop_16141.html).
 - Chatting with us and other participants on the [MetaLearn 2020 Rocket.Chat](https://neurips2020.rocket.chat/channel/meta-learning-99)!
-- Entering **panel discussion questions** below in the sli.do app!
+- Ask **panel discussion questions** on [sli.do](https://app.sli.do/event/uihcwqn4).
+
+- Questions for Invited talk #1: Frank Hutter
 
 <center>
 <div id="main_block">
-        <iframe src="https://app.sli.do/event/uihcwqn4" height="100%" width="100%" style="min-height: 560px;"></iframe>
+        <iframe src="https://app.sli.do/event/qz6tvw2l" height="100%" width="100%" style="min-height: 560px;"></iframe>
 </div>
 </center>
 
