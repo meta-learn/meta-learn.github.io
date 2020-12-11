@@ -17,11 +17,11 @@ The 2020 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 - Chatting with us and other participants on the [MetaLearn 2020 Rocket.Chat](https://neurips2020.rocket.chat/channel/meta-learning-99)!
 - Ask **panel discussion questions** on [sli.do](https://app.sli.do/event/uihcwqn4).
 
-- Questions for Invited talk #1: Frank Hutter
+- Questions for Invited talk #2: Luisa Zintgraf
 
 <center>
 <div id="main_block">
-        <iframe src="https://app.sli.do/event/qz6tvw2l" height="100%" width="100%" style="min-height: 560px;"></iframe>
+        <iframe src="https://app.sli.do/event/3izdak3o" height="100%" width="100%" style="min-height: 560px;"></iframe>
 </div>
 </center>
 
