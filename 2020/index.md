@@ -9,11 +9,13 @@ redirect_from: /2020/
 
 ## Live participation
 
-
-- Access the livestream on our [NeurIPS.cc virtual workshop page](https://neurips.cc/virtual/2020/protected/workshop_16141.html).
-- Join the poster sessions on Gather.Town: [Session 1](https://neurips.gather.town/app/eLVTscsoraKKHuLI/posterRoom0), [Session 2](https://neurips.gather.town/app/ahqPiPXgtuJF1JU7/posterRoom1), [Session 3](https://neurips.gather.town/app/DK1OFwX1bToEpTYi/posterRoom2). You can find the list of papers (and their placement) for each sessions in the [Poster Sessions section](#poster-sessions) below.
-- Talk to us on the [Meta-Learning Workshop Rocket.Chat](https://neurips2020.rocket.chat/channel/meta-learning-99).
-- Enter **panel discussion questions** below in the sli.do app!
+The 2020 Workshop on Meta-Learning will be a series of streamed pre-recorded talks + live question-and-answer (Q&A) periods, and poster sessions on Gather.Town. You can participate by:
+- Accessing the **livestream** on our [NeurIPS.cc virtual workshop page](https://neurips.cc/virtual/2020/protected/workshop_16141.html)!
+- Joining the **Zoom to message questions to the moderator during the Q&As and panel discussion**, also from the NeurIPS.cc virtual workshop page.
+- Joining the **poster sessions on Gather.Town** (you can find the list of papers (and their placement) for each session in the [Poster Sessions section](#poster-sessions) below): [Session 1](https://neurips.gather.town/app/eLVTscsoraKKHuLI/posterRoom0); [Session 2](https://neurips.gather.town/app/ahqPiPXgtuJF1JU7/posterRoom1); [Session 3](https://neurips.gather.town/app/DK1OFwX1bToEpTYi/posterRoom2). 
+- Watching the **poster videos** on the [NeurIPS.cc virtual workshop page](https://neurips.cc/virtual/2020/protected/workshop_16141.html).
+- Chatting with us and other participants on the [MetaLearn 2020 Rocket.Chat](https://neurips2020.rocket.chat/channel/meta-learning-99)!
+- Entering **panel discussion questions** below in the sli.do app!
 
 <center>
 <div id="main_block">
