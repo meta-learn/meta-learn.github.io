@@ -92,7 +92,7 @@ More detailed instructions will be given closer to the workshop date.
 - [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/) (Freiburg University)
 - [Jonathan Schwarz](https://jonathan-schwarz.github.io/) (University College London, Deepmind)
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
-- [Huaxiu Yao](https://huaxiuyao.mystrikingly.com/) (Berkeley)
+- [Huaxiu Yao](https://huaxiuyao.mystrikingly.com/) (Stanford)
 
 ### Important Dates
 
