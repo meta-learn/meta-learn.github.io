@@ -181,13 +181,13 @@ _Badr AlKhamissi, Alessia Bertugli, Homanga Bharadhwaj, Parminder Bhatia, Surya 
 
 ## Past Workshops
 
-[Workshop on Meta-Learning (MetaLearn 2017) @ NeurIPS 2017](http://metalearning.ml/2017/)
+[Workshop on Meta-Learning (MetaLearn 2017) @ NeurIPS 2017](https://meta-learn.github.io/2017/)
 
-[Workshop on Meta-Learning (MetaLearn 2018) @ NeurIPS 2018](http://metalearning.ml/2018/)
+[Workshop on Meta-Learning (MetaLearn 2018) @ NeurIPS 2018](https://meta-learn.github.io/2018/)
 
-[Workshop on Meta-Learning (MetaLearn 2019) @ NeurIPS 2019](http://metalearning.ml/2019/)
+[Workshop on Meta-Learning (MetaLearn 2019) @ NeurIPS 2019](https://meta-learn.github.io/2019/)
 
-[Workshop on Meta-Learning (MetaLearn 2020) @ NeurIPS 2020](http://metalearning.ml/2020/)
+[Workshop on Meta-Learning (MetaLearn 2020) @ NeurIPS 2020](https://meta-learn.github.io/2020/)
 
 <!--
 ## Sponsors
