@@ -13,17 +13,17 @@ The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 - [Submitting a paper](#submission-instructions) to the workshop!
 - Accessing the **livestream** on our NeurIPS.cc virtual workshop page!
 - Joining the **Zoom to message questions to the moderator during the Q&As and panel discussion**, also from the NeurIPS.cc virtual workshop page.
-- Joining the **poster sessions on Gather.Town** (you can find the list of papers (and their placement) for each session in the [Poster Sessions section](#poster-sessions) below).
+- Joining the **[poster sessions](#poster-sessions) on Gather.Town**.
 - Watching the **poster videos** on the NeurIPS.cc virtual workshop page.
 - Chatting with us and other participants on the MetaLearn 2021 Rocket.Chat!
-- Ask **panel discussion questions** on sli.do.
+- Asking **panel discussion questions** on sli.do.
 
 ### News & Updates
 
 <!--
 - Dec. 11, 2020: Paper, supplementary materials and posters have been added to the [accepted papers](#accepted-papers) section!
 
-- Dec. 11, 2020: Workshop day! Please check the "Live participation" section above for participation instructions.
+- Dec. 11, 2020: Workshop day! Please check the "tl;dr" section above for participation instructions.
 
 - Nov. 16, 2020: NeurIPS registration funding from the workshop for presenters and junior reviewers has been distributed. The NeurIPS conference also has a funding program [here](https://neurips.cc/Surveys/49).
 
@@ -40,19 +40,19 @@ The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 
 ### Abstract
 
-Recent years have seen rapid progress in meta-learning methods, which transfer knowledge across tasks and domains to efficiently learn new tasks, optimize the learning process itself, and even generate new learning methods from scratch. Meta-learning can be seen as the logical conclusion of the arc that machine learning has undergone in the last decade, from learning classifiers, to learning representations, and finally to learning algorithms that themselves acquire representations, classifiers, and policies for acting in environments. In practice, meta-learning has been shown to yield new state-of-the-art automated machine learning methods, novel deep learning architectures, and substantially improved one-shot learning systems. Moreover, to improve one’s own learning capabilities through experience can also be viewed as a hallmark of intelligent beings, and neuroscience shows a strong connection between human and reward learning and the growing sub-field of meta-reinforcement learning. 
+Recent years have seen rapid progress in meta-learning methods, which transfer knowledge across tasks and domains to efficiently learn new tasks, optimize the learning process itself, and even generate new learning methods from scratch. Meta-learning can be seen as the logical conclusion of the arc that machine learning has undergone in the last decade, from learning classifiers, to learning representations, and finally to learning algorithms that themselves acquire representations, classifiers, and policies for acting in environments. In practice, meta-learning has been shown to yield new state-of-the-art automated machine learning methods, novel deep learning architectures, and substantially improved one-shot learning systems. Moreover, improving one’s own learning capabilities through experience can also be viewed as a hallmark of intelligent beings, and neuroscience shows a strong connection between human and reward learning and the growing sub-field of meta-reinforcement learning. 
 
 Some of the fundamental questions that this workshop aims to address are:
 
-- How can we exploit our domain knowledge to effectively guide the meta-learning process and make it more efficient? • What are the meta-learning processes in nature (e.g., in humans), and how can we take inspiration from them?
+- How can we exploit our domain knowledge to guide the meta-learning process and make it more efficient? • What are the meta-learning processes in nature (e.g., in humans), and how can we take inspiration from them?
 - Which machine learning approaches are best suited for meta-learning, in which circumstances, and why?
 - What principles can we learn from meta-learning to help us design the next generation of learning systems?
 
 **In this year’s edition of the workshop, we propose the workshop to have the following four foci**, which are informed by recent developments in meta-learning:
 
 - Are there broadly applicable desiderata for meta-learning algorithms (e.g., modularity, interpretability), or is this more a function of the application domain?
-- Can we derive entirely new and generally applicable machine learning components (e.g., architectural blocks, learning rate schedules, optimizers, task sets) by meta-learning and can they transfer to very different tasks?
-- Can we derive prescriptions for algorithm design by looking at properties of meta-learned systems?
+- Can we derive entirely new and generally applicable machine learning components (e.g., architectural blocks, learning rate schedules, optimizers, task sets) by meta-learning, and can they transfer to very different tasks?
+- Can we derive prescriptions for algorithm design by looking at the properties of meta-learned systems?
 - What is unique and common amongst various meta-learning settings, including few-shot learning, architecture search, hyperparameter optimization, etc.?
 
 As prospective participants, we primarily target machine learning researchers interested in the questions and foci outlined above. Specific target communities within machine learning include, but are not limited to: meta-learning, AutoML, reinforcement learning, deep learning, optimization, evolutionary computation, and Bayesian optimization. We also invite submissions from researchers who study human learning and neuroscience, to provide a broad and interdisciplinary perspective to the attendees.
@@ -132,7 +132,7 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 
 ### Formatting
 
-We have provided a modified `.sty` file [here](neurips_2021.sty) that appropriately lists the name of the workshop when `\neuripsfinal` is enabled. Please use this style files in conjunction with corresponding LaTeX `.tex` template from the [NeurIPS website](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) to submit a final camera-ready copy. Both the submission and the camera-ready can be up to <b>8 pages</b>, but there is no penalty for a shorter paper (e.g., the usual 4-page workshop paper).
+We have provided a modified `.sty` file [here](neurips_2021.sty) that appropriately lists the name of the workshop when `\neuripsfinal` is enabled. Please use this style file in conjunction with the corresponding LaTeX `.tex` template from the [NeurIPS website](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) to submit a final camera-ready copy. Both the submission and the camera-ready can be up to **8 pages**, but there is **no penalty** for a shorter paper (e.g., the usual 4-page workshop paper).
 
 Accepted papers and supplementary material will be made available on the workshop website. However, these do not constitute archival publications and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
@@ -152,7 +152,7 @@ Accepted papers and supplementary material will be made available on the worksho
 
 1. Can a paper be submitted to the workshop that is currently under review or will be under review at a conference during the review phase?
 
-   From our side, it is perfectly fine to submit a condensed version of a parallel conference submission if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
+   From our side, it is perfectly fine to submit a condensed version of a parallel conference submission if it is also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
 
 
 <!--
