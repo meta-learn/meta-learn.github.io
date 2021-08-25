@@ -121,7 +121,7 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 
 ## Submission Instructions
 
-tl;dr: Please submit via the workshop OpenReview submission page: https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn.
+tl;dr: Please submit via the workshop OpenReview submission page at [https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn).
 
 ### Important Dates
 
@@ -161,7 +161,7 @@ Accepted papers and supplementary material will be made available on the worksho
 
 ## Review Process
 
-tl;dr: Please sign up to be a reviewer by 17 September via https://forms.gle/EW4icbYv5uA8A13KA.
+tl;dr: Please sign up to be, or recommend, a reviewer via [https://forms.gle/EW4icbYv5uA8A13KA](https://forms.gle/EW4icbYv5uA8A13KA).
 
 ### Important Dates
 
@@ -174,7 +174,7 @@ Last year we trialed a new reviewer mentorship scheme aiming to improve the futu
 
 All submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can, of course, be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
 
-__If you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfAWp5swQk0fFP_QN9Agv5WlMWqmoVrP53ygmxLMKpuajjBVQ/viewform?usp=sf_link) by 17 September 2021.__
+Additionally, if you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfAWp5swQk0fFP_QN9Agv5WlMWqmoVrP53ygmxLMKpuajjBVQ/viewform?usp=sf_link) by 17 September 2021.
 
 
 <!--
