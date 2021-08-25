@@ -125,9 +125,10 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 ### Important Dates
 
 - Submission deadline: [September 17th, 2021, 11:59 PM AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MetaLearn%40NeurIPS+2021+Submission+Deadline&iso=20210917T2359&p1=3926)
-- Notification: October 23rd, 2021, AoE
+- Reviewing Deadline: October 15th, 2021, AoE
+- Author Notification: October 22nd, 2021, AoE
 - Video recording to SlidesLive: November 1st, 2021, AoE
-- Camera-ready submission (paper + poster) to OpenReview: TBA
+- Camera-ready submission (paper + poster) to OpenReview: November 29th, 2021, AoE
 - Workshop: December 13th, 2021
 
 ### Formatting
