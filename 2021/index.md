@@ -1,6 +1,6 @@
 ---
 title: Workshop on Meta-Learning (MetaLearn 2021)
-description: "@NeurIPS 2021 <br> XX December 2021 <br> (Virtual-Only)"
+description: "@NeurIPS 2021 <br> 13 December 2021 <br> (Virtual-Only)"
 
 permalink: /2021/index.html
 weight: -1
@@ -33,10 +33,9 @@ The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 
 - Oct. 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
 
-- Sep. 15, 2020: [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
 -->
 
-- Sep. 1, 2021: OpenReview open for [submissions](#submission-instructions)!
+- Aug. 25, 2021: OpenReview open for [submissions](#submission-instructions)! [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
 
 ### Abstract
 
@@ -122,10 +121,11 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 
 ## Submission Instructions
 
+tl;dr: Please submit via the workshop OpenReview submission page: https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn.
+
 ### Important Dates
 
 - Submission deadline: [September 17th, 2021, 11:59 PM AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MetaLearn%40NeurIPS+2021+Submission+Deadline&iso=20210917T2359&p1=3926)
-- Reviewing Deadline: October 15th, 2021, AoE
 - Author Notification: October 22nd, 2021, AoE
 - Video recording to SlidesLive: November 1st, 2021, AoE
 - Camera-ready submission (paper + poster) to OpenReview: November 29th, 2021, AoE
@@ -134,6 +134,8 @@ The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddat
 ### Formatting
 
 We have provided a modified `.sty` file [here](neurips_2021.sty) that appropriately lists the name of the workshop when `\neuripsfinal` is enabled. Please use this style file in conjunction with the corresponding LaTeX `.tex` template from the [NeurIPS website](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) to submit a final camera-ready copy. Both the submission and the camera-ready can be up to **8 pages**, but there is **no penalty** for a shorter paper (e.g., the usual 4-page workshop paper).
+
+### Publication
 
 Accepted papers and supplementary material will be made available on the workshop website. However, these do not constitute archival publications and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
@@ -156,17 +158,24 @@ Accepted papers and supplementary material will be made available on the worksho
    From our side, it is perfectly fine to submit a condensed version of a parallel conference submission if it is also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
 
 
-<!--
+
 ## Review Process
+
+tl;dr: Please sign up to be a reviewer by 17 September via https://forms.gle/EW4icbYv5uA8A13KA.
+
+### Important Dates
+
+- Reviewer Signup Deadline: September 17th, 2021, AoE
+- Reviewing Deadline: October 15th, 2021, AoE
 
 ### Reviewing Mentorship
 
-This year we are trialing a new reviewer mentorship scheme, which we hope will improve the future pool of expert reviewers in machine learning. Junior reviewers will be able to provide reviews in a guided setting and will be linked with senior reviewers who will give them feedback and advice throughout the reviewing process. It is our hope that this will be a useful learning experience for reviewers and improve the overall quality of reviewing.
+Last year we trialed a new reviewer mentorship scheme aiming to improve the future pool of expert reviewers in machine learning. 61 Junior reviewers provided reviews guided by 39 senior reviewers, who gave them feedback and advice throughout the reviewing process. The program was a success with lots of discussion behind the scenes, and we're excited to renew the program this year.
 
-In order for this to be feasible, all submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can, of course, be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
+All submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can, of course, be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
 
-If you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSebBTVLq-IRwxsP857MmmTwtTBwyRamghnNLp71I9vr1q6-Jg/viewform?usp=sf_link) by 2 October 2021.
--->
+__If you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfAWp5swQk0fFP_QN9Agv5WlMWqmoVrP53ygmxLMKpuajjBVQ/viewform?usp=sf_link) by 17 September 2021.__
+
 
 <!--
 ## Accepted Papers ##
