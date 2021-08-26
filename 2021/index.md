@@ -161,7 +161,7 @@ Accepted papers and supplementary material will be made available on the worksho
 
 ## Review Process
 
-tl;dr: Please sign up to be, or recommend, a reviewer via [https://forms.gle/EW4icbYv5uA8A13KA](https://forms.gle/EW4icbYv5uA8A13KA).
+tl;dr: The review process will be **double-blind**. Please sign up to be, or recommend, a reviewer via [https://forms.gle/EW4icbYv5uA8A13KA](https://forms.gle/EW4icbYv5uA8A13KA).
 
 ### Important Dates
 
