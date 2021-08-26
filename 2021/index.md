@@ -165,16 +165,19 @@ tl;dr: The review process will be **double-blind**. Please sign up to be, or rec
 
 ### Important Dates
 
-- Reviewer Signup Deadline: September 17th, 2021, AoE
-- Reviewing Deadline: October 15th, 2021, AoE
+- Reviewer signup deadline: September 17th, 2021, AoE
+- Assignments of reviewers to papers: September 21st, 2021
+- Active discussion between junior & senior reviewers: October 1st to 15th, 2021
+- Final reviewing Deadline: October 15th, 2021, AoE
 
 ### Reviewing Mentorship
 
 Last year we trialed a new reviewer mentorship scheme aiming to improve the future pool of expert reviewers in machine learning. 61 Junior reviewers provided reviews guided by 39 senior reviewers, who gave them feedback and advice throughout the reviewing process. The program was a success with lots of discussion behind the scenes, and we're excited to renew the program this year.
 
-All submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can, of course, be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
+If you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfAWp5swQk0fFP_QN9Agv5WlMWqmoVrP53ygmxLMKpuajjBVQ/viewform?usp=sf_link) by 17 September 2021.
 
-Additionally, if you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfAWp5swQk0fFP_QN9Agv5WlMWqmoVrP53ygmxLMKpuajjBVQ/viewform?usp=sf_link) by 17 September 2021.
+Additionally, all submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can, of course, be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
+
 
 
 <!--
