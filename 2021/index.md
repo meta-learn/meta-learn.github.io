@@ -133,7 +133,7 @@ tl;dr: Please submit via the workshop OpenReview submission page at [https://ope
 
 ### Formatting
 
-We have provided a modified `.sty` file [here](neurips_2021.sty) that appropriately lists the name of the workshop when `\neuripsfinal` is enabled. Please use this style file in conjunction with the corresponding LaTeX `.tex` template from the [NeurIPS website](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) to submit a final camera-ready copy. Both the submission and the camera-ready can be up to **8 pages**, but there is **no penalty** for a shorter paper (e.g., the usual 4-page workshop paper).
+We have provided a modified `.sty` file [here](neurips_2021.sty) that appropriately lists the name of the workshop when `\neuripsfinal` is enabled. Please use this style file in conjunction with the corresponding LaTeX `.tex` template from the [NeurIPS website](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) to submit a final camera-ready copy. Both the submission and the camera-ready can be up to **8 pages** (excluding references), but there is **no penalty** for a shorter paper (e.g., the usual 4-page workshop paper).
 
 ### Publication
 
@@ -144,6 +144,10 @@ Accepted papers and supplementary material will be made available on the worksho
 1. Can supplementary material be added beyond the 8-page limit for submissions, and are there any restrictions on it?
 
    Yes, you may include additional supplementary material, but you should ensure that the main paper is self-contained, since looking at supplementary material is at the discretion of the reviewers. The supplementary material should also follow the same NeurIPS format as the paper and be limited to a reasonable amount (max 10 pages in addition to the main submission).
+   
+1. Are references included in the 8-page limit?
+   
+   No, references will not count towards the page limit.
 
 1. Can a submission to this workshop be submitted to another NeurIPS workshop in parallel?
 
@@ -156,6 +160,7 @@ Accepted papers and supplementary material will be made available on the worksho
 1. Can a paper be submitted to the workshop that is currently under review or will be under review at a conference during the review phase?
 
    From our side, it is perfectly fine to submit a condensed version of a parallel conference submission if it is also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
+  
 
 
 
