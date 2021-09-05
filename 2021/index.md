@@ -34,7 +34,7 @@ The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 - Oct. 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
 
 -->
-
+- Sep. 5, 2021: we added a note to [formatting](#formatting), stating that we explicitly encourage shorter than 8-page submissions 
 - Aug. 25, 2021: OpenReview open for [submissions](#submission-instructions)! [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
 
 ### Abstract
@@ -133,7 +133,7 @@ tl;dr: Please submit via the workshop OpenReview submission page at [https://ope
 
 ### Formatting
 
-We have provided a modified `.sty` file [here](neurips_2021.sty) that appropriately lists the name of the workshop when `\neuripsfinal` is enabled. Please use this style file in conjunction with the corresponding LaTeX `.tex` template from the [NeurIPS website](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) to submit a final camera-ready copy. Both the submission and the camera-ready can be up to **8 pages** (excluding references), but there is **no penalty** for a shorter paper (e.g., the usual 4-page workshop paper).
+We have provided a modified `.sty` file [here](neurips_2021.sty) that appropriately lists the name of the workshop when `\neuripsfinal` is enabled. Please use this style file in conjunction with the corresponding LaTeX `.tex` template from the [NeurIPS website](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) to submit a final camera-ready copy. Both the submission and the camera-ready can be up to **8 pages** (excluding references) **and we explicity encourage submitting works shorter than 8 pages** (e.g., works that may show preliminary but novel results).
 
 ### Publication
 
