@@ -34,6 +34,7 @@ The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 - Oct. 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
 
 -->
+- Sep. 14, 2021: we extended the paper submission deadline to September 29th and added dates of the review phase
 - Sep. 5, 2021: we added a note to [formatting](#formatting), stating that we explicitly encourage shorter than 8-page submissions 
 - Aug. 25, 2021: OpenReview open for [submissions](#submission-instructions)! [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
 
@@ -125,7 +126,11 @@ tl;dr: Please submit via the workshop OpenReview submission page at [https://ope
 
 ### Important Dates
 
-- Submission deadline: [September 17th, 2021, 11:59 PM AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MetaLearn%40NeurIPS+2021+Submission+Deadline&iso=20210917T2359&p1=3926)
+- Submission deadline: [September 29th, 2021, 11:59 PM AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MetaLearn%40NeurIPS+2021+Submission+Deadline&iso=20210929T235959&p1=3926)
+- Reviewing:
+  - Start of review phase: October 1st, 2021
+  - First draft of review by junior reviewers: October 8th, 2021
+  - End of review phase / final draft of review (collaboration between junior and senior reviewers ends): October 15th, 2021
 - Author Notification: October 22nd, 2021, AoE
 - Video recording to SlidesLive: November 1st, 2021, AoE
 - Camera-ready submission (paper + poster) to OpenReview: November 29th, 2021, AoE
