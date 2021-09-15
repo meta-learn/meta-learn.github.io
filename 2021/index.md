@@ -176,9 +176,12 @@ tl;dr: The review process will be **double-blind**. Please sign up to be, or rec
 ### Important Dates
 
 - Reviewer signup deadline: September 17th, 2021, AoE
-- Assignments of reviewers to papers: September 21st, 2021
+- Assignments of reviewers to papers: October 1st, 2021
 - Active discussion between junior & senior reviewers: October 1st to 15th, 2021
 - Final reviewing Deadline: October 15th, 2021, AoE
+
+### Reviewing Guidelines
+We encourage all reviewers, both junior and senior, to check our reviewing guideline [here](https://docs.google.com/document/d/1vRdY8e2ttALw_kzxviejrhkVkiJlJ7YiS3yGm9jykB0/edit?usp=sharing). 
 
 ### Reviewing Mentorship
 
