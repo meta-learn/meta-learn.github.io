@@ -34,6 +34,7 @@ The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 - Oct. 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
 
 -->
+- Sep. 15, 2021: we have added a [reviewing guideline](https://docs.google.com/document/d/1_oddWl8PaGwoUsWoeRW6o7QZvS-X-sFI5QGZUFPR9VY/edit?usp=sharing) for both junior and senior reviewers and removed the 10-page appendix limit 
 - Sep. 14, 2021: we extended the paper submission deadline to September 29th and added dates of the review phase
 - Sep. 5, 2021: we added a note to [formatting](#formatting), stating that we explicitly encourage shorter than 8-page submissions 
 - Aug. 25, 2021: OpenReview open for [submissions](#submission-instructions)! [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
@@ -148,7 +149,7 @@ Accepted papers and supplementary material will be made available on the worksho
 
 1. Can supplementary material be added beyond the 8-page limit for submissions, and are there any restrictions on it?
 
-   Yes, you may include additional supplementary material, but you should ensure that the main paper is self-contained, since looking at supplementary material is at the discretion of the reviewers. The supplementary material should also follow the same NeurIPS format as the paper and be limited to a reasonable amount (max 10 pages in addition to the main submission).
+   Yes, you may include additional supplementary material, but you should ensure that the main paper is self-contained, since looking at supplementary material is at the discretion of the reviewers. The supplementary material should also follow the same NeurIPS format as the paper.
    
 1. Are references included in the 8-page limit?
    
@@ -181,7 +182,7 @@ tl;dr: The review process will be **double-blind**. Please sign up to be, or rec
 - Final reviewing Deadline: October 15th, 2021, AoE
 
 ### Reviewing Guidelines
-We encourage all reviewers, both junior and senior, to check our reviewing guideline [here](https://docs.google.com/document/d/1vRdY8e2ttALw_kzxviejrhkVkiJlJ7YiS3yGm9jykB0/edit?usp=sharing). 
+We encourage all reviewers, both junior and senior, to check our reviewing guideline [here](https://docs.google.com/document/d/1_oddWl8PaGwoUsWoeRW6o7QZvS-X-sFI5QGZUFPR9VY/edit?usp=sharing). 
 
 ### Reviewing Mentorship
 
