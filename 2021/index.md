@@ -34,9 +34,9 @@ The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 - Oct. 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
 
 -->
-- Sep. 15, 2021: we have added a [reviewing guideline](https://docs.google.com/document/d/1vRdY8e2ttALw_kzxviejrhkVkiJlJ7YiS3yGm9jykB0/edit) for both junior and senior reviewers and removed the 10-page appendix limit 
-- Sep. 14, 2021: we extended the paper submission deadline to September 29th and added dates of the review phase
-- Sep. 5, 2021: we added a note to [formatting](#formatting), stating that we explicitly encourage shorter than 8-page submissions 
+- Sep. 15, 2021: We have added a [reviewing guideline](!review-process) for both junior and senior reviewers and removed the 10-page appendix limit. 
+- Sep. 14, 2021: We extended the paper submission deadline to September 29th.
+- Sep. 5, 2021: We added a note to [formatting](#formatting), stating that we explicitly encourage shorter than 8-page submissions.
 - Aug. 25, 2021: OpenReview open for [submissions](#submission-instructions)! [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
 
 ### Abstract
@@ -128,10 +128,6 @@ tl;dr: Please submit via the workshop OpenReview submission page at [https://ope
 ### Important Dates
 
 - Submission deadline: [September 29th, 2021, 11:59 PM AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MetaLearn%40NeurIPS+2021+Submission+Deadline&iso=20210929T235959&p1=3926)
-- Reviewing:
-  - Start of review phase: October 1st, 2021
-  - First draft of review by junior reviewers: October 8th, 2021
-  - End of review phase / final draft of review (collaboration between junior and senior reviewers ends): October 15th, 2021
 - Author Notification: October 22nd, 2021, AoE
 - Video recording to SlidesLive: November 1st, 2021, AoE
 - Camera-ready submission (paper + poster) to OpenReview: November 29th, 2021, AoE
@@ -169,26 +165,26 @@ Accepted papers and supplementary material will be made available on the worksho
   
 
 
-
 ## Review Process
 
 tl;dr: The review process will be **double-blind**. Please sign up to be, or recommend, a reviewer via [https://forms.gle/EW4icbYv5uA8A13KA](https://forms.gle/EW4icbYv5uA8A13KA).
 
 ### Important Dates
 
-- Reviewer signup deadline: September 17th, 2021, AoE
-- Assignments of reviewers to papers: October 1st, 2021
+- Reviewer signup deadline: September 29th, 2021, AoE
+- Assignments of reviewers to papers (start of review phase): October 1st, 2021
 - Active discussion between junior & senior reviewers: October 1st to 15th, 2021
-- Final reviewing Deadline: October 15th, 2021, AoE
+- First draft of review by junior reviewers: October 8th, 2021
+- **Final reviewing deadline**: October 15th, 2021, AoE
 
 ### Reviewing Guidelines
-We encourage all reviewers, both junior and senior, to check our reviewing guideline [here](https://docs.google.com/document/d/1vRdY8e2ttALw_kzxviejrhkVkiJlJ7YiS3yGm9jykB0/edit). 
+We encourage all reviewers, both junior and senior, to check [our reviewing guidelines](https://docs.google.com/document/d/1vRdY8e2ttALw_kzxviejrhkVkiJlJ7YiS3yGm9jykB0/edit). 
 
 ### Reviewing Mentorship
 
 Last year we trialed a new reviewer mentorship scheme aiming to improve the future pool of expert reviewers in machine learning. 61 Junior reviewers provided reviews guided by 39 senior reviewers, who gave them feedback and advice throughout the reviewing process. The program was a success with lots of discussion behind the scenes, and we're excited to renew the program this year.
 
-If you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfAWp5swQk0fFP_QN9Agv5WlMWqmoVrP53ygmxLMKpuajjBVQ/viewform?usp=sf_link) by 17 September 2021.
+If you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfAWp5swQk0fFP_QN9Agv5WlMWqmoVrP53ygmxLMKpuajjBVQ/viewform?usp=sf_link) by 29 September 2021.
 
 Additionally, all submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can, of course, be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
 
