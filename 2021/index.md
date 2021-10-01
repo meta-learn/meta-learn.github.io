@@ -34,7 +34,7 @@ The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 - Oct. 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
 
 -->
-- Sep. 15, 2021: We have added a [reviewing guideline](!review-process) for both junior and senior reviewers and removed the 10-page appendix limit. 
+- Sep. 15, 2021: We have added a [reviewing guideline](#review-process) for both junior and senior reviewers and removed the 10-page appendix limit. 
 - Sep. 14, 2021: We extended the paper submission deadline to September 29th.
 - Sep. 5, 2021: We added a note to [formatting](#formatting), stating that we explicitly encourage shorter than 8-page submissions.
 - Aug. 25, 2021: OpenReview open for [submissions](#submission-instructions)! [Reviewing mentorship sign-up & recommendation form](#reviewing-mentorship) released!
