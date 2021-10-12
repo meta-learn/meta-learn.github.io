@@ -34,6 +34,8 @@ The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 - Oct. 4, 2020: The submission portal has now closed and [the reviewing process](#reviewing-mentorship) has begun.
 
 -->
+
+- Tue. 12, 2021: The workshop [schedule](#schedule) has been added!
 - Sep. 15, 2021: We have added a [reviewing guideline](#review-process) for both junior and senior reviewers and removed the 10-page appendix limit. 
 - Sep. 14, 2021: We extended the paper submission deadline to September 29th.
 - Sep. 5, 2021: We added a note to [formatting](#formatting), stating that we explicitly encourage shorter than 8-page submissions.
@@ -95,35 +97,38 @@ As prospective participants, we primarily target machine learning researchers in
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
 - [Huaxiu Yao](https://huaxiuyao.mystrikingly.com/) (Stanford)
 
-<!--
 ## Program
 
 ### Schedule
 
-The workshop schedule is aligned with 11 AM to 8 PM [UTC](https://www.timeanddate.com/worldclock/timezone/utc); please see [this converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+on+Meta-Learning+%28MetaLearn+2021%29&iso=20211211T11) for conversion to your specific time zone.
+The workshop schedule is aligned with 11 AM to 8.30 PM [UTC+1](https://www.timeanddate.com/worldclock/timezone/utc); please see [this converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+on+Meta-Learning+%28MetaLearn+2021%29&iso=20211211T11) for conversion to your specific time zone.
 
-| Beijing (CST) | Berlin (CET) | London (UTC) | New York (EST) | Vancouver (PST) |
-| ------------: | -----------: | -----------: | -------------: | --------------: |
-|         19:00 |        12:00 |        11:00 |          06:00 |           03:00 | Introduction and opening remarks |
-|         19:10 |        12:10 |        11:10 |          06:10 |           03:10 | **Invited talk 1**: TBA |
-|         19:40 |        12:40 |        11:40 |          06:40 |           03:40 | **Contributed talk 1**: TBA |
-|         20:00 |        13:00 |        12:00 |          07:00 |           04:00 | Poster session 1 |
-|         21:00 |        14:00 |        13:00 |          08:00 |           05:00 | **Invited talk 2**: TBA |
-|         21:30 |        14:30 |        13:30 |          08:30 |           05:30 | **Invited talk 3**: TBA |
-|         22:00 |        15:00 |        14:00 |          09:00 |           06:00 | _Break_ |
-|         23:00 |        16:00 |        15:00 |          10:00 |           07:00 | Poster session 2 |
-|         24:00 |        17:00 |        16:00 |          11:00 |           08:00 | **Invited talk 4**: TBA |
-|         24:30 |        17:30 |        16:30 |          11:30 |           08:30 | **Invited talk 5**: TBA |
-|         01:00 |        18:00 |        17:00 |          12:00 |           09:00 | Poster session 3 |
-|         02:00 |        19:00 |        18:00 |          13:00 |           10:00 | **Invited talk 6**: TBA |
-|         02:30 |        19:30 |        18:30 |          13:30 |           10:30 | **Contributed talk 2**: TBA |
-|         02:45 |        19:45 |        18:45 |          13:45 |           10:45 | **Contributed talk 3**: TBA |
-|         04:00 |        21:00 |        20:00 |          15:00 |           12:00 | _End_ |
--->
+| Beijing (CST) | Berlin (CET) | London (UTC+1) | New York (EST) | Vancouver (PST) |
+| ------------: | -----------: | -------------: | -------------: | --------------: |
+|         19:00 |        12:00 |          11:00 |          06:00 |           03:00 | Introduction and opening remarks |
+|         19:10 |        12:10 |          11:10 |          06:10 |           03:10 | **Invited talk 1**: Ying Wei |
+|         19:40 |        12:40 |          11:40 |          06:40 |           03:40 | **Contributed talk 1**: TBA |
+|         20:00 |        13:00 |          12:00 |          07:00 |           04:00 | Poster session 1 |
+|         21:00 |        14:00 |          13:00 |          08:00 |           05:00 | **Invited talk 2**: Carlo Ciliberto |
+|         21:30 |        14:30 |          13:30 |          08:30 |           05:30 | **Invited talk 3**: Mihaela van der Schaar |
+|         22:00 |        15:00 |          14:00 |          09:00 |           06:00 | _Break_ |
+|         23:00 |        16:00 |          15:00 |          10:00 |           07:00 | Poster session 2 |
+|         00:00 |        17:00 |          16:00 |          11:00 |           08:00 | **Contributed talk 2**: TBA |
+|         00:20 |        17:20 |          16:20 |          11:20 |           08:20 | **Invited talk 4**: ‪Nan Rosemary Ke‬ |
+|         00:50 |        17:50 |          16:50 |          11:50 |           08:50 | Poster session 3 |
+|         02:00 |        19:00 |          18:00 |          13:00 |           10:00 | **Invited talk 5**: Luke Metz |
+|         02:30 |        19:30 |          18:30 |          13:30 |           10:30 | **Invited talk 6**: Eleni Triantafillou |
+|         03:00 |        20:00 |          19:00 |          14:00 |           11:00 | **Contributed talk 3**: TBA |
+|         03:20 |        20:20 |          19:20 |          14:20 |           11:20 | **Poster session 3**: |
+|         04:30 |        21:30 |          20:30 |          15:30 |           12:30 | _End_ |
 
 ## Submission Instructions
 
 tl;dr: Please submit via the workshop OpenReview submission page at [https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn).
+
+## Poster sessions
+
+To make it easier to find the posters, we marked posters in the Gather.Town rooms by increasing number; the list of posters below for each session is ordered by their position in the room. Paid NeurIPS.cc registration is required to access the Gather.Town poster rooms.
 
 ### Important Dates
 
