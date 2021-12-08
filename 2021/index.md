@@ -110,7 +110,7 @@ The workshop schedule is aligned with 11 AM to 8.30 PM [UTC+1](https://www.timea
 |         19:40 |        12:40 |          11:40 |          06:40 |           03:40 | **Contributed talk 1**: "Meta-Learning Reliable Priors in the Function Space" |
 |         20:00 |        13:00 |          12:00 |          07:00 |           04:00 | Poster session 1 |
 |         21:00 |        14:00 |          13:00 |          08:00 |           05:00 | **Invited talk 2**: Carlo Ciliberto |
-|         21:30 |        14:30 |          13:30 |          08:30 |           05:30 | **Invited talk 3**: Mihaela van der Schaar |
+|         21:30 |        14:30 |          13:30 |          08:30 |           05:30 | **Invited talk 3**: Mihaela van der Schaar - "Quantitative Epistemology – Empowering Human Meta-learning using Machine Learning" |
 |         22:00 |        15:00 |          14:00 |          09:00 |           06:00 | _Break_ |
 |         23:00 |        16:00 |          15:00 |          10:00 |           07:00 | Poster session 2 |
 |         00:00 |        17:00 |          16:00 |          11:00 |           08:00 | **Contributed talk 2**: "Bootstrapped Meta-Learning" |
