@@ -16,7 +16,13 @@ The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 - Joining the **[poster sessions](#poster-sessions) on Gather.Town**.
 - Watching the **poster videos** on the NeurIPS.cc virtual workshop page.
 - Chatting with us and other participants on the MetaLearn 2021 Rocket.Chat!
-- Asking **panel discussion questions** on sli.do.
+- Asking **panel discussion questions** here:
+
+<center>
+<div id="main_block">
+        <iframe src="https://app.sli.do/event/gofQFfv6GTuPux8PebvmnR" height="100%" width="100%" style="min-height: 560px;"></iframe>
+</div>
+</center>
 
 ### News & Updates
 
@@ -119,7 +125,7 @@ The workshop schedule is aligned with 11 AM to 8.30 PM [UTC+1](https://www.timea
 |         02:00 |        19:00 |          18:00 |          13:00 |           10:00 | **Invited talk 5**: Luke Metz. [Q&A](https://app.sli.do/event/3gErnMS3vdePoSCcq31omD) |
 |         02:30 |        19:30 |          18:30 |          13:30 |           10:30 | **Invited talk 6**: Eleni Triantafillou. [Q&A](https://app.sli.do/event/uNGvgfiYPd6boGHxKfRxuk) |
 |         03:00 |        20:00 |          19:00 |          14:00 |           11:00 | **Contributed talk 3**: "Offline Meta-Reinforcement Learning with Online Self-Supervision" |
-|         03:20 |        20:20 |          19:20 |          14:20 |           11:20 | Poster session 3: |
+|         03:20 |        20:20 |          19:20 |          14:20 |           11:20 | Poster session 3 |
 |         04:30 |        21:30 |          20:30 |          15:30 |           12:30 | _End_ |
 
 ## Submission Instructions
