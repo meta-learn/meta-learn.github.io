@@ -136,6 +136,23 @@ tl;dr: Please submit via the workshop OpenReview submission page at [https://ope
 
 To make it easier to find the posters, we marked posters in the Gather.Town rooms by increasing number; the list of posters below for each session is ordered by their position in the room. Paid NeurIPS.cc registration is required to access the Gather.Town poster rooms.
 
+### Poster session 1
+- (A2) Open-Ended Learning Strategies for Learning Complex Locomotion Skills 
+- (A3) Neural Processes with Stochastic Attention: Paying more attention to the context dataset
+- (B0) Transformers Can Do Bayesian-Inference By Meta-Learning on Prior-Data
+- (B1) On the Practical Consistency of Meta-Reinforcement Learning Algorithms
+- (C1) DARTS without a Validation Set: Optimizing the Marginal Likelihood
+- (C3) Transfer Learning for Bayesian HPO with End-to-End Landmark Meta-Features
+- (F1) Introducing Symmetries to Black Box Meta Reinforcement Learning
+- (F3) Task Attended Meta-Learning for Few-Shot Learning
+- (G0) One Step at a Time: Pros and Cons of Multi-Step Meta-Gradient Reinforcement Learning
+- (G1) Bootstrapped Meta-Learning
+- (G2) Skill-based Meta-Reinforcement Learning
+- (H2) On the Role of Pre-training for Meta Few-Shot Learning
+
+### Poster session 2
+- 
+
 ### Important Dates
 
 - Submission deadline: [September 29th, 2021, 11:59 PM AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MetaLearn%40NeurIPS+2021+Submission+Deadline&iso=20210929T235959&p1=3926)
