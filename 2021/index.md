@@ -131,7 +131,7 @@ The workshop schedule is aligned with 11 AM to 8.30 PM [UTC](https://www.timeand
 
 ## Contributed Papers
 
-To make it easier to find the posters, we list them below according to their location ID in our GatherTown room in ascending order (denoted in preceding brackets). A paid NeurIPS.cc registration is required to access the Gather.Town poster rooms.
+To make it easier to find the posters, we list them below according to their location ID in our GatherTown room in ascending order (denoted in preceding brackets). A paid NeurIPS.cc registration is required to access the Gather.Town poster rooms; see the [tl;dr section](#tldr-how-can-i-participate) for access details.
 
 ### Poster session 1 (12:00 UTC)
 - (A2) [Open-Ended Learning Strategies for Learning Complex Locomotion Skills](https://openreview.net/forum?id=l8c9NYgA4Lw)
