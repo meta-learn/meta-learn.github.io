@@ -151,7 +151,28 @@ To make it easier to find the posters, we marked posters in the Gather.Town room
 - (H2) On the Role of Pre-training for Meta Few-Shot Learning
 
 ### Poster session 2
-- 
+- (A0) Variational Task Encoders for Model-Agnostic Meta-Learning
+- (B2) Understanding Catastrophic Forgetting and Remembering in Continual Learning with Optimal Relevance Mapping
+- (C2) Curriculum Meta-Learning for Few-shot Classification
+- (D0) Successor Feature Neural Episodic Control
+- (D1) FedMix: A Simple and Communication-Efficient Alternative to Local Methods in Federated Learning
+- (F0) A Nested Bi-level Optimization Framework for Robust Few Shot Learning
+- (G3) Efficient Automated Online Experimentation with Multi-Fidelity
+- (H0) Sign-MAML: Efficient Model-Agnostic Meta-Learning by SignSGD
+- (H1) A Preliminary Study on the Feature Representations of Transfer Learning and Gradient-Based Meta-Learning Techniques
+- (H3) Contrastive Embedding of Structured Space for Bayesian Optimization
+- (I0) Hierarchical Few-Shot Generative Models
+
+### Poster session 3
+- (A1) Meta-learning from sparse recovery
+- (B3) Few Shot Image Generation via Implicit Autoencoding of Support Sets
+- (C0) Meta-learning inductive biases of learning systems with Gaussian processes
+- (D2) Offline Meta-Reinforcement Learning with Online Self-Supervision
+- (D3) Studying BatchNorm Learning Rate Decay on Meta-Learning Inner-Loop Adaptation
+- (E0) Effect of diversity in Meta-Learning
+- (E1) How to distribute data across tasks for meta-learning?
+- (E2) Unsupervised Meta-Learning via Latent Space Energy-based Model of Symbol Vector Coupling
+- (F2) A Meta-Gradient Approach to Learning Cooperative Multi-Agent Communication Topology
 
 ### Important Dates
 
