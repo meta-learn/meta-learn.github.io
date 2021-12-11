@@ -179,7 +179,7 @@ To make it easier to find the posters, we list them below according to their loc
 
 ## Submission Instructions
 
-~tl;dr: Please submit via the workshop OpenReview submission page at [https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn).~ The submission period has now passed.
+~~tl;dr: Please submit via the workshop OpenReview submission page at [https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn).~~ The submission period has now passed.
 
 ### Important Dates
 
