@@ -137,34 +137,34 @@ tl;dr: Please submit via the workshop OpenReview submission page at [https://ope
 To make it easier to find the posters, we marked posters in the Gather.Town rooms by increasing number; the list of posters below for each session is ordered by their position in the room. Paid NeurIPS.cc registration is required to access the Gather.Town poster rooms.
 
 ### Poster session 1
-- (A2) Open-Ended Learning Strategies for Learning Complex Locomotion Skills 
+- (A2) [Open-Ended Learning Strategies for Learning Complex Locomotion Skills](https://openreview.net/forum?id=l8c9NYgA4Lw)
 - (A3) [Neural Processes with Stochastic Attention: Paying more attention to the context dataset](https://openreview.net/forum?id=URep0STGewu)
 - (B0) [Transformers Can Do Bayesian-Inference By Meta-Learning on Prior-Data](https://openreview.net/forum?id=h9yIMMjRoje)
-- (B1) On the Practical Consistency of Meta-Reinforcement Learning Algorithms
+- (B1) [On the Practical Consistency of Meta-Reinforcement Learning Algorithms](https://openreview.net/forum?id=xwQgKphwhFA)
 - (C1) [DARTS without a Validation Set: Optimizing the Marginal Likelihood](https://openreview.net/forum?id=661Wz3zOzlt)
 - (C3) [Transfer Learning for Bayesian HPO with End-to-End Landmark Meta-Features](https://openreview.net/forum?id=wfD-fMD4StU)
 - (F1) [Introducing Symmetries to Black Box Meta Reinforcement Learning](https://openreview.net/forum?id=LXmP-7uObH9)
-- (F3) Task Attended Meta-Learning for Few-Shot Learning
+- (F3) [Task Attended Meta-Learning for Few-Shot Learning](https://openreview.net/forum?id=D380IGEhAnF)
 - (G0) [One Step at a Time: Pros and Cons of Multi-Step Meta-Gradient Reinforcement Learning](https://openreview.net/forum?id=QVx41_Ixgb9)
 - (G1) [Bootstrapped Meta-Learning](https://openreview.net/forum?id=l0p8mc_xSRN)
 - (G2) [Skill-based Meta-Reinforcement Learning](https://openreview.net/forum?id=jsV1-AQVEFY)
-- (H2) On the Role of Pre-training for Meta Few-Shot Learning
+- (H2) [On the Role of Pre-training for Meta Few-Shot Learning](https://openreview.net/forum?id=rMb5uMu1vuj)
 
 ### Poster session 2
-- (A0) Variational Task Encoders for Model-Agnostic Meta-Learning
+- (A0) [Variational Task Encoders for Model-Agnostic Meta-Learning](https://openreview.net/forum?id=dfYhf5IuMPE)
 - (B2) [Understanding Catastrophic Forgetting and Remembering in Continual Learning with Optimal Relevance Mapping](https://openreview.net/forum?id=Pvqe_hQEXTJ)
 - (C2) [Curriculum Meta-Learning for Few-shot Classification](https://openreview.net/forum?id=teRUKZdPJt6)
-- (D0) Successor Feature Neural Episodic Control
+- (D0) [Successor Feature Neural Episodic Control](https://openreview.net/forum?id=e1Q2_jaE08J)
 - (D1) [FedMix: A Simple and Communication-Efficient Alternative to Local Methods in Federated Learning](https://openreview.net/forum?id=6WhWweNk8gr)
-- (F0) A Nested Bi-level Optimization Framework for Robust Few Shot Learning
-- (G3) Efficient Automated Online Experimentation with Multi-Fidelity
-- (H0) Sign-MAML: Efficient Model-Agnostic Meta-Learning by SignSGD
-- (H1) A Preliminary Study on the Feature Representations of Transfer Learning and Gradient-Based Meta-Learning Techniques
-- (H3) Contrastive Embedding of Structured Space for Bayesian Optimization
+- (F0) [A Nested Bi-level Optimization Framework for Robust Few Shot Learning](https://openreview.net/forum?id=OtokjoNoFu5)
+- (G3) [Efficient Automated Online Experimentation with Multi-Fidelity](https://openreview.net/forum?id=c04LDyEm-N4)
+- (H0) [Sign-MAML: Efficient Model-Agnostic Meta-Learning by SignSGD](https://openreview.net/forum?id=bd0UOwKS_6j)
+- (H1) [A Preliminary Study on the Feature Representations of Transfer Learning and Gradient-Based Meta-Learning Techniques](https://openreview.net/forum?id=bkZRxSrCMf0)
+- (H3) [Contrastive Embedding of Structured Space for Bayesian Optimization](https://openreview.net/forum?id=xFpkJUMS9te)
 - (I0) [Hierarchical Few-Shot Generative Models](https://openreview.net/forum?id=INSai0E0VXN)
 
 ### Poster session 3
-- (A1) Meta-learning from sparse recovery
+- (A1) [Meta-learning from sparse recovery](https://openreview.net/forum?id=ODs0nDkjncI)
 - (B3) [Few Shot Image Generation via Implicit Autoencoding of Support Sets](https://openreview.net/forum?id=fem00ckyS8t)
 - (C0) [Meta-learning inductive biases of learning systems with Gaussian processes](https://openreview.net/forum?id=YPeusrnp28q)
 - (D2) [Offline Meta-Reinforcement Learning with Online Self-Supervision](https://openreview.net/forum?id=j8FYUjh_q2v)
