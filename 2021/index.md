@@ -111,7 +111,9 @@ As prospective participants, we primarily target machine learning researchers in
 
 ### Schedule
 
-The workshop schedule is aligned with 11 AM to 8.30 PM [UTC](https://www.timeanddate.com/worldclock/timezone/utc); please see [this converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+on+Meta-Learning+%28MetaLearn+2021%29&iso=20211213T11) for conversion to your specific time zone.
+The workshop schedule is aligned with 11 AM to 8:30 PM [UTC](https://www.timeanddate.com/worldclock/timezone/utc); please see [this converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+on+Meta-Learning+%28MetaLearn+2021%29&iso=20211213T11) for conversion to your specific time zone.
+
+The schedule can also be found on the [workshop virtual site](https://neurips.cc/virtual/2021/workshop/21867).
 
 | CST           | CET          | UTC            | EST            | PST             |
 | ------------: | -----------: | -------------: | -------------: | --------------: |
@@ -132,11 +134,11 @@ The workshop schedule is aligned with 11 AM to 8.30 PM [UTC](https://www.timeand
 |         03:20 |        20:20 |          19:20 |          14:20 |           11:20 | Poster session 3 |
 |         04:30 |        21:30 |          20:30 |          15:30 |           12:30 | _End_ |
 
-## Contributed Papers
+### Contributed Papers
 
 To make it easier to find the posters, we list them below according to their location ID in our GatherTown room in ascending order (denoted in preceding brackets). A paid NeurIPS.cc registration is required to access the Gather.Town poster rooms; see the [tl;dr section](#tldr-how-can-i-participate) for access details.
 
-### Poster session 1 (12:00 UTC)
+#### Poster session 1 (12:00 UTC)
 - (A2) [Open-Ended Learning Strategies for Learning Complex Locomotion Skills](https://openreview.net/forum?id=l8c9NYgA4Lw)
 - (A3) [Neural Processes with Stochastic Attention: Paying more attention to the context dataset](https://openreview.net/forum?id=URep0STGewu)
 - (B0) [Transformers Can Do Bayesian-Inference By Meta-Learning on Prior-Data](https://openreview.net/forum?id=h9yIMMjRoje)
@@ -150,7 +152,7 @@ To make it easier to find the posters, we list them below according to their loc
 - (G2) [Skill-based Meta-Reinforcement Learning](https://openreview.net/forum?id=jsV1-AQVEFY)
 - (H2) [On the Role of Pre-training for Meta Few-Shot Learning](https://openreview.net/forum?id=rMb5uMu1vuj)
 
-### Poster session 2 (16:50 UTC)
+#### Poster session 2 (16:50 UTC)
 - (A0) [Variational Task Encoders for Model-Agnostic Meta-Learning](https://openreview.net/forum?id=dfYhf5IuMPE)
 - (B2) [Understanding Catastrophic Forgetting and Remembering in Continual Learning with Optimal Relevance Mapping](https://openreview.net/forum?id=Pvqe_hQEXTJ)
 - (C2) [Curriculum Meta-Learning for Few-shot Classification](https://openreview.net/forum?id=teRUKZdPJt6)
@@ -163,7 +165,7 @@ To make it easier to find the posters, we list them below according to their loc
 - (H3) [Contrastive Embedding of Structured Space for Bayesian Optimization](https://openreview.net/forum?id=xFpkJUMS9te)
 - (I0) [Hierarchical Few-Shot Generative Models](https://openreview.net/forum?id=INSai0E0VXN)
 
-### Poster session 3 (19:20 UTC)
+#### Poster session 3 (19:20 UTC)
 - (A1) [Meta-learning from sparse recovery](https://openreview.net/forum?id=ODs0nDkjncI)
 - (B3) [Few Shot Image Generation via Implicit Autoencoding of Support Sets](https://openreview.net/forum?id=fem00ckyS8t)
 - (C0) [Meta-learning inductive biases of learning systems with Gaussian processes](https://openreview.net/forum?id=YPeusrnp28q)
