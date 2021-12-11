@@ -113,18 +113,18 @@ The workshop schedule is aligned with 11 AM to 8.30 PM [UTC+1](https://www.timea
 | ------------: | -----------: | -------------: | -------------: | --------------: |
 |         19:00 |        12:00 |          11:00 |          06:00 |           03:00 | Introduction and opening remarks |
 |         19:10 |        12:10 |          11:10 |          06:10 |           03:10 | **Invited talk 1**: Ying Wei. [Q&A](https://app.sli.do/event/eMMD9KMrtvXGVq8MTzTsRs) |
-|         19:40 |        12:40 |          11:40 |          06:40 |           03:40 | **Contributed talk 1**: "Meta-Learning Reliable Priors in the Function Space" |
+|         19:40 |        12:40 |          11:40 |          06:40 |           03:40 | **Contributed talk 1**: "[Meta-Learning Reliable Priors in the Function Space](https://openreview.net/forum?id=UHgSQilPX-7)" |
 |         20:00 |        13:00 |          12:00 |          07:00 |           04:00 | Poster session 1 |
 |         21:00 |        14:00 |          13:00 |          08:00 |           05:00 | **Invited talk 2**: Carlo Ciliberto. [Q&A](https://app.sli.do/event/eF7qGQEPgJWAmF5ZnHTU2s) |
 |         21:30 |        14:30 |          13:30 |          08:30 |           05:30 | **Invited talk 3**: Mihaela van der Schaar - "Quantitative Epistemology – Empowering Human Meta-learning using Machine Learning". [Q&A](https://app.sli.do/event/iPxmemcmJMbx2rAkF6qzu2) |
 |         22:00 |        15:00 |          14:00 |          09:00 |           06:00 | _Break_ |
 |         23:00 |        16:00 |          15:00 |          10:00 |           07:00 | **Panel discussion** (Ask questions [here](https://app.sli.do/event/gofQFfv6GTuPux8PebvmnR) |
-|         00:00 |        17:00 |          16:00 |          11:00 |           08:00 | **Contributed talk 2**: "Bootstrapped Meta-Learning" |
+|         00:00 |        17:00 |          16:00 |          11:00 |           08:00 | **Contributed talk 2**: "[Bootstrapped Meta-Learning](https://openreview.net/forum?id=l0p8mc_xSRN)" |
 |         00:20 |        17:20 |          16:20 |          11:20 |           08:20 | **Invited talk 4**: ‪Nan Rosemary Ke‬. [Q&A](https://app.sli.do/event/sKX3ntNNRSG5kspfEEjpra) |
 |         00:50 |        17:50 |          16:50 |          11:50 |           08:50 | Poster session 2 |
 |         02:00 |        19:00 |          18:00 |          13:00 |           10:00 | **Invited talk 5**: Luke Metz. [Q&A](https://app.sli.do/event/3gErnMS3vdePoSCcq31omD) |
 |         02:30 |        19:30 |          18:30 |          13:30 |           10:30 | **Invited talk 6**: Eleni Triantafillou. [Q&A](https://app.sli.do/event/uNGvgfiYPd6boGHxKfRxuk) |
-|         03:00 |        20:00 |          19:00 |          14:00 |           11:00 | **Contributed talk 3**: "Offline Meta-Reinforcement Learning with Online Self-Supervision" |
+|         03:00 |        20:00 |          19:00 |          14:00 |           11:00 | **Contributed talk 3**: "[Offline Meta-Reinforcement Learning with Online Self-Supervision](https://openreview.net/forum?id=j8FYUjh_q2v)" |
 |         03:20 |        20:20 |          19:20 |          14:20 |           11:20 | Poster session 3 |
 |         04:30 |        21:30 |          20:30 |          15:30 |           12:30 | _End_ |
 
