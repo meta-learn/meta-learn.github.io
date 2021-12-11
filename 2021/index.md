@@ -9,13 +9,12 @@ redirect_from: /2021/
 
 ### TL;DR: How can I participate?
 
-The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded talks + live question-and-answer (Q&A) periods, and poster sessions on Gather.Town. You will be able to participate by:
-- [Submitting a paper](#submission-instructions) to the workshop!
-- Accessing the **livestream** on our NeurIPS.cc virtual workshop page!
-- Joining the **Zoom to message questions to the moderator during the Q&As and panel discussion**, also from the NeurIPS.cc virtual workshop page.
-- Joining the **[poster sessions](#poster-sessions) on Gather.Town**.
-- Watching the **poster videos** on the NeurIPS.cc virtual workshop page.
-- Chatting with us and other participants on the MetaLearn 2021 Rocket.Chat!
+The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded talks + live question-and-answer (Q&A) periods, and poster sessions on Gather.Town. You will be able to participate via our [NeurIPS.cc virtual workshop page](https://neurips.cc/virtual/2021/workshop/21867) (NeurIPS registration required) by:
+- Watching the **livestream**!
+- Joining the **Zoom to message questions to the moderator during the Q&As and panel discussion**.
+- Joining the **[poster sessions](#Contributed-Papers) on Gather.Town**.
+- Watching the **prerecorded videos** for posters, contributed talks and invited talks.
+- Chatting with us and other participants on the workshop **RocketChat**!
 - Asking **panel discussion questions** here:
 
 <center>
@@ -41,7 +40,9 @@ The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded tal
 
 -->
 
-- Tue. 12, 2021: The workshop [schedule](#schedule) has been added!
+- Dec. 13, 2020: Workshop day! Please check the "tl;dr" section above for participation instructions.
+- Dec. 11, 2021: Papers are now released via the workshop's [OpenReview](#papers)!
+- Oct. 12, 2021: The workshop [schedule](#schedule) has been added!
 - Sep. 15, 2021: We have added a [reviewing guideline](#review-process) for both junior and senior reviewers and removed the 10-page appendix limit. 
 - Sep. 14, 2021: We extended the paper submission deadline to September 29th.
 - Sep. 5, 2021: We added a note to [formatting](#formatting), stating that we explicitly encourage shorter than 8-page submissions.
@@ -107,9 +108,9 @@ As prospective participants, we primarily target machine learning researchers in
 
 ### Schedule
 
-The workshop schedule is aligned with 11 AM to 8.30 PM [UTC+1](https://www.timeanddate.com/worldclock/timezone/utc); please see [this converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+on+Meta-Learning+%28MetaLearn+2021%29&iso=20211211T11) for conversion to your specific time zone.
+The workshop schedule is aligned with 11 AM to 8.30 PM [UTC](https://www.timeanddate.com/worldclock/timezone/utc); please see [this converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+on+Meta-Learning+%28MetaLearn+2021%29&iso=20211213T11) for conversion to your specific time zone.
 
-| Beijing (CST) | Berlin (CET) | London (UTC+1) | New York (EST) | Vancouver (PST) |
+| Beijing (CST) | Berlin (CET) | London (UTC)   | New York (EST) | Vancouver (PST) |
 | ------------: | -----------: | -------------: | -------------: | --------------: |
 |         19:00 |        12:00 |          11:00 |          06:00 |           03:00 | Introduction and opening remarks |
 |         19:10 |        12:10 |          11:10 |          06:10 |           03:10 | **Invited talk 1**: Ying Wei. [Q&A](https://app.sli.do/event/eMMD9KMrtvXGVq8MTzTsRs) |
@@ -128,15 +129,11 @@ The workshop schedule is aligned with 11 AM to 8.30 PM [UTC+1](https://www.timea
 |         03:20 |        20:20 |          19:20 |          14:20 |           11:20 | Poster session 3 |
 |         04:30 |        21:30 |          20:30 |          15:30 |           12:30 | _End_ |
 
-## Submission Instructions
-
-tl;dr: Please submit via the workshop OpenReview submission page at [https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn).
-
-## Poster sessions
+## Contributed Papers
 
 To make it easier to find the posters, we list them below according to their location ID in our GatherTown room in ascending order (denoted in preceding brackets). A paid NeurIPS.cc registration is required to access the Gather.Town poster rooms.
 
-### Poster session 1
+### Poster session 1 (12:00 UTC)
 - (A2) [Open-Ended Learning Strategies for Learning Complex Locomotion Skills](https://openreview.net/forum?id=l8c9NYgA4Lw)
 - (A3) [Neural Processes with Stochastic Attention: Paying more attention to the context dataset](https://openreview.net/forum?id=URep0STGewu)
 - (B0) [Transformers Can Do Bayesian-Inference By Meta-Learning on Prior-Data](https://openreview.net/forum?id=h9yIMMjRoje)
@@ -150,7 +147,7 @@ To make it easier to find the posters, we list them below according to their loc
 - (G2) [Skill-based Meta-Reinforcement Learning](https://openreview.net/forum?id=jsV1-AQVEFY)
 - (H2) [On the Role of Pre-training for Meta Few-Shot Learning](https://openreview.net/forum?id=rMb5uMu1vuj)
 
-### Poster session 2
+### Poster session 2 (16:50 UTC)
 - (A0) [Variational Task Encoders for Model-Agnostic Meta-Learning](https://openreview.net/forum?id=dfYhf5IuMPE)
 - (B2) [Understanding Catastrophic Forgetting and Remembering in Continual Learning with Optimal Relevance Mapping](https://openreview.net/forum?id=Pvqe_hQEXTJ)
 - (C2) [Curriculum Meta-Learning for Few-shot Classification](https://openreview.net/forum?id=teRUKZdPJt6)
@@ -163,7 +160,7 @@ To make it easier to find the posters, we list them below according to their loc
 - (H3) [Contrastive Embedding of Structured Space for Bayesian Optimization](https://openreview.net/forum?id=xFpkJUMS9te)
 - (I0) [Hierarchical Few-Shot Generative Models](https://openreview.net/forum?id=INSai0E0VXN)
 
-### Poster session 3
+### Poster session 3 (19:20 UTC)
 - (A1) [Meta-learning from sparse recovery](https://openreview.net/forum?id=ODs0nDkjncI)
 - (B3) [Few Shot Image Generation via Implicit Autoencoding of Support Sets](https://openreview.net/forum?id=fem00ckyS8t)
 - (C0) [Meta-learning inductive biases of learning systems with Gaussian processes](https://openreview.net/forum?id=YPeusrnp28q)
@@ -174,6 +171,10 @@ To make it easier to find the posters, we list them below according to their loc
 - (E2) [Unsupervised Meta-Learning via Latent Space Energy-based Model of Symbol Vector Coupling](https://openreview.net/forum?id=-pLftu7EpXz)
 - (E3) [Meta-Learning Reliable Priors in the Function Space](https://openreview.net/forum?id=UHgSQilPX-7)
 - (F2) [A Meta-Gradient Approach to Learning Cooperative Multi-Agent Communication Topology](https://openreview.net/forum?id=VR0mCjFWGZw)
+
+## Submission Instructions
+
+~tl;dr: Please submit via the workshop OpenReview submission page at [https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MetaLearn).~ The submission period has now passed.
 
 ### Important Dates
 
