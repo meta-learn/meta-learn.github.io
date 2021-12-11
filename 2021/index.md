@@ -113,14 +113,14 @@ As prospective participants, we primarily target machine learning researchers in
 
 The workshop schedule is aligned with 11 AM to 8.30 PM [UTC](https://www.timeanddate.com/worldclock/timezone/utc); please see [this converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+on+Meta-Learning+%28MetaLearn+2021%29&iso=20211213T11) for conversion to your specific time zone.
 
-| Beijing (CST) | Berlin (CET) | London (UTC)   | New York (EST) | Vancouver (PST) |
+| CST           | CET          | UTC            | EST            | PST             |
 | ------------: | -----------: | -------------: | -------------: | --------------: |
 |         19:00 |        12:00 |          11:00 |          06:00 |           03:00 | Introduction and opening remarks |
 |         19:10 |        12:10 |          11:10 |          06:10 |           03:10 | **Invited talk 1**: Ying Wei. [Q&A](https://app.sli.do/event/eMMD9KMrtvXGVq8MTzTsRs) |
 |         19:40 |        12:40 |          11:40 |          06:40 |           03:40 | **Contributed talk 1**: "[Meta-Learning Reliable Priors in the Function Space](https://openreview.net/forum?id=UHgSQilPX-7)" |
 |         20:00 |        13:00 |          12:00 |          07:00 |           04:00 | Poster session 1 |
 |         21:00 |        14:00 |          13:00 |          08:00 |           05:00 | **Invited talk 2**: Carlo Ciliberto. [Q&A](https://app.sli.do/event/eF7qGQEPgJWAmF5ZnHTU2s) |
-|         21:30 |        14:30 |          13:30 |          08:30 |           05:30 | **Invited talk 3**: Mihaela van der Schaar - "Quantitative Epistemology – Empowering Human Meta-learning using Machine Learning". [Q&A](https://app.sli.do/event/iPxmemcmJMbx2rAkF6qzu2) |
+|         21:30 |        14:30 |          13:30 |          08:30 |           05:30 | **Invited talk 3**: Mihaela van der Schaar, "Quantitative Epistemology– Empowering Human Meta-learning using Machine Learning." [Q&A](https://app.sli.do/event/iPxmemcmJMbx2rAkF6qzu2) |
 |         22:00 |        15:00 |          14:00 |          09:00 |           06:00 | _Break_ |
 |         23:00 |        16:00 |          15:00 |          10:00 |           07:00 | **Panel discussion** (Ask questions [here](https://app.sli.do/event/gofQFfv6GTuPux8PebvmnR) |
 |         00:00 |        17:00 |          16:00 |          11:00 |           08:00 | **Contributed talk 2**: "[Bootstrapped Meta-Learning](https://openreview.net/forum?id=l0p8mc_xSRN)" |
