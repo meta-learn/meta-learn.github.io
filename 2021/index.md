@@ -44,7 +44,7 @@ You can also:
 -->
 
 - Dec. 13, 2020: Workshop day! Please check the "tl;dr" section above for participation instructions.
-- Dec. 11, 2021: Papers are now released via the workshop's [OpenReview](#papers)!
+- Dec. 11, 2021: [Papers](#contributed-papers) are now released via the workshop's OpenReview!
 - Oct. 12, 2021: The workshop [schedule](#schedule) has been added!
 - Sep. 15, 2021: We have added a [reviewing guideline](#review-process) for both junior and senior reviewers and removed the 10-page appendix limit. 
 - Sep. 14, 2021: We extended the paper submission deadline to September 29th.
