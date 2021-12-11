@@ -12,10 +12,13 @@ redirect_from: /2021/
 The 2021 Workshop on Meta-Learning will be a series of streamed pre-recorded talks + live question-and-answer (Q&A) periods, and poster sessions on Gather.Town. You will be able to participate via our [NeurIPS.cc virtual workshop page](https://neurips.cc/virtual/2021/workshop/21867) (NeurIPS registration required) by:
 - Watching the **livestream**!
 - Joining the **Zoom to message questions to the moderator during the Q&As and panel discussion**.
-- Joining the **[poster sessions](#Contributed-Papers) on Gather.Town**.
+- Joining the **poster sessions on Gather.Town**.
 - Watching the **prerecorded videos** for posters, contributed talks and invited talks.
 - Chatting with us and other participants on the workshop **RocketChat**!
-- Asking **panel discussion questions** here:
+
+You can also:
+- Read the **[contributed papers](#contributed-papers) on OpenReview**.
+- Ask **panel discussion questions** here:
 
 <center>
 <div id="main_block">
