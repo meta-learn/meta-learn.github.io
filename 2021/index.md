@@ -134,7 +134,7 @@ tl;dr: Please submit via the workshop OpenReview submission page at [https://ope
 
 ## Poster sessions
 
-To make it easier to find the posters, we marked posters in the Gather.Town rooms by increasing number; the list of posters below for each session is ordered by their position in the room. Paid NeurIPS.cc registration is required to access the Gather.Town poster rooms.
+To make it easier to find the posters, we list them below according to their location ID in our GatherTown room in ascending order (denoted in preceding brackets). A paid NeurIPS.cc registration is required to access the Gather.Town poster rooms.
 
 ### Poster session 1
 - (A2) [Open-Ended Learning Strategies for Learning Complex Locomotion Skills](https://openreview.net/forum?id=l8c9NYgA4Lw)
