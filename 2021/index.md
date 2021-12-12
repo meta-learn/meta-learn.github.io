@@ -252,11 +252,49 @@ Additionally, all submissions will be asked to provide **two** contacts who have
  *Authors*
 -->
 
-<!--
+
 ## Program Committee
 
-We thank the program committee for shaping the excellent technical program; they are (in alphabetical order):
--->
+We thank the program committee (senior and junior reviewers) for shaping the excellent technical program; they are (in alphabetical order):
+
+
+Lucas Zimmer,
+Luisa M Zintgraf,
+Marius Lindauer,
+Marvin Zhang,
+Massimiliano Patacchiola,
+Mateusz Ochal,
+Maximilian Igl,
+Mengye Ren,
+Michael Chang,
+Michael Y. Li,
+Mihai Suteu,
+Mike Huisman,
+Mikhail Mekhedkin Meskhi,
+Mingyu Kim,
+Nasik Muhammad Nafi,
+Nayan Saxena,
+Nicholas I-Hsien Kuo,
+Nico Courts,
+Nikita Dhawan,
+Ondrej Bohdal,
+Paul Caron,
+Pedro Sandoval-Segura,
+Praneet Dutta,
+Quentin Bouniot,
+Ramnath Kumar,
+Renkun Ni,
+Sahil Manchanda,
+Sean M. Hendryx,
+Sharare Zehtabian,
+Sreejan Kumar,
+Sungryull Sohn,
+Tejaswini Pedapati,
+Thomas Elsken,
+Tim Postuvan,
+Valentin Guillet,
+Valerio Perrone,
+Yandong Li
 
 
 ## Past Workshops
