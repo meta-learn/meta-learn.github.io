@@ -58,7 +58,8 @@ Recent years have seen rapid progress in meta-learning methods, which transfer k
 
 Some of the fundamental questions that this workshop aims to address are:
 
-- How can we exploit our domain knowledge to guide the meta-learning process and make it more efficient? • What are the meta-learning processes in nature (e.g., in humans), and how can we take inspiration from them?
+- How can we exploit our domain knowledge to guide the meta-learning process and make it more efficient?
+- What are the meta-learning processes in nature (e.g., in humans), and how can we take inspiration from them?
 - Which machine learning approaches are best suited for meta-learning, in which circumstances, and why?
 - What principles can we learn from meta-learning to help us design the next generation of learning systems?
 
