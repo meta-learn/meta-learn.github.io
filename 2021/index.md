@@ -119,7 +119,7 @@ The schedule can also be found on the [workshop virtual site](https://neurips.cc
 | CST           | CET          | UTC            | EST            | PST             |
 | ------------: | -----------: | -------------: | -------------: | --------------: |
 |         19:00 |        12:00 |          11:00 |          06:00 |           03:00 | Introduction and opening remarks |
-|         19:10 |        12:10 |          11:10 |          06:10 |           03:10 | **Invited talk 1**: Ying Wei, "" [Q&A](https://app.sli.do/event/eMMD9KMrtvXGVq8MTzTsRs) |
+|         19:10 |        12:10 |          11:10 |          06:10 |           03:10 | **Invited talk 1**: Ying Wei, "Robust Meta-learning In the Wild" [Q&A](https://app.sli.do/event/eMMD9KMrtvXGVq8MTzTsRs) |
 |         19:40 |        12:40 |          11:40 |          06:40 |           03:40 | **Contributed talk 1**: "[Meta-Learning Reliable Priors in the Function Space](https://openreview.net/forum?id=UHgSQilPX-7)" |
 |         20:00 |        13:00 |          12:00 |          07:00 |           04:00 | Poster session 1 |
 |         21:00 |        14:00 |          13:00 |          08:00 |           05:00 | **Invited talk 2**: Carlo Ciliberto, "" [Q&A](https://app.sli.do/event/eF7qGQEPgJWAmF5ZnHTU2s) |
