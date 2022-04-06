@@ -331,7 +331,7 @@ To make it easier to find the posters, we marked posters in the Gather.Town room
 *Alexander Tornede, Marcel Wever, Eyke Hüllermeier*. [[paper]](papers/37_paper.pdf) [[poster]](papers/37_poster.png)
 
 - **Meta-Learning via Hypernetworks**.
-*Dominic Zhao, Johannes von Oswald, Seijin Kobayashi, João Sacramento*. [[paper]](papers/38_paper.pdf) [[poster]](papers/38_poster.png)
+*Dominic Zhao, Seijin Kobayashi, João Sacramento, Johannes von Oswald*. [[paper]](papers/38_paper.pdf) [[poster]](papers/38_poster.png)
 
 - **Open-Set Incremental Learning via Bayesian Prototypical Embeddings**.
 *John Willes, James Harrison, Chelsea Finn, Marco Pavone, Steven L Waslander*. [[paper]](papers/40_paper.pdf) [[supplementary]](papers/40_supplementary.pdf) [[poster]](papers/40_poster.png)
