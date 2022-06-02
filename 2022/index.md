@@ -1,6 +1,6 @@
 ---
 title: Workshop on Meta-Learning (MetaLearn 2022)
-description: "@NeurIPS 2022 <br> XX December 2022 <br>"
+description: "@NeurIPS 2022 <br> 2nd and 3rd December 2022 <br> (Hybrid)"
 permalink: /2022/index.html
 weight: -1
 redirect_from: /2022/
@@ -18,7 +18,7 @@ Some of the fundamental questions that this workshop aims to address are:
 - What principles can we learn from meta-learning to help us design the next generation of learning systems?
 - What kind of theoretical principles can we develop for meta-learning? 
 - How can we exploit our domain knowledge to effectively guide the meta-learning process and make it more efficient?
-- How can be design better benchmarks for different meta-learning scenarios
+- How can be design better benchmarks for different meta-learning scenarios?
 
 As prospective participants, we primarily target machine learning researchers interested in the questions and foci outlined above. Specific target communities within machine learning include, but are not limited to: meta-learning, AutoML, reinforcement learning, deep learning, optimization, evolutionary computation, and Bayesian optimization. We also invite submissions from researchers who study human learning and neuroscience, to provide a broad and interdisciplinary perspective to the attendees.
 
