@@ -64,6 +64,8 @@ TBA
 
 We have provided a modified `.sty` file [here](neurips_2022.sty) that appropriately lists the name of the workshop when `\neuripsfinal` is enabled. Please use this style file in conjunction with the corresponding LaTeX `.tex` template from the [NeurIPS website](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles) to submit a final camera-ready copy. Both the submission and the camera-ready can be up to **8 pages** (excluding references) **and we explicitly encourage submitting works shorter than 8 pages** (e.g., works that may show preliminary but novel results).
 
+[Start your submission](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/MetaLearn).
+
 ### Publication
 
 Accepted papers and supplementary material will be made available on the workshop website. However, these do not constitute archival publications and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
