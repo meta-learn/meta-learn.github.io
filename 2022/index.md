@@ -72,7 +72,7 @@ Accepted papers and supplementary material will be made available on the worksho
 
 ### FAQ
 
-1. Can supplementary material be added beyond the 8-page limit for submissions, and are there any restrictions on it?
+1. Can supplementary material be added beyond the 4-page limit for submissions, and are there any restrictions on it?
 
    Yes, you may include additional supplementary material, but you should ensure that the main paper is self-contained, since looking at supplementary material is at the discretion of the reviewers. The supplementary material should also follow the same NeurIPS format as the paper.
    
