@@ -44,7 +44,7 @@ TBA
 - [Fábio Ferreira](https://ml.informatik.uni-freiburg.de/people/ferreira/index.html) (Freiburg University)
 - [Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/) (Freiburg University)
 - [Qi Lei](https://cecilialeiqi.github.io/) (Princeton University)
-- [Eleni Triantafillou](https://www.cs.toronto.edu/~eleni/) (UC Berkeley)
+- [Eleni Triantafillou](https://www.cs.toronto.edu/~eleni/) (Google Brain)
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
 - [Huaxiu Yao](https://huaxiuyao.mystrikingly.com/) (Stanford)
 
@@ -56,7 +56,7 @@ TBA
 
 ### Important Dates
 
-- Submission deadline: [September 22nd, 2022, 11:59 PM AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MetaLearn%40NeurIPS+2021+Submission+Deadline&iso=20210929T235959&p1=3926)
+- Submission deadline: [October 1st, 2022, 11:59 PM AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MetaLearn%40NeurIPS+2021+Submission+Deadline&iso=20210929T235959&p1=3926)
 - Author Notification: October 20th, 2022, AoE
 - Camera-ready submission (paper + poster) to OpenReview: November 3rd, 2021, AoE
 
