@@ -76,7 +76,7 @@ Accepted papers and supplementary material will be made available on the worksho
 
    Yes, you may include additional supplementary material, but you should ensure that the main paper is self-contained, since looking at supplementary material is at the discretion of the reviewers. The supplementary material should also follow the same NeurIPS format as the paper.
    
-1. Are references included in the 8-page limit?
+1. Are references included in the 4-page limit?
    
    No, references will not count towards the page limit.
 
