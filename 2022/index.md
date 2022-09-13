@@ -107,16 +107,6 @@ tl;dr: The review process will be **double-blind**. Please sign up to be, or rec
 ### Reviewing Guidelines
 We encourage all reviewers, both junior and senior, to check [our reviewing guidelines](https://docs.google.com/document/d/1vRdY8e2ttALw_kzxviejrhkVkiJlJ7YiS3yGm9jykB0/edit). 
 
-### Reviewing Mentorship
-
-Last year we trialed a new reviewer mentorship scheme aiming to improve the future pool of expert reviewers in machine learning. 61 Junior reviewers provided reviews guided by 39 senior reviewers, who gave them feedback and advice throughout the reviewing process. The program was a success with lots of discussion behind the scenes, and we're excited to renew the program this year.
-
-If you would like to sign up, or recommend somebody, to be either a junior or senior reviewer, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfAWp5swQk0fFP_QN9Agv5WlMWqmoVrP53ygmxLMKpuajjBVQ/viewform?usp=sf_link) by 22 September 2022.
-
-Additionally, all submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can, of course, be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
-
-
-
 <!--
 ## Accepted Papers ##
 
