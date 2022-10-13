@@ -1,6 +1,6 @@
 ---
 title: Workshop on Meta-Learning (MetaLearn 2022)
-description: "@NeurIPS 2022 <br> 2nd and 3rd December 2022 <br> (Hybrid)"
+description: "@NeurIPS 2022 <br> 2nd December 2022 <br> (Hybrid)"
 permalink: /2022/index.html
 weight: -1
 redirect_from: /2022/
@@ -56,7 +56,7 @@ TBA
 
 ### Important Dates
 
-- Submission deadline: [October 1st, 2022, 11:59 PM AoE](https://www.timeanddate.com/worldclock/fixedtime.html?msg=MetaLearn%40NeurIPS+2021+Submission+Deadline&iso=20210929T235959&p1=3926)
+- Submission deadline: [October 3rd, 2022, 17:00 CEST]
 - Author Notification: October 20th, 2022, AoE
 - Camera-ready submission (paper + poster) to OpenReview: November 3rd, 2021, AoE
 
@@ -98,14 +98,11 @@ tl;dr: The review process will be **double-blind**. Please sign up to be, or rec
 
 ### Important Dates
 
-- Reviewer signup deadline: September 22nd, 2022, AoE
-- Assignments of reviewers to papers (start of review phase): September 29th, 2022
-- Active discussion between junior & senior reviewers: September 29th to October 13th, 2022
-- First draft of review by junior reviewers: October 8th, 2022
-- **Final reviewing deadline**: October 13th, 2022, AoE
+- Assignments of reviewers to papers (start of review phase): October 4th, 2022
+- **Final reviewing deadline**: October 18th, 2022, AoE
 
 ### Reviewing Guidelines
-We encourage all reviewers, both junior and senior, to check [our reviewing guidelines](https://docs.google.com/document/d/1vRdY8e2ttALw_kzxviejrhkVkiJlJ7YiS3yGm9jykB0/edit). 
+We encourage all reviewers to check [our reviewing guidelines](https://docs.google.com/document/d/1vRdY8e2ttALw_kzxviejrhkVkiJlJ7YiS3yGm9jykB0/edit). 
 
 <!--
 ## Accepted Papers ##
