@@ -197,8 +197,7 @@ Yue Tan,
 Yuhong Li, 
 Yuhui Zhang, 
 Zhenmei Shi, 
-Zhepeng Wang, 
-Yuxin Tang, 
+Zhepeng Wang
 
 
 ## Past Workshops
