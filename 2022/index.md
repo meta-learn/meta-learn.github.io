@@ -12,7 +12,7 @@ Recent years have seen rapid progress in meta-learning methods, which transfer k
 
 Some of the fundamental questions that this workshop aims to address are:
 
-- What are the meta-learning processes in nature (\emph{e.g.}, in humans), and how can we take inspiration from them?
+- What are the meta-learning processes in nature (e.g., in humans), and how can we take inspiration from them?
 - What is the relationship between meta-learning, continual learning, and transfer learning?
 - What interactions exist between meta-learning and large pretrained / foundation models? 
 - What principles can we learn from meta-learning to help us design the next generation of learning systems?
@@ -55,9 +55,10 @@ TBA
 
 ### Important Dates
 
-- Submission deadline: [October 3rd, 2022, 17:00 CEST]
+- Submission deadline: October 3rd, 2022, 17:00 CEST
 - Author Notification: October 20th, 2022, AoE
-- Camera-ready submission (paper + poster) to OpenReview: November 3rd, 2021, AoE
+- Camera-ready paper submission + recording deadline: November 10th, 2022, AoE
+- Poster submission deadline: November 25th, 2022, AoE
 
 ### Formatting
 
@@ -115,90 +116,87 @@ We encourage all reviewers to check [our reviewing guidelines](https://docs.goog
 
 We thank the program committee (senior and junior reviewers) for shaping the excellent technical program; they are (in alphabetical order):
 
-Daniel Hernández-Lobato, 
-Kate Rakelly, 
 Aaron Klein, 
 Abhishek Gupta, 
+Alexander Tornede, 
 Ana Carolina Lorena, 
 Andre Carlos Ponce de Leon Ferreira De Carvalho, 
 Andrei Alex Rusu, 
 Ang Li, 
+Aniruddh Raghu,
 Ashvin Nair, 
 Benjamin Eysenbach, 
-Bradly C. Stadie, 
-Daniel Hernández-Lobato, 
+Bingjun Li,
+Boris Knyazev,
+Bradly C. Stadie,
+Chunhui Zhang,
+Cuong Quoc Nguyen,
+Da Kuang,
+Daniel Hernández-Lobato,
 Eleni Triantafillou, 
-Huaxiu Yao, 
+Erin Grant,
+Haoyu Wang,
+Haozhu Wang,
+Huaxiu Yao,  
 Ishita Dasgupta, 
 Jake Snell, 
+Jasmin Bogatinovski, 
 Jiajun Wu, 
+Jiani Huang, 
+Jiaqi Wang, 
+John Willes, 
+Kate Rakelly, 
 Lars Kotthoff, 
+Lazar Atanackovic, 
+Li Zhong, 
+Lin Qiu, 
+Louis Kirsch,
 Marc Pickett, 
 Massimiliano Patacchiola, 
 Matthias Feurer, 
 Maximilian Igl, 
 Mehrtash Harandi, 
 Mengye Ren, 
-Parminder Bhatia, 
-Parsa Mahmoudieh, 
-Piotr W Mirowski, 
-Randal S. Olson, 
-Sungryull Sohn, 
-Thomas Elsken, 
-Udayan Khurana, 
-Ying Wei, 
-Bingjun Li,
-Chunhui Zhang, 
-Li Zhong, 
-Minxue Jia, 
-Muchao Ye, 
-Shixun Wu, 
-Tingfeng Li, 
-Haoyu Wang, 
-Weiran Lin, 
-Xueying Ding, 
-Yao Su, 
-Yuxin Tang, 
-Zuhui Wang, 
-Alexander Tornede, 
-Aniruddh Raghu, 
-Boris Knyazev, 
-Cuong Quoc Nguyen, 
-Da Kuang, 
-Erin Grant,
-Haoyu Wang, 
-Haozhu Wang, 
-Jasmin Bogatinovski, 
-Jiani Huang, 
-Jiaqi Wang, 
-John Willes, 
-Lazar Atanackovic, 
-Lin Qiu, 
-Louis Kirsch, 
 Micah Goldblum, 
 Mihai Suteu, 
-Mikhail Mekhedkin Meskhi, 
+Mikhail Mekhedkin Meskhi,
+Minxue Jia, 
+Muchao Ye, 
 M. Taha Toghani, 
 Ondrej Bohdal, 
+Parminder Bhatia, 
+Parsa Mahmoudieh, 
 Philip Fradkin, 
+Piotr W Mirowski, 
 Praneet Dutta, 
 Quentin Bouniot,
+Randal S. Olson, 
 Sharare Zehtabian, 
 Shengpu Tang, 
 Shibo Li, 
-Sihong He, 
+Shixun Wu,
+Sihong He,
 Sreejan Kumar, 
+Sungryull Sohn,
+Thomas Elsken, 
 Tian Xia, 
-Weihao Song, 
-Yawen Wu, 
+Tingfeng Li,
+Udayan Khurana,
+Weihao Song,
+Weiran Lin, 
+Xueying Ding, 
+Yao Su, 
+Yawen Wu,
 Yihao Xue, 
-Yu-Xiong Wang, 
+Ying Wei, 
 Yue Tan, 
 Yuhong Li, 
-Yuhui Zhang, 
+Yuhui Zhang,
+Yuxin Tang, 
+Yu-Xiong Wang,  
 Zhenmei Shi, 
-Zhepeng Wang
-
+Zhepeng Wang and
+Zuhui Wang.
 
 ## Past Workshops
 
