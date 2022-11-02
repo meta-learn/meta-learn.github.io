@@ -57,7 +57,8 @@ TBA
 
 - Submission deadline: October 3rd, 2022, 17:00 CEST
 - Author Notification: October 20th, 2022, AoE
-- Camera-ready paper submission + recording deadline: November 10th, 2022, AoE
+- SlidesLive recording deadline: November 10th, 2022, AoE
+- Camera-ready paper submission deadline: November 20th, 2022, AoE
 - Poster submission deadline: November 25th, 2022, AoE
 
 ### Formatting
