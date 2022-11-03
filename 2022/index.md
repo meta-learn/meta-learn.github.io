@@ -49,7 +49,7 @@ TBA
 
 ## Accepted Papers
 
-Papers accepted to the workshop (sorted in ascending order of submission id). Links will work after the CRC deadline on Nov 20th.
+Papers accepted to the workshop (sorted in ascending order of submission id). Links will be accessible only after the CRC deadline on Nov 20th.
 
 - [HARRIS: Hybrid Ranking and Regression Forests for Algorithm Selection](https://openreview.net/forum?id=Rj6hpOeTyL)
 - [Interpolating Compressed Parameter Subspaces](https://openreview.net/forum?id=Zb9m4idh8I)
@@ -68,34 +68,34 @@ Papers accepted to the workshop (sorted in ascending order of submission id). Li
 - [Meta-Learning via Classifier(-free) Guidance](https://openreview.net/forum?id=fY5xpJszW2-)
 - [Neural Architecture for Online Ensemble Continual Learning](https://openreview.net/forum?id=TLsUITLdKKe)
 - [Meta-RL for Multi-Agent RL: Learning to Adapt to Evolving Agents](https://openreview.net/forum?id=0toY1f8-Iq9)
-- Lightweight Prompt Learning with General Representation for Rehearsal-free Continual Learning
-- Uncertainty-Aware Meta-Learning for Multimodal Task Distributions
-- Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning
-- Multi-objective Tree-structured Parzen Estimator Meets Meta-learning
-- Few-Shot Calibration of Set Predictors via Meta-Learned Cross-Validation-Based Conformal Prediction
-- On the Importance of Architectures and Hyperparameters for Fairness in Face Recognition
-- HyperSound: Generating Implicit Neural Representations of Audio Signals with Hypernetworks
-- Towards Discovering Neural Architectures from Scratch
-- The Curse of Low Task Diversity: On the Failure of Transfer Learning to Outperform MAML and Their Empirical Equivalence
-- PriorBand: HyperBand + Human Expert Knowledge
-- Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning
-- GraViT-E: Gradient-based Vision Transformer Search with Entangled Weights
-- Learning to Prioritize Planning Updates in Model-based Reinforcement Learning
-- One-Shot Optimal Design for Gaussian Process Analysis of Randomized Experiments
-- Towards Automated Design of Bayesian Optimization via Exploratory Landscape Analysis
-- Recommendation for New Drugs with Limited Prescription Data
-- Bayesian Optimization with a Neural Network Meta-learned on Synthetic Data Only
-- PersA-FL: Personalized Asynchronous Federated Learning
-- AutoRL-Bench 1.0
-- Gray-Box Gaussian Processes for  Automated Reinforcement Learning
-- Transfer NAS with Meta-learned Bayesian Surrogates
-- Optimistic Meta-Gradients
-- Achieving a Better Stability-Plasticity Trade-off via Auxiliary Networks in Continual Learning
-- Adversarial Cheap Talk
-- Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks
-- Meta-Learning Makes a Better Multimodal Few-shot Learner
-- Test-time adaptation with slot-centric models
-- LOTUS: Learning to learn with Optimal Transport in Unsupervised Scenarios
+- [Lightweight Prompt Learning with General Representation for Rehearsal-free Continual Learning](https://openreview.net/forum?id=tevIAG099w7)
+- [Uncertainty-Aware Meta-Learning for Multimodal Task Distributions](https://openreview.net/forum?id=vwVUH6uSIpK)
+- [Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning](https://openreview.net/forum?id=i0Fgim2tB0i)
+- [Multi-objective Tree-structured Parzen Estimator Meets Meta-learning](https://openreview.net/forum?id=vBcKu0UL3A9)
+- [Few-Shot Calibration of Set Predictors via Meta-Learned Cross-Validation-Based Conformal Prediction](https://openreview.net/forum?id=S0ItikPStJy)
+- [On the Importance of Architectures and Hyperparameters for Fairness in Face Recognition](https://openreview.net/forum?id=geTXQoibWcI)
+- [HyperSound: Generating Implicit Neural Representations of Audio Signals with Hypernetworks](https://openreview.net/forum?id=eQ6qtdNBumQ)
+- [Towards Discovering Neural Architectures from Scratch](https://openreview.net/forum?id=Ok58hMNXIQ)
+- [The Curse of Low Task Diversity: On the Failure of Transfer Learning to Outperform MAML and Their Empirical Equivalence](https://openreview.net/forum?id=Z75fwzPdty)
+- [PriorBand: HyperBand + Human Expert Knowledge](https://openreview.net/forum?id=ds21dwfBBH)
+- [Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning](https://openreview.net/forum?id=_9Br06CLJB)
+- [GraViT-E: Gradient-based Vision Transformer Search with Entangled Weights](https://openreview.net/forum?id=dm8WcWiuvd)
+- [Learning to Prioritize Planning Updates in Model-based Reinforcement Learning](https://openreview.net/forum?id=uR7ePjeB6z)
+- [One-Shot Optimal Design for Gaussian Process Analysis of Randomized Experiments](https://openreview.net/forum?id=FAcfILpleA)
+- [Towards Automated Design of Bayesian Optimization via Exploratory Landscape Analysis](https://openreview.net/forum?id=cmxtTF_IHd)
+- [Recommendation for New Drugs with Limited Prescription Data](https://openreview.net/forum?id=AKxzQc9uTV)
+- [Bayesian Optimization with a Neural Network Meta-learned on Synthetic Data Only](https://openreview.net/forum?id=9xCudkMSkC)
+- [PersA-FL: Personalized Asynchronous Federated Learning](https://openreview.net/forum?id=gnVFs9pt2e)
+- [AutoRL-Bench 1.0](https://openreview.net/forum?id=RyAl60VhTcG)
+- [Gray-Box Gaussian Processes for  Automated Reinforcement Learning](https://openreview.net/forum?id=oJp7uTL7ox-)
+- [Transfer NAS with Meta-learned Bayesian Surrogates](https://openreview.net/forum?id=fqKBtyLqikY)
+- [Optimistic Meta-Gradients](https://openreview.net/forum?id=mrhnstiuke2)
+- [Achieving a Better Stability-Plasticity Trade-off via Auxiliary Networks in Continual Learning](https://openreview.net/forum?id=LHzkFMv-dmV)
+- [Adversarial Cheap Talk](https://openreview.net/forum?id=VE6FEZc0ppH)
+- [Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks](https://openreview.net/forum?id=VQpqxucNX63)
+- [Meta-Learning Makes a Better Multimodal Few-shot Learner](https://openreview.net/forum?id=7HPmTa_FdY)
+- [Test-time adaptation with slot-centric models](https://openreview.net/forum?id=b8F8xz6_DuX)
+- [LOTUS: Learning to learn with Optimal Transport in Unsupervised Scenarios](https://openreview.net/forum?id=GxMWnOKipJk)
 
 
 ## Program
