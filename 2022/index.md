@@ -85,17 +85,17 @@ Papers accepted to the workshop (sorted in ascending order of submission id). Li
 - [Towards Automated Design of Bayesian Optimization via Exploratory Landscape Analysis](https://openreview.net/forum?id=cmxtTF_IHd), Carolin Benjamins, Anja Jankovic, Elena Raponi, Koen van der Blom, Marius Lindauer, Carola Doerr
 - [Recommendation for New Drugs with Limited Prescription Data](https://openreview.net/forum?id=AKxzQc9uTV), Zhenbang Wu, Huaxiu Yao, Zhe Su, David Liebovitz, Lucas M Glass, James Zou, Chelsea Finn, Jimeng Sun
 - [Bayesian Optimization with a Neural Network Meta-learned on Synthetic Data Only](https://openreview.net/forum?id=9xCudkMSkC), Samuel Müller, Sebastian Pineda Arango, Matthias Feurer, Josif Grabocka, Frank Hutter
-- [PersA-FL: Personalized Asynchronous Federated Learning](https://openreview.net/forum?id=gnVFs9pt2e)
-- [AutoRL-Bench 1.0](https://openreview.net/forum?id=RyAl60VhTcG)
-- [Gray-Box Gaussian Processes for  Automated Reinforcement Learning](https://openreview.net/forum?id=oJp7uTL7ox-)
-- [Transfer NAS with Meta-learned Bayesian Surrogates](https://openreview.net/forum?id=fqKBtyLqikY)
-- [Optimistic Meta-Gradients](https://openreview.net/forum?id=mrhnstiuke2)
-- [Achieving a Better Stability-Plasticity Trade-off via Auxiliary Networks in Continual Learning](https://openreview.net/forum?id=LHzkFMv-dmV)
-- [Adversarial Cheap Talk](https://openreview.net/forum?id=VE6FEZc0ppH)
-- [Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks](https://openreview.net/forum?id=VQpqxucNX63)
-- [Meta-Learning Makes a Better Multimodal Few-shot Learner](https://openreview.net/forum?id=7HPmTa_FdY)
-- [Test-time adaptation with slot-centric models](https://openreview.net/forum?id=b8F8xz6_DuX)
-- [LOTUS: Learning to learn with Optimal Transport in Unsupervised Scenarios](https://openreview.net/forum?id=GxMWnOKipJk)
+- [PersA-FL: Personalized Asynchronous Federated Learning](https://openreview.net/forum?id=gnVFs9pt2e), M. Taha Toghani, Soomin Lee, Cesar A Uribe
+- [AutoRL-Bench 1.0](https://openreview.net/forum?id=RyAl60VhTcG), Gresa Shala, Sebastian Pineda Arango, André Biedenkapp, Frank Hutter, Josif Grabocka
+- [Gray-Box Gaussian Processes for  Automated Reinforcement Learning](https://openreview.net/forum?id=oJp7uTL7ox-), Gresa Shala, André Biedenkapp, Frank Hutter, Josif Grabocka
+- [Transfer NAS with Meta-learned Bayesian Surrogates](https://openreview.net/forum?id=fqKBtyLqikY), Gresa Shala, Thomas Elsken, Frank Hutter, Josif Grabocka
+- [Optimistic Meta-Gradients](https://openreview.net/forum?id=mrhnstiuke2), Sebastian Flennerhag, Tom Zahavy, Brendan O'Donoghue, Hado van Hasselt, András György, Satinder Singh
+- [Achieving a Better Stability-Plasticity Trade-off via Auxiliary Networks in Continual Learning](https://openreview.net/forum?id=LHzkFMv-dmV), Sanghwan Kim, Lorenzo Noci, Antonio Orvieto, Thomas Hofmann
+- [Adversarial Cheap Talk](https://openreview.net/forum?id=VE6FEZc0ppH), Chris Lu, Timon Willi, Alistair Letcher, Jakob Nicolaus Foerster
+- [Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks](https://openreview.net/forum?id=VQpqxucNX63), Steven Adriaensen, Herilalaina Rakotoarison, Samuel Müller, Frank Hutter
+- [Meta-Learning Makes a Better Multimodal Few-shot Learner](https://openreview.net/forum?id=7HPmTa_FdY), Ivona Najdenkoska, Xiantong Zhen, Marcel Worring
+- [Test-time adaptation with slot-centric models](https://openreview.net/forum?id=b8F8xz6_DuX), Mihir Prabhudesai, Sujoy Paul, Sjoerd van Steenkiste, Mehdi S. M. Sajjadi, Anirudh Goyal, Deepak Pathak, Katerina Fragkiadaki, Gaurav Aggarwal, Thomas Kipf
+- [LOTUS: Learning to learn with Optimal Transport in Unsupervised Scenarios](https://openreview.net/forum?id=GxMWnOKipJk), Prabhant Singh, Joaquin Vanschoren
 
 
 ## Program
