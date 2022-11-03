@@ -47,6 +47,57 @@ TBA
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
 - [Huaxiu Yao](https://huaxiuyao.mystrikingly.com/) (Stanford)
 
+## Accepted Papers
+
+Papers accepted to the workshop (sorted in ascending order of submission id). Links will work after the CRC deadline on Nov 20th.
+
+- [HARRIS: Hybrid Ranking and Regression Forests for Algorithm Selection](https://openreview.net/forum?id=Rj6hpOeTyL)
+- [Interpolating Compressed Parameter Subspaces](https://openreview.net/forum?id=Zb9m4idh8I)
+- [Multiple Modes for Continual Learning](https://openreview.net/forum?id=r0EQ0nJRpp)
+- [Topological Continual Learning with Wasserstein Distance and Barycenter](https://openreview.net/forum?id=KadONYTsEv)
+- [FiT: Parameter Efficient Few-shot Transfer Learning](https://openreview.net/forum?id=F3N4XrLCCm)
+- [Betty: An Automatic Differentiation Library for Multilevel Optimization](https://openreview.net/forum?id=v-aZuDOqQIQ)
+- [Meta-Learning General-Purpose Learning Algorithms with Transformers](https://openreview.net/forum?id=t6tA-KB4dO)
+- [Conditional Neural Processes for Molecules](https://openreview.net/forum?id=R1VFXrmVRq)
+- [Contextual Squeeze-and-Excitation](https://openreview.net/forum?id=0KTEHivEy1)
+- [Meta-learning of Black-box Solvers Using Deep Reinforcement Learning](https://openreview.net/forum?id=9pO8hSVu0J)
+- [Efficient Queries Transformer Neural Processes](https://openreview.net/forum?id=_3FyT_W1DW)
+- [GramML: Exploring Context-Free Grammars with Model-Free Reinforcement Learning](https://openreview.net/forum?id=OpdayUqlTG)
+- [Debiasing Meta-Gradient Reinforcement Learning by Learning the Outer Value Function](https://openreview.net/forum?id=HFVmkIRJ4J)
+- [MARS: Meta-learning as score matching in the function space](https://openreview.net/forum?id=hV0YobaZ0xp)
+- [Meta-Learning via Classifier(-free) Guidance](https://openreview.net/forum?id=fY5xpJszW2-)
+- [Neural Architecture for Online Ensemble Continual Learning](https://openreview.net/forum?id=TLsUITLdKKe)
+- [Meta-RL for Multi-Agent RL: Learning to Adapt to Evolving Agents](https://openreview.net/forum?id=0toY1f8-Iq9)
+- Lightweight Prompt Learning with General Representation for Rehearsal-free Continual Learning
+- Uncertainty-Aware Meta-Learning for Multimodal Task Distributions
+- Unsupervised Meta-learning via Few-shot Pseudo-supervised Contrastive Learning
+- Multi-objective Tree-structured Parzen Estimator Meets Meta-learning
+- Few-Shot Calibration of Set Predictors via Meta-Learned Cross-Validation-Based Conformal Prediction
+- On the Importance of Architectures and Hyperparameters for Fairness in Face Recognition
+- HyperSound: Generating Implicit Neural Representations of Audio Signals with Hypernetworks
+- Towards Discovering Neural Architectures from Scratch
+- The Curse of Low Task Diversity: On the Failure of Transfer Learning to Outperform MAML and Their Empirical Equivalence
+- PriorBand: HyperBand + Human Expert Knowledge
+- Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning
+- GraViT-E: Gradient-based Vision Transformer Search with Entangled Weights
+- Learning to Prioritize Planning Updates in Model-based Reinforcement Learning
+- One-Shot Optimal Design for Gaussian Process Analysis of Randomized Experiments
+- Towards Automated Design of Bayesian Optimization via Exploratory Landscape Analysis
+- Recommendation for New Drugs with Limited Prescription Data
+- Bayesian Optimization with a Neural Network Meta-learned on Synthetic Data Only
+- PersA-FL: Personalized Asynchronous Federated Learning
+- AutoRL-Bench 1.0
+- Gray-Box Gaussian Processes for  Automated Reinforcement Learning
+- Transfer NAS with Meta-learned Bayesian Surrogates
+- Optimistic Meta-Gradients
+- Achieving a Better Stability-Plasticity Trade-off via Auxiliary Networks in Continual Learning
+- Adversarial Cheap Talk
+- Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks
+- Meta-Learning Makes a Better Multimodal Few-shot Learner
+- Test-time adaptation with slot-centric models
+- LOTUS: Learning to learn with Optimal Transport in Unsupervised Scenarios
+
+
 ## Program
 
 ### Schedule
