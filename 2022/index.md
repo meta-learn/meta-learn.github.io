@@ -1,6 +1,6 @@
 ---
 title: Workshop on Meta-Learning (MetaLearn 2022)
-description: "@NeurIPS 2022 <br> 2nd (in-person) Dec 2022 <br> 9th (virtual) Dec 2022"
+description: "@NeurIPS 2022 <br> Hybrid Workshop <br> In-person: Dec 2, 2022 <br> Virtual: Dec 9, 2022"
 permalink: /2022/index.html
 weight: -1
 redirect_from: /2022/
