@@ -25,8 +25,13 @@ As prospective participants, we primarily target machine learning researchers in
 ### Invited Speakers
 
 <!-- Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAmoi6eEA).  -->
-
-TBA
+(alphabetic order)
+- [Lucas Beyer](https://scholar.google.com/citations?user=p2gwhK4AAAAJ&hl=fr) (Google Brain) 
+- [Chelsea Finn](https://ai.stanford.edu/~cbfinn/) (Stanford University)
+- [Elena Gribovskaya](https://scholar.google.com/citations?user=xKQ4o2QAAAAJ&hl=en) (DeepMind)
+- [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
+- [Mengye Ren](https://mengyeren.com/) (New York University)
+- [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/) (Microsoft Research)
 
 <!--
 ## Spotlights
@@ -40,7 +45,7 @@ TBA
 -->
 
 ### Organizers
-
+(alphabetic order)
 - [Fábio Ferreira](https://ml.informatik.uni-freiburg.de/people/ferreira/index.html) (Freiburg University)
 - [Qi Lei](https://cecilialeiqi.github.io/) (Princeton University)
 - [Eleni Triantafillou](https://www.cs.toronto.edu/~eleni/) (Google Brain)
