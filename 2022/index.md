@@ -26,12 +26,14 @@ As prospective participants, we primarily target machine learning researchers in
 
 <!-- Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAmoi6eEA).  -->
 (alphabetic order)
-- [Lucas Beyer](https://scholar.google.com/citations?user=p2gwhK4AAAAJ&hl=fr) (Google Brain) 
-- [Chelsea Finn](https://ai.stanford.edu/~cbfinn/) (Stanford University)
-- [Elena Gribovskaya](https://scholar.google.com/citations?user=xKQ4o2QAAAAJ&hl=en) (DeepMind)
-- [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University)
-- [Mengye Ren](https://mengyeren.com/) (New York University)
-- [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/) (Microsoft Research)
+- [Lucas Beyer](https://scholar.google.com/citations?user=p2gwhK4AAAAJ&hl=fr) (Google Brain): "Large-scale pre-training and transfer learning"
+- [Chelsea Finn](https://ai.stanford.edu/~cbfinn/) (Stanford University): "Meta-Reinforcement Learning: Algorithms and Applications"
+- [Elena Gribovskaya](https://scholar.google.com/citations?user=xKQ4o2QAAAAJ&hl=en) (DeepMind): "Retrieval augmentation and in-context learning for fast adaptation to new tasks"
+- [Percy Liang](https://cs.stanford.edu/~pliang/) (Stanford University): "Understanding In-Context Learning in Simple Models"
+- [Mengye Ren](https://mengyeren.com/) (New York University): "Meta-learning within a lifetime"
+- [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/) (Microsoft Research): "Transferring insights from small to large models without learning"
+
+For the abstracts of the invited speaker talks, please see [this document](https://docs.google.com/document/d/1IQY5XQm0rdUROaa21KqjXTHpbehbBxdeM6l5PSJ0s1U/edit?usp=sharing)
 
 <!--
 ## Spotlights
@@ -108,16 +110,6 @@ Papers accepted to the workshop (sorted in ascending order of submission id). Li
 ### Schedule
 
 TBA
-
-#### Invited Speaker Talks
-- Mengye Ren: "Meta-learning within a lifetime"
-- Lucas Beyer: "Large-scale pre-training and transfer learning"
-- Elena Gribovskaya: "Retrieval augmentation and in-context learning for fast adaptation to new tasks"
-- Chelsea Finn: "Meta-Reinforcement Learning: Algorithms and Applications"
-- Greg Yang: "Transferring insights from small to large models without learning"
-- Percy Liang: "Understanding In-Context Learning in Simple Models"
-
-For the abstracts of the invited speaker talks, please see [this document](https://docs.google.com/document/d/1IQY5XQm0rdUROaa21KqjXTHpbehbBxdeM6l5PSJ0s1U/edit?usp=sharing)
 
 ### Important Dates
 
