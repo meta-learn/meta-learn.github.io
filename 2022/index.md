@@ -109,6 +109,16 @@ Papers accepted to the workshop (sorted in ascending order of submission id). Li
 
 TBA
 
+#### Invited Speaker Talks
+- Mengye Ren: "Meta-learning within a lifetime"
+- Lucas Beyer: "Large-scale pre-training and transfer learning"
+- Elena Gribovskaya: "Retrieval augmentation and in-context learning for fast adaptation to new tasks"
+- Chelsea Finn: "Meta-Reinforcement Learning: Algorithms and Applications"
+- Greg Yang: "Transferring insights from small to large models without learning"
+- Percy Liang: "Understanding In-Context Learning in Simple Models"
+
+For the abstracts of the invited speaker talks, please see [this document](https://docs.google.com/document/d/1IQY5XQm0rdUROaa21KqjXTHpbehbBxdeM6l5PSJ0s1U/edit?usp=sharing)
+
 ### Important Dates
 
 - Submission deadline: October 3rd, 2022, 17:00 CEST
