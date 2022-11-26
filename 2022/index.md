@@ -64,7 +64,7 @@ Papers accepted to the workshop (sorted in ascending order of submission id). Li
 - [Topological Continual Learning with Wasserstein Distance and Barycenter](https://openreview.net/forum?id=KadONYTsEv); Tananun Songdechakraiwut, Xiaoshuang Yin, Barry D Van Veen
 - [FiT: Parameter Efficient Few-shot Transfer Learning](https://openreview.net/forum?id=F3N4XrLCCm); Aliaksandra Shysheya, John F Bronskill, Massimiliano Patacchiola, Sebastian Nowozin Richard E Turner
 - [Betty: An Automatic Differentiation Library for Multilevel Optimization](https://openreview.net/forum?id=v-aZuDOqQIQ); Sang Keun Choe, Willie Neiswanger, Pengtao Xie, Eric Xing
-- [Meta-Learning General-Purpose Learning Algorithms with Transformers](https://openreview.net/forum?id=t6tA-KB4dO); Louis Kirsch, Luke Metz, James Harrison, Jascha Sohl-Dickstein
+- [General-Purpose In-Context Learning by Meta-Learning Transformers](https://openreview.net/forum?id=t6tA-KB4dO); Louis Kirsch, Luke Metz, James Harrison, Jascha Sohl-Dickstein
 - [Conditional Neural Processes for Molecules](https://openreview.net/forum?id=R1VFXrmVRq); Miguel Garcia Ortegon, Andreas Bender, Sergio Bacallado
 - [Contextual Squeeze-and-Excitation](https://openreview.net/forum?id=0KTEHivEy1); Massimiliano Patacchiola, John F Bronskill, Aliaksandra Shysheya, Katja Hofmann, Sebastian Nowozin, Richard E Turner
 - [Meta-learning of Black-box Solvers Using Deep Reinforcement Learning](https://openreview.net/forum?id=9pO8hSVu0J); Cedric Malherbe, Aladin Virmaux, Ludovic Dos Santos, Sofian Chaybouti
