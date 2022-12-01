@@ -109,7 +109,29 @@ Papers accepted to the workshop (sorted in ascending order of submission id). Li
 
 ### Schedule
 
-TBA
+
+| Time          | Title           |
+| :------------ | :-------------- |
+|         09:00 | Opening Remarks |
+|         09:10 | Invited Talk: Mengye Ren |
+|         09:40 | Invited Talk: Lucas Beyer |
+|         10:10 | Contributed Talk 1: Parameter Efficient Few-shot Transfer Learning |
+|         10:25 | Lightning Talks  |
+|         10:40 | Poster Session 1  |
+|         11:40 | Contributed Talk 2: Optimistic Meta-Gradients|
+|         11:55 | Invited Talk: Elena Gribovskaya |
+|         12:25 | Lunch Break |
+|         14:00 | Invited Talk: Chelsea Finn |
+|         14:30 | Invited Talk: Greg Yang |
+|         15:00 | Contributed Talk 3: The Curse of Low Task Diversity: On the Failure of Transfer Learning to Outperform MAML and Their Empirical Equivalence |
+|         15:15 | Poster Session 2 |
+|         16:15 | Contributed Talk 4: HyperSound: Generating Implicit Neural Representations of Audio Signals with Hypernetworks |
+|         16:30 | Invited talk: Percy Liang |
+|         17:00 | Discussion Panel |
+|         17:50 | Closing Remarks |
+
+
+
 
 ### Important Dates
 
