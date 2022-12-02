@@ -56,7 +56,9 @@ For the abstracts of the invited speaker talks, please see [this document](https
 
 ## Accepted Papers
 
-Papers accepted to the workshop (sorted in ascending order of submission id). Links will be accessible only after the CRC deadline on Nov 20th.
+Papers accepted to the workshop (sorted in ascending order of submission id).
+
+### Poster session 1
 
 - [HARRIS: Hybrid Ranking and Regression Forests for Algorithm Selection](https://openreview.net/forum?id=Rj6hpOeTyL); Lukas Fehring, Jonas Hanselle, Alexander Tornede
 - [Interpolating Compressed Parameter Subspaces](https://openreview.net/forum?id=Zb9m4idh8I); Siddhartha Datta, Nigel Shadbolt
@@ -81,6 +83,9 @@ Papers accepted to the workshop (sorted in ascending order of submission id). Li
 - [Multi-objective Tree-structured Parzen Estimator Meets Meta-learning](https://openreview.net/forum?id=vBcKu0UL3A9); Shuhei Watanabe, Noor Awad, Masaki Onishi, Frank Hutter
 - [Few-Shot Calibration of Set Predictors via Meta-Learned Cross-Validation-Based Conformal Prediction](https://openreview.net/forum?id=S0ItikPStJy); Sangwoo Park, Kfir M. Cohen, Osvaldo Simeone
 - [On the Importance of Architectures and Hyperparameters for Fairness in Face Recognition](https://openreview.net/forum?id=geTXQoibWcI); Samuel Dooley, Rhea Sanjay Sukthanker, John P Dickerson, Colin White, Frank Hutter, Micah Goldblum
+
+### Poster session 2
+
 - [HyperSound: Generating Implicit Neural Representations of Audio Signals with Hypernetworks](https://openreview.net/forum?id=eQ6qtdNBumQ); Filip Szatkowski, Karol J. Piczak, Przemysław Spurek, Jacek Tabor, Tomasz Trzcinski
 - [Towards Discovering Neural Architectures from Scratch](https://openreview.net/forum?id=Ok58hMNXIQ); Simon Schrodi, Danny Stoll, Binxin Ru, Rhea Sanjay Sukthanker, Thomas Brox, Frank Hutter
 - [The Curse of Low Task Diversity: On the Failure of Transfer Learning to Outperform MAML and Their Empirical Equivalence](https://openreview.net/forum?id=Z75fwzPdty); Brando Miranda, Patrick Yu, Yu-Xiong Wang, Oluwasanmi O Koyejo
