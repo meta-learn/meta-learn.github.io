@@ -116,7 +116,7 @@ Papers accepted to the workshop (sorted in ascending order of submission id). Li
 |         09:10 | Invited Talk: Mengye Ren |
 |         09:40 | Invited Talk: Lucas Beyer |
 |         10:10 | Contributed Talk 1: Parameter Efficient Few-shot Transfer Learning |
-|         10:25 | Lightning Talks  |
+|         10:25 | Break  |
 |         10:40 | Poster Session 1  |
 |         11:40 | Contributed Talk 2: Optimistic Meta-Gradients|
 |         11:55 | Invited Talk: Elena Gribovskaya |
