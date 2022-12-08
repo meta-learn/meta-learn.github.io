@@ -112,7 +112,18 @@ Papers accepted to the workshop (sorted in ascending order of submission id).
 
 ## Program
 
-### Schedule
+### Schedule for Virtual day (December 9th)
+
+We will hold two additional virtual poster sessions, shown in the schedule below for the virtual day.
+Please see the above section for info on how the papers are divided into these two sections.
+The times below are in GMT+1.
+
+| Time          | Title           |
+| :------------ | :-------------- |
+|         17:00-18:00 | Poster session 1 [GatherTown link](https://app.gather.town/invite?token=K7RqTvRmT3-qy7PZHBSo) |
+|         18:00-19:00 | Poster session 2 [GatherTown link](https://app.gather.town/invite?token=K7RqTvRmT3-qy7PZHBSo) |
+
+### Schedule for in-person day (December 2nd)
 
 
 | Time          | Title           |
